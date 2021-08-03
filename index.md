@@ -10,9 +10,13 @@ This website has been developed as a companion to the Consensys Blockchain Devel
 By Following the Companion,  learners will need to show evidence of:
 
 1.Describe Blockchain primitives and basics and give examples for their usage.
+
 2.Prepare and demonstrate setting up a development environment for Ethereum.
+
 3.Compose basic Smart contracts and their tests and deploy them in a test environment.
+
 4.Produce an evaluation of common security issues in smart contracts.
+
 5.Build, Deploy and showcase a decentralised application on Ethereum.
 
 Indicative Learner Workload:
