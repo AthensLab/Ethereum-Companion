@@ -19,12 +19,8 @@ By Following the Companion,  learners will need to show evidence of:
 
 5.Build, Deploy and showcase a decentralised application on Ethereum.
 
-Indicative Learner Workload:
-Minimum 10 hours per week, with at least 4 hours per week hands-on practice.
-
-Recommended Learner Workload:
-20 hours per week, with 10 hours per week devoted to hands-on practice.
-5 hours per week, spent on theory, fundamentals and seminars.
+Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice. / Recommended Learner Workload:
+20 hours per week, with 10 hours per week devoted to hands-on practice. 5 hours per week, spent on theory, fundamentals and seminars.
 
 
 
