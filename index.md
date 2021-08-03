@@ -2,6 +2,42 @@
 
 This website has been developed as a companion to the Consensys Blockchain Developer Bootcamp and is designed as a series of structured links and content, that when followed over four months, will provide you with the basic knowledge to develop decentralised applications. 
 
+
+
+## Learning Outcomes
+
+
+By Following the Companion,  learners will need to show evidence of:
+
+1.Describe Blockchain primitives and basics and give examples for their usage.
+2.Prepare and demonstrate setting up a development environment for Ethereum.
+3.Compose basic Smart contracts and their tests and deploy them in a test environment.
+4.Produce an evaluation of common security issues in smart contracts.
+5.Build, Deploy and showcase a decentralised application on Ethereum.
+
+Indicative Learner Workload:
+Minimum 10 hours per week, with at least 4 hours per week hands-on practice.
+
+Recommended Learner Workload:
+20 hours per week, with 10 hours per week devoted to hands-on practice.
+5 hours per week, spent on theory, fundamentals and seminars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/AthensLab/Blockchain_Development_curriculum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
