@@ -24,7 +24,57 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
 
 
 
+## Tools for the developer
+Operating system
+Git, Github Desktop, Editor
+Consesys Basics: https://courses.consensys.net/courses/bootcamp-basic-training
 
+## Setting up a development environment 
+	Linux, Windows, MacOS
+	Options for Ethereum Nodes (personal, Infura)
+Deployment of a personal development environment.
+
+## Review of blockchain technologies 
+	Blockchain Context, Distributed Ledgers, Consensus Mechanisms, Mining & Staking, Public and Private Blockchains, Distributed Ledger Platforms, 
+
+
+## Blockchain Basics 
+	Cryptography, Cryptographic Hash functions, Using Cryptograpic Hash functions, Public Key Cryptography, Merkle Trees, Using Merkle Trees, Blockchain Structure, Building a Blockchain, Smart Contracts, Smart Contracts: Additional reading and sources, Blockchain nodes, Blockchain Forks, 
+
+## “Ethereum” Basics 
+	Accounts, Transactions, Gas, and Fees, Ethereum Structure, Externally Owned Accounts and Ethereum Transactions, Generating Ethereum Addresses, Elliptic Curve Cryptography, Mainnet and testiest
+	
+
+## Traditional and Decentralised application development 
+	Decentralised application development, Similarities and differences, Development setup, Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS ), Geth (and Staking Eth2 node), Connecting to a testnet, Setting up your own Ethereum private network.
+
+
+## Development frameworks and environment 
+	Introduction, Development Workflow- low level, Ganache CLI, Truffle, Structure of a truffle project, Ganache GUI.
+	Hardhat, setting up HardHat 
+
+## Solidity Fundamentals 
+	Data Types and Variables, Functions, Storage and Memory, Contract Structure, Reading Smart Contracts, Smart Contract Application Binary Interface, Events and Logs, Factory Contracts,
+
+## Writing Smart Contracts 
+	Introductory Smart Contracts, Inter-Contract Execution, Inheritance, Libraries and the Ethereum Package manager, Smart Contract system Design, Writing a Smart Contract - proof of existence, 
+Examples: Simple Bank, Supply Chain 
+The OpenZeppelin Libraries
+
+## Ethereum and the end User 
+	Web 3.0 Introduction, Web3.js Library, Ether.js Library, Connecting web3.js to a contract, Truffle Pet Shop Tutorial, Metamask, Integrating with React, Examples of Rimble use, Other web frameworks with smart contracts, Web3.py and Python interaction
+
+## Testing & Debugging 
+	Writing Tests, Catching Errors In Tests, Smart Contract Best Practices, Exploits, Gas Optimisation, Safety checklist, Security analysis, Transaction Origin attack Demo, DoS Example, Re-entrancy example, Integer under/overflow (until 0.7.0), 
+
+
+
+## Advanced Topics
+	IPFS, ENS (Ethereum Name Service), Upgradeable Contracts, Oracles, Formal Verification, Scaling Chains, Zero-Knowledge Proofs, Ethereum 2.0 
+Layer 2 Scaling, Ethereum 2.0
+
+## Additional Topics:
+	Ethereum Improvement Proposals, Vyper, 
 
 
 
