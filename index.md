@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the AthensLab Blockchain Developer Companion
+
+This website has been developed as a companion to the Consensys Blockchain Developer Bootcamp and is designed as a series of structured links and content, that when followed over four months, will provide you with the basic knowledge to develop decentralised applications. 
 
 You can use the [editor on GitHub](https://github.com/AthensLab/Blockchain_Development_curriculum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
