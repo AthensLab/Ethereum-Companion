@@ -7,7 +7,7 @@ This website has been developed as a companion to the Consensys Blockchain Devel
 ## Learning Outcomes
 
 
-By Following the Companion,  learners will need to show evidence of:
+By Following the Companion,  learners will be able to show evidence of:
 
 1.Describe Blockchain primitives and basics and give examples for their usage.
 
