@@ -66,7 +66,17 @@ https://ethereum.org/en/whitepaper/
 - Ethereum Yellow Paper
 	https://ethereum.github.io/yellowpaper/paper.pdf
 
-	-Accounts, Transactions, Gas, and Fees, Ethereum Structure, Externally Owned Accounts and Ethereum Transactions, Generating Ethereum Addresses, Elliptic Curve Cryptography, Mainnet and testnests, Sharding, Tokens and Token Standards,
+- Accounts,
+- Transactions,
+- Gas and Fees,
+- Ethereum Structure,
+- Externally Owned Accounts and Ethereum Transactions,
+- Generating Ethereum Addresses,
+- Elliptic Curve Cryptography,
+- Mainnet and testnests,
+- Sharding,
+- Tokens and Token Standards,
+
 
 
 ## Traditional and Decentralised application development
@@ -94,13 +104,14 @@ The OpenZeppelin Libraries
 ## Testing & Debugging
 	Writing Tests, Catching Errors In Tests, Smart Contract Best Practices, Exploits, Gas Optimisation, Safety checklist, Security analysis, Transaction Origin attack Demo, DoS Example, Re-entrancy example, Integer under/overflow (until 0.7.0),
 
-
-
 ## Advanced Topics
-	IPFS, ENS (Ethereum Name Service), Upgradeable Contracts, Oracles, Formal Verification, Scaling Chains, Zero-Knowledge Proofs, Ethereum 2.0
-Layer 2 Scaling, Ethereum 2.0
+	IPFS, ENS (Ethereum Name Service), Upgradeable Contracts, Oracles, Formal Verification, Scaling Chains, Zero-Knowledge Proofs, Ethereum 2.0,
+Layer 2 Scaling, ChainLink, The Graph
+
 
 ## Additional Topics:
+- Ethereum Improvement Proposals
+
 	Ethereum Improvement Proposals, Vyper,
 
 
