@@ -61,10 +61,9 @@ Deployment of a personal development environment.
 ## “Ethereum” Basics
 - [Ethereum "pre-history"](https://vitalik.ca/general/2017/09/14/prehistory.html) Vitalik Buterin blog post) [Interesting to read as Buterin goes through the internal thought process of creating a fee based ledger that is Turing complete, i.e a state machine. Note the simplicity of the programmatic loop the devises to validate his concept]
 
-- Ethereum White Paper
-https://ethereum.org/en/whitepaper/
-- Ethereum Yellow Paper
-	https://ethereum.github.io/yellowpaper/paper.pdf
+- [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
+- [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+
 
 - Accounts,
 - Transactions,
