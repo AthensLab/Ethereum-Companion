@@ -35,28 +35,43 @@ Consesys Basics: https://courses.consensys.net/courses/bootcamp-basic-training
 Deployment of a personal development environment.
 
 ## Review of blockchain technologies
-	Blockchain Context,
-	Distributed Ledgers,
-	Consensus Mechanisms,
-	Mining & Staking,
-	Public and Private Blockchains,
-	Distributed Ledger Platforms.
+	- Blockchain Context,
+	- Distributed Ledgers,
+	- Consensus Mechanisms,
+	- Mining & Staking,
+	- Network Peer Discovery and Messaging
+	- Public and Private Blockchains,
+	- Distributed Ledger Platforms.
 
 
 ## Blockchain Basics
-	Cryptography, Cryptographic Hash functions, Using Cryptograpic Hash functions, Public Key Cryptography, Merkle Trees, Using Merkle Trees, Blockchain Structure, Building a Blockchain, Smart Contracts, Smart Contracts: Additional reading and sources, Blockchain nodes, Blockchain Forks,
+	- Cryptography,
+	- Cryptographic Hash functions,
+	- Using Cryptograpic Hash functions,
+	- Public Key Cryptography,
+	- Merkle Trees,
+	- Using Merkle Trees,
+	- Blockchain Structure,
+	- Building a Blockchain,
+	- Smart Contracts,
+	- Smart Contracts: Additional reading and sources,
+	- Blockchain nodes,
+	- Blockchain Forks,
 
 ## “Ethereum” Basics
-	Accounts, Transactions, Gas, and Fees, Ethereum Structure, Externally Owned Accounts and Ethereum Transactions, Generating Ethereum Addresses, Elliptic Curve Cryptography, Mainnet and testiest
+	Accounts, Transactions, Gas, and Fees, Ethereum Structure, Externally Owned Accounts and Ethereum Transactions, Generating Ethereum Addresses, Elliptic Curve Cryptography, Mainnet and testnests, Sharding, Tokens and Token Standards,
 
 
 ## Traditional and Decentralised application development
-	Decentralised application development, Similarities and differences, Development setup, Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS ), Geth (and Staking Eth2 node), Connecting to a testnet, Setting up your own Ethereum private network.
+	Decentralised application development, Similarities and differences, Development setup, Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS ), Geth (and Staking Eth2 node), Other Ethereum Node Software, Connecting to a testnet, Setting up your own Ethereum private network, Setting up your own node on ethereum (Geth, dappnode.io, Parity)
+
+## Ethereum 2
+	How to set up an ethereum 2 node, Ethereum 2 node software.
 
 
 ## Development frameworks and environment
 	Introduction, Development Workflow- low level, Ganache CLI, Truffle, Structure of a truffle project, Ganache GUI.
-	Hardhat, setting up HardHat
+	Hardhat, setting up HardHat guide,
 
 ## Solidity Fundamentals
 	Data Types and Variables, Functions, Storage and Memory, Contract Structure, Reading Smart Contracts, Smart Contract Application Binary Interface, Events and Logs, Factory Contracts,
