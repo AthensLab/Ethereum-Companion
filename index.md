@@ -59,7 +59,14 @@ Deployment of a personal development environment.
 	- Blockchain Forks,
 
 ## “Ethereum” Basics
-	Accounts, Transactions, Gas, and Fees, Ethereum Structure, Externally Owned Accounts and Ethereum Transactions, Generating Ethereum Addresses, Elliptic Curve Cryptography, Mainnet and testnests, Sharding, Tokens and Token Standards,
+- Ethereum "pre-history" (Vitalik Buterin blog post)
+https://vitalik.ca/general/2017/09/14/prehistory.html
+- Ethereum White Paper
+https://ethereum.org/en/whitepaper/
+- Ethereum Yellow Paper
+	https://ethereum.github.io/yellowpaper/paper.pdf
+
+	-Accounts, Transactions, Gas, and Fees, Ethereum Structure, Externally Owned Accounts and Ethereum Transactions, Generating Ethereum Addresses, Elliptic Curve Cryptography, Mainnet and testnests, Sharding, Tokens and Token Standards,
 
 
 ## Traditional and Decentralised application development
