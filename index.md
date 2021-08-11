@@ -114,6 +114,9 @@ Layer 2 Scaling, ChainLink, The Graph
 
 	Ethereum Improvement Proposals, Vyper,
 
+## Policy
+- [Decentralisation] (https://policyreview.info/concepts/decentralisation)
+
 
 
 
