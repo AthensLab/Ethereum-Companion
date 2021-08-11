@@ -116,6 +116,7 @@ Layer 2 Scaling, ChainLink, The Graph
 
 ## Policy
 - [Decentralisation] (https://policyreview.info/concepts/decentralisation)
+-
 
 
 
