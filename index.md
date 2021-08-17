@@ -80,10 +80,20 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Traditional and Decentralised application development
-	Decentralised application development, Similarities and differences, Development setup, Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS ), Geth (and Staking Eth2 node), Other Ethereum Node Software, Connecting to a testnet, Setting up your own Ethereum private network, Setting up your own node on ethereum (Geth, dappnode.io, Parity)
+	- Decentralised application development,
+	- Similarities and differences,
+	- Development setup,
+	- Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS ),
+	- Geth (and Staking Eth2 node),
+	- Other Ethereum Node Software,
+	- Connecting to a testnet,
+  - Setting up your own Ethereum private network,
+	- Setting up your own node on ethereum (Geth, dappnode.io, Parity)
+
 
 ## Ethereum 2
-	How to set up an ethereum 2 node, Ethereum 2 node software.
+	- How to set up an ethereum 2 node,
+	- Ethereum 2 node software.
 
 
 ## Development frameworks and environment
