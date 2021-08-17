@@ -127,20 +127,49 @@ Interesting to read as Buterin goes through the internal thought process of crea
   - The OpenZeppelin Libraries
 
 ## Ethereum and the end User
-	Web 3.0 Introduction, Web3.js Library, Ether.js Library, Connecting web3.js to a contract, Truffle Pet Shop Tutorial, Metamask, Integrating with React, Examples of Rimble use, Other web frameworks with smart contracts, Web3.py and Python interaction
+	- Web 3.0 Introduction,
+	- Web3.js Library,
+	- Ether.js Library,
+	- Connecting web3.js to a contract,
+	- Truffle Pet Shop Tutorial,
+	- Metamask,
+	- Integrating with React,
+	- Examples of Rimble use,
+	- Other web frameworks with smart contracts,
+	- Web3.py and Python interaction
+	- Desktop Interaction through Python
 
 ## Testing & Debugging
-	Writing Tests, Catching Errors In Tests, Smart Contract Best Practices, Exploits, Gas Optimisation, Safety checklist, Security analysis, Transaction Origin attack Demo, DoS Example, Re-entrancy example, Integer under/overflow (until 0.7.0),
+	- Writing Tests,
+	- Catching Errors In Tests,
+	- Smart Contract Best Practices,
+	- Exploits,
+	- Gas Optimisation,
+	- Safety checklist,
+	- Security analysis,
+	- Transaction Origin attack Demo,
+	- DoS Example,
+	- Re-entrancy example,
+	- Integer under/overflow (until 0.7.0),
 
 ## Advanced Topics
-	IPFS, ENS (Ethereum Name Service), Upgradeable Contracts, Oracles, Formal Verification, Scaling Chains, Zero-Knowledge Proofs, Ethereum 2.0,
-Layer 2 Scaling, ChainLink, The Graph
+	- Interplanetary FileSystem IPFS,
+	- ENS (Ethereum Name Service),
+	- Upgradeable Contracts,
+	- Oracles,
+	- Formal Verification,
+	- Scaling Chains,
+	- Zero-Knowledge Proofs,
+	- Ethereum 2.0,[links to Ethereum 2]
+  - Layer 2 Scaling,
+	- ChainLink,
+	- The Graph
 
 
 ## Additional Topics:
 - Ethereum Improvement Proposals
+- Vyper,
 
-	Ethereum Improvement Proposals, Vyper,
 
 ## Policy
 - [Decentralisation] (https://policyreview.info/concepts/decentralisation)
