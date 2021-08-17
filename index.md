@@ -61,11 +61,8 @@ Deployment of a personal development environment.
 ## “Ethereum” Basics
 - [Ethereum "pre-history"](https://vitalik.ca/general/2017/09/14/prehistory.html) Vitalik Buterin blog post:
 Interesting to read as Buterin goes through the internal thought process of creating a fee based ledger that is Turing complete, i.e a state machine. Note the simplicity of the programmatic loop the devises to validate his concept
-
 - [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
-
-
 - Accounts,
 - Transactions,
 - Gas and Fees,
@@ -80,97 +77,97 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Traditional and Decentralised application development
-	- Decentralised application development,
-	- Similarities and differences,
-	- Development setup,
-	- Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS ),
-	- Geth (and Staking Eth2 node),
-	- Other Ethereum Node Software,
-	- Connecting to a testnet,
-  - Setting up your own Ethereum private network,
-	- Setting up your own node on ethereum (Geth, dappnode.io, Parity)
+- Decentralised application development,
+- Similarities and differences,
+- Development setup,
+- Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS ),
+- Geth (and Staking Eth2 node),
+- Other Ethereum Node Software,
+- Connecting to a testnet,
+- Setting up your own Ethereum private network,
+- Setting up your own node on ethereum (Geth, dappnode.io, Parity)
 
 
 ## Ethereum 2
-	- How to set up an ethereum 2 node,
-	- Ethereum 2 node software.
+- How to set up an ethereum 2 node,
+- Ethereum 2 node software.
 
 
 ## Development frameworks and environment
-	- Introduction,
-	- Development Workflow- low level,
-	- Ganache CLI,
-	- Truffle,
-	- Structure of a truffle project,
-	- Ganache GUI.
-	- Hardhat,
-	- setting up HardHat guide,
+- Introduction,
+- Development Workflow- low level,
+- Ganache CLI,
+- Truffle,
+- Structure of a truffle project,
+- Ganache GUI.
+- Hardhat,
+- setting up HardHat guide,
 
 ## Solidity Fundamentals
-	- Data Types and Variables,
-	- Functions,
-	- Storage and Memory,
-	- Contract Structure,
-	- Reading Smart Contracts,
-	- Smart Contract Application Binary Interface,
-	- Events and Logs,
-	- Factory Contracts,
+- Data Types and Variables,
+- Functions,
+- Storage and Memory,
+- Contract Structure,
+- Reading Smart Contracts,
+- Smart Contract Application Binary Interface,
+- Events and Logs,
+- Factory Contracts,
 
 ## Writing Smart Contracts
-	- Introductory Smart Contracts,
-	- Inter-Contract Execution,
-	- Inheritance,
-	- Libraries and the Ethereum Package manager,
-	- Smart Contract system Design,
-	- Writing a Smart Contract - proof of existence,
-  - Examples: Simple Bank, Supply Chain
-  - The OpenZeppelin Libraries
+- Introductory Smart Contracts,
+- Inter-Contract Execution,
+- Inheritance,
+- Libraries and the Ethereum Package manager,
+- Smart Contract system Design,
+- Writing a Smart Contract - proof of existence,
+- Examples: Simple Bank, Supply Chain
+- The OpenZeppelin Libraries
 
 ## Ethereum and the end User
-	- Web 3.0 Introduction,
-	- Web3.js Library,
-	- Ether.js Library,
-	- Connecting web3.js to a contract,
-	- Truffle Pet Shop Tutorial,
-	- Metamask,
-	- Integrating with React,
-	- Examples of Rimble use,
-	- Other web frameworks with smart contracts,
-	- Web3.py and Python interaction
-	- Desktop Interaction through Python
+- Web 3.0 Introduction,
+- Web3.js Library,
+- Ether.js Library,
+- Connecting web3.js to a contract,
+- Truffle Pet Shop Tutorial,
+- Metamask,
+- Integrating with React,
+- Examples of Rimble use,
+- Other web frameworks with smart contracts,
+- Web3.py and Python interaction
+- Desktop Interaction through Python
 
 ## Testing & Debugging
-	- Writing Tests,
-	- Catching Errors In Tests,
-	- Smart Contract Best Practices,
-	- Exploits,
-	- Gas Optimisation,
-	- Safety checklist,
-	- Security analysis,
-	- Transaction Origin attack Demo,
-	- DoS Example,
-	- Re-entrancy example,
-	- Integer under/overflow (until 0.7.0),
+- Writing Tests,
+- Catching Errors In Tests,
+- Smart Contract Best Practices,
+- Exploits,
+- Gas Optimisation,
+- Safety checklist,
+- Security analysis,
+- Transaction Origin attack Demo,
+- DoS Example,
+- Re-entrancy example,
+- Integer under/overflow (until 0.7.0),
 
 
 ## Full Stack Development Tutorials
-[dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
-[Full stack marketplace](https://bestofreactjs.com/repo/dabit3-full-stack-ethereum-marketplace-workshop-react-react-apps)
-[React bootstrap Guide](https://react-bootstrap.github.io/)
+- [dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
+- [Full stack marketplace](https://bestofreactjs.com/repo/dabit3-full-stack-ethereum-marketplace-workshop-react-react-apps)
+- [React bootstrap Guide](https://react-bootstrap.github.io/)
 
 
 ## Advanced Topics
-	- Interplanetary FileSystem IPFS,
-	- ENS (Ethereum Name Service),
-	- Upgradeable Contracts,
-	- Oracles,
-	- Formal Verification,
-	- Scaling Chains,
-	- Zero-Knowledge Proofs,
-	- Ethereum 2.0,[links to Ethereum 2]
-  - Layer 2 Scaling,
-	- ChainLink,
-	- The Graph
+- Interplanetary FileSystem IPFS,
+- ENS (Ethereum Name Service),
+- Upgradeable Contracts,
+- Oracles,
+- Formal Verification,
+- Scaling Chains,
+- Zero-Knowledge Proofs,
+- Ethereum 2.0,[links to Ethereum 2]
+- Layer 2 Scaling,
+- ChainLink,
+- The Graph
 
 
 ## Additional Topics:
@@ -179,8 +176,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Policy
-- [Decentralisation] (https://policyreview.info/concepts/decentralisation)
--
+- [Decentralisation](https://policyreview.info/concepts/decentralisation)
+
 
 
 
