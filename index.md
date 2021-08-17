@@ -123,6 +123,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Smart Contract system Design,
 - Writing a Smart Contract - proof of existence,
 - Examples: Simple Bank, Supply Chain
+- Examples: Deploying a Voting Smart Contract
+[Deploying a Voting Smart Contract](https://www.youtube.com/watch?v=GB3hiiNNDjk)
 - The OpenZeppelin Libraries
 
 
