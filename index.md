@@ -30,33 +30,35 @@ Git, Github Desktop, Editor
 Consesys Basics: https://courses.consensys.net/courses/bootcamp-basic-training
 
 ## Setting up a development environment
-	Linux, Windows, MacOS
-	Options for Ethereum Nodes (personal, Infura)
-Deployment of a personal development environment.
+- Linux,
+- Windows,
+- MacOS
+- Options for Ethereum Nodes (personal, Infura)
+- Deployment of a personal development environment.
 
 ## Review of blockchain technologies
-	- Blockchain Context,
-	- Distributed Ledgers,
-	- Consensus Mechanisms,
-	- Mining & Staking,
-	- Network Peer Discovery and Messaging
-	- Public and Private Blockchains,
-	- Distributed Ledger Platforms.
+- Blockchain Context,
+- Distributed Ledgers,
+- Consensus Mechanisms,
+- Mining & Staking,
+- Network Peer Discovery and Messaging
+- Public and Private Blockchains,
+- Distributed Ledger Platforms.
 
 
 ## Blockchain Basics
-	- Cryptography,
-	- Cryptographic Hash functions,
-	- Using Cryptograpic Hash functions,
-	- Public Key Cryptography,
-	- Merkle Trees,
-	- Using Merkle Trees,
-	- Blockchain Structure,
-	- Building a Blockchain,
-	- Smart Contracts,
-	- Smart Contracts: Additional reading and sources,
-	- Blockchain nodes,
-	- Blockchain Forks,
+- Cryptography,
+- Cryptographic Hash functions,
+- Using Cryptograpic Hash functions,
+- Public Key Cryptography,
+- Merkle Trees,
+- Using Merkle Trees,
+- Blockchain Structure,
+- Building a Blockchain,
+- Smart Contracts,
+- Smart Contracts: Additional reading and sources,
+- Blockchain nodes,
+- Blockchain Forks,
 
 ## “Ethereum” Basics
 - [Ethereum "pre-history"](https://vitalik.ca/general/2017/09/14/prehistory.html) Vitalik Buterin blog post:
@@ -179,6 +181,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Decentralisation](https://policyreview.info/concepts/decentralisation)
 
 
+## Cryptography
 
 
 
