@@ -97,16 +97,34 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Development frameworks and environment
-	Introduction, Development Workflow- low level, Ganache CLI, Truffle, Structure of a truffle project, Ganache GUI.
-	Hardhat, setting up HardHat guide,
+	- Introduction,
+	- Development Workflow- low level,
+	- Ganache CLI,
+	- Truffle,
+	- Structure of a truffle project,
+	- Ganache GUI.
+	- Hardhat,
+	- setting up HardHat guide,
 
 ## Solidity Fundamentals
-	Data Types and Variables, Functions, Storage and Memory, Contract Structure, Reading Smart Contracts, Smart Contract Application Binary Interface, Events and Logs, Factory Contracts,
+	- Data Types and Variables,
+	- Functions,
+	- Storage and Memory,
+	- Contract Structure,
+	- Reading Smart Contracts,
+	- Smart Contract Application Binary Interface,
+	- Events and Logs,
+	- Factory Contracts,
 
 ## Writing Smart Contracts
-	Introductory Smart Contracts, Inter-Contract Execution, Inheritance, Libraries and the Ethereum Package manager, Smart Contract system Design, Writing a Smart Contract - proof of existence,
-Examples: Simple Bank, Supply Chain
-The OpenZeppelin Libraries
+	- Introductory Smart Contracts,
+	- Inter-Contract Execution,
+	- Inheritance,
+	- Libraries and the Ethereum Package manager,
+	- Smart Contract system Design,
+	- Writing a Smart Contract - proof of existence,
+  - Examples: Simple Bank, Supply Chain
+  - The OpenZeppelin Libraries
 
 ## Ethereum and the end User
 	Web 3.0 Introduction, Web3.js Library, Ether.js Library, Connecting web3.js to a contract, Truffle Pet Shop Tutorial, Metamask, Integrating with React, Examples of Rimble use, Other web frameworks with smart contracts, Web3.py and Python interaction
