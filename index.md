@@ -209,3 +209,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Non-Fungible Tokens
 - [NFT-School](https://nftschool.dev/)
 - []
+
+
+maintainted by
+https://github.com/arlav
+https://github.com/HicoMcD
