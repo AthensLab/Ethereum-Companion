@@ -175,6 +175,12 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Advanced Topics
 - Interplanetary FileSystem IPFS,
+[IPFS](https://ipfs.io/)
+[IPFS simply explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
+[IPFS, a beginner's guide at hackernoon](https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f)
+[IPFS and friends, a qualitative comparison of next generation Peer-to-Peer Data Networks](https://arxiv.org/pdf/2102.12737.pdf)
+[web3 storage, from the file coin creators](https://web3.storage/about/)
+
 - ENS (Ethereum Name Service),
 - Upgradeable Contracts,
 - Oracles,
@@ -189,7 +195,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 
-## Additional Topics:
+## Additional & Specialised Topics
 - Ethereum Improvement Proposals
 - Vyper,
 
@@ -199,3 +205,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Cryptography
+
+## Non-Fungible Tokens
+- [NFT-School](https://nftschool.dev/)
+- []
