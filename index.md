@@ -189,7 +189,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Zero-Knowledge Proofs,
 - Ethereum 2.0,[links to Ethereum 2]
 - Layer 2 Scaling,
-- ChainLink,
+- [ChainLink](https://chain.link/)
+[Chain link ttutorials](https://docs.chain.link/docs/beginners-tutorial/)
+[Oracles with Chainlink on Ethereum](https://medium.com/@aznagy/oracles-with-chainlink-on-ethereum-networks-tutorial-series-338b8a5f1726)
+
 - The Graph
 [Building Graph QL APIs on Ethereum](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)
 
