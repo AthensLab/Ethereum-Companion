@@ -59,7 +59,7 @@ Deployment of a personal development environment.
 	- Blockchain Forks,
 
 ## “Ethereum” Basics
-- [Ethereum "pre-history"](https://vitalik.ca/general/2017/09/14/prehistory.html) Vitalik Buterin blog post)
+- [Ethereum "pre-history"](https://vitalik.ca/general/2017/09/14/prehistory.html) Vitalik Buterin blog post:
 Interesting to read as Buterin goes through the internal thought process of creating a fee based ledger that is Turing complete, i.e a state machine. Note the simplicity of the programmatic loop the devises to validate his concept
 
 - [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
@@ -151,6 +151,13 @@ Interesting to read as Buterin goes through the internal thought process of crea
 	- DoS Example,
 	- Re-entrancy example,
 	- Integer under/overflow (until 0.7.0),
+
+
+## Full Stack Development Tutorials
+	- [dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
+	- [Full stack marketplace](https://bestofreactjs.com/repo/dabit3-full-stack-ethereum-marketplace-workshop-react-react-apps)
+	- [React bootstrap Guide](https://react-bootstrap.github.io/)
+	
 
 ## Advanced Topics
 	- Interplanetary FileSystem IPFS,
