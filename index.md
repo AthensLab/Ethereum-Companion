@@ -125,8 +125,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Examples: Simple Bank, Supply Chain
 - The OpenZeppelin Libraries
 
+
 ## Ethereum and the end User
 - Web 3.0 Introduction,
+[what is web3](https://www.freecodecamp.org/news/what-is-web3/) Decentralised Web Explained
 - Web3.js Library,
 - Ether.js Library,
 - Connecting web3.js to a contract,
@@ -154,8 +156,19 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Full Stack Development Tutorials
 - [dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
+- [Complete Guide to full stack Ethereum Development](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [Full stack marketplace](https://bestofreactjs.com/repo/dabit3-full-stack-ethereum-marketplace-workshop-react-react-apps)
+- [how to get into web3 as a developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
+- [Ethereum dapp crash course](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [React bootstrap Guide](https://react-bootstrap.github.io/)
+
+
+## Developer Video guides
+- [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
+- [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
+- [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
+-
+
 
 
 ## Advanced Topics
@@ -170,6 +183,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Layer 2 Scaling,
 - ChainLink,
 - The Graph
+[Building Graph QL APIs on Ethereum](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)
+
 
 
 ## Additional Topics:
@@ -182,50 +197,3 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Cryptography
-
-
-
-
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/AthensLab/Blockchain_Development_curriculum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AthensLab/Blockchain_Development_curriculum/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
