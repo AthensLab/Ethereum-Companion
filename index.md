@@ -154,10 +154,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Full Stack Development Tutorials
-	- [dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
-	- [Full stack marketplace](https://bestofreactjs.com/repo/dabit3-full-stack-ethereum-marketplace-workshop-react-react-apps)
-	- [React bootstrap Guide](https://react-bootstrap.github.io/)
-	
+[dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
+[Full stack marketplace](https://bestofreactjs.com/repo/dabit3-full-stack-ethereum-marketplace-workshop-react-react-apps)
+[React bootstrap Guide](https://react-bootstrap.github.io/)
+
 
 ## Advanced Topics
 	- Interplanetary FileSystem IPFS,
