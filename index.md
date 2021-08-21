@@ -75,14 +75,28 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
     * [The Byzantin Gnerals Problem, by L.Lmport, r.Shostak, M.Pease](https://lamport.azurewebsites.net/pubs/byz.pdf)
     * [Byzantine Generals' problem](https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969)
     * [The Byzantine generals problem by Ivan on Tech](https://academy.ivanontech.com/blog/byzantine-generals-problem-an-introduction)
-    * [How satoshi Nakamoto solved the Byzantine Generals Problem](https://news.bitcoin.com/triple-entry-bookkeeping-how-satoshi-nakamoto-solved-the-byzantine-generals-problem/)
+    * [How Satoshi Nakamoto solved the Byzantine Generals Problem](https://news.bitcoin.com/triple-entry-bookkeeping-how-satoshi-nakamoto-solved-the-byzantine-generals-problem/)
+    * [The Bitcoin WhitePaper](https://fermatslibrary.com/s/bitcoin)
+    * [Hacker-engineers and Their Economies, by J.K.Brekke](https://www.tandfonline.com/doi/abs/10.1080/13563467.2020.1806223)
 
 
 - Distributed Ledgers,
+  * [A review of DLTs by N.E.Ioini & C.Pahl](https://www.researchgate.net/profile/Claus-Pahl/publication/328475892_A_Review_of_Distributed_Ledger_Technologies/links/5bd0085ba6fdcc204a036252/A-Review-of-Distributed-Ledger-Technologies.pdf)
+  * [Distributed Ledger Technology: Beyond Blockchain - UK gov office for Science](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
+  * [WorldBank on DLTs](https://www.worldbank.org/en/topic/financialsector/brief/blockchain-dlt)
+
 - Consensus Mechanisms,
+  * [Consensus mechanisms](https://mastanbtc.github.io/blockchainnotes/consensustypes/)
+  * [review of consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
+  * [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
+
+
+
 - Mining & Staking,
 - Network Peer Discovery and Messaging
-- Public and Private Blockchains,
+- Public and Private Blockchains
+    * [Public and private blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) A blog post by V.Buterin
+
 - Distributed Ledger Platforms.
 
 
@@ -93,7 +107,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 - Public Key Cryptography,
 - Merkle Trees,
   * [Ever wonder how Merkle trees work?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)
-  
+
 - Using Merkle Trees,
 - Blockchain Structure,
 - Building a Blockchain,
@@ -265,6 +279,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Non-Fungible Tokens
 - [NFT-School](https://nftschool.dev/)
+
+## News, Reviews and Interesting Sites
+- [decrypt](https://decrypt.co/)
+- [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/)
 
 
 
