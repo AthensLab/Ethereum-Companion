@@ -194,21 +194,20 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
 - [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
--
 
 
 
 ## Advanced Topics
 - [Interplanetary FileSystem: IPFS](https://ipfs.io/)
-[IPFS simply explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
-[IPFS, a beginner's guide at hackernoon](https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f)
-[IPFS and friends, a qualitative comparison of next generation Peer-to-Peer Data Networks](https://arxiv.org/pdf/2102.12737.pdf)
-[web3 storage, from the file coin creators](https://web3.storage/about/)
+- [IPFS simply explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
+- [IPFS, a beginner's guide at hackernoon](https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f)
+- [IPFS and friends, a qualitative comparison of next generation Peer-to-Peer Data Networks](https://arxiv.org/pdf/2102.12737.pdf)
+- [web3 storage, from the file coin creators](https://web3.storage/about/)
 
 - [ENS (Ethereum Name Service](https://ens.domains/)
-[ENS explained](https://decrypt.co/resources/ethereum-name-service-ens-explained-guide-learn)
-[ENS: the good, the bad, and the ugly](https://arxiv.org/abs/2104.05185)
-[Why you need an ETH domain name](https://levelup.gitconnected.com/why-you-need-a-eth-domain-name-b16762fd16b4?gi=4d6a221cebd6)
+- [ENS explained](https://decrypt.co/resources/ethereum-name-service-ens-explained-guide-learn)
+- [ENS: the good, the bad, and the ugly](https://arxiv.org/abs/2104.05185)
+- [Why you need an ETH domain name](https://levelup.gitconnected.com/why-you-need-a-eth-domain-name-b16762fd16b4?gi=4d6a221cebd6)
 
 - Upgradeable Contracts,
 - Oracles,
@@ -242,9 +241,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Non-Fungible Tokens
 - [NFT-School](https://nftschool.dev/)
-- []
 
 
-maintainted by
-https://github.com/arlav
-https://github.com/HicoMcD
+
+_maintained by_
+- [arlav](https://github.com/arlav)
+- [HicoMcD](https://github.com/HicoMcD)
