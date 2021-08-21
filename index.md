@@ -24,16 +24,10 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
 
 
 
-## Tools for the developer
-Operating system
-Git, Github Desktop, Editor
-
+## Onboarding
 - [Consesys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
 - [Developer onboarding on Ethereum - Consensys](https://consensys.net/developers/10-minute-ethereum-orientation/)
 - [Developer onboarding on Ethereum - Ethereum.org](https://ethereum.org/en/developers/docs/)
-
-
-
 
 ## Setting up a development environment
 - Linux distirbution
@@ -41,9 +35,7 @@ Git, Github Desktop, Editor
   [mint](https://linuxmint.com/)
   [MX Linux](https://mxlinux.org/)
 
-
 - Windows,
-
 [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 [Ethereum developers guid to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
@@ -155,6 +147,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Examples: Deploying a Voting Smart Contract
 [Deploying a Voting Smart Contract](https://www.youtube.com/watch?v=GB3hiiNNDjk)
 - The OpenZeppelin Libraries
+- Games
+  - [CryptoZombies](https://cryptozombies.io/)
 
 
 ## Ethereum and the end User
@@ -183,6 +177,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - DoS Example,
 - Re-entrancy example,
 - Integer under/overflow (until 0.7.0),
+- Games
+  - Etherenaut by OpenZeppelin
+    [Ethernaut security game](https://ethernaut.openzeppelin.com/)
 
 
 ## Full Stack Development Tutorials
