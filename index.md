@@ -27,14 +27,32 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
 ## Tools for the developer
 Operating system
 Git, Github Desktop, Editor
-Consesys Basics: https://courses.consensys.net/courses/bootcamp-basic-training
+
+- [Consesys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
+- [Developer onboarding on Ethereum - Consensys](https://consensys.net/developers/10-minute-ethereum-orientation/)
+- [Developer onboarding on Ethereum - Ethereum.org](https://ethereum.org/en/developers/docs/)
+
+
+
 
 ## Setting up a development environment
 - Linux,
+
+
 - Windows,
+
+[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+[Ethereum developers guid to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
+
+
+
 - MacOS
 - Options for Ethereum Nodes (personal, Infura)
 - Deployment of a personal development environment.
+
+- [Atom]
+- [Visual studio Code](https://code.visualstudio.com/)
+- [github Desktop](https://desktop.github.com/)
 
 ## Review of blockchain technologies
 - Blockchain Context,
