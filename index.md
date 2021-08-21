@@ -61,6 +61,10 @@ Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacO
 - [Visual studio Code](https://code.visualstudio.com/)
 - [github Desktop](https://desktop.github.com/)
 
+## Learning Tools
+-
+
+
 ## Review of blockchain technologies
 - Blockchain Context,
 - Distributed Ledgers,
@@ -229,7 +233,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Ethereum Improvement Proposals
 - Vyper,
 - Flint, a new Swift-like programming language for safer smart contracts
-[Flint programming language](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Franklin-Schrans-A-new-programming-language-for-safer-smart-contracts.pdf)
+- [Flint programming language](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Franklin-Schrans-A-new-programming-language-for-safer-smart-contracts.pdf)
+- [Flint Repository](https://github.com/flintlang/flint)
+
 
 
 
