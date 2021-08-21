@@ -103,7 +103,19 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 ## Blockchain Basics
 - Cryptography,
 - Cryptographic Hash functions,
+  * [Secure hash algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/)
+  * [MD5](https://searchsecurity.techtarget.com/definition/MD5)
+
+  * [SHA1](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf)
+  * [SHA2 - Wikipedia](https://en.wikipedia.org/wiki/SHA-2)
+  * [SHA3 - Wikipedia](https://en.wikipedia.org/wiki/SHA-3)
+  * [SHA3 -'keccak'](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf)
+  * [Lecture by Christof Paar](https://www.youtube.com/watch?v=JWskjzgiIa4)
+
+
 - Using Cryptograpic Hash functions,
+  * [How hash algorithms work](https://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software)
+
 - Public Key Cryptography,
 - Merkle Trees,
   * [Ever wonder how Merkle trees work?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)
@@ -276,6 +288,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Cryptography
+- [Lecture series on Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k&list=UU1usFRN4LCMcfIV7UjHNuQg&index=25)
+
 
 ## Non-Fungible Tokens
 - [NFT-School](https://nftschool.dev/)
