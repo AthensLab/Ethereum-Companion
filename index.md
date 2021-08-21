@@ -40,7 +40,8 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
   * [Ethereum developers guid to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
 - MacOS
-Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacOS_
+Latest MacOS is v11 'BigSur' (Aug 2021)
+  *_you need an apple computer to run MacOS_
   * [MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
 
 - Options for Ethereum Nodes
@@ -70,7 +71,13 @@ Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacO
 
 
 ## Review of blockchain technologies
-- Blockchain Context,
+- Blockchain Context
+    * [The Byzantin Gnerals Problem, by L.Lmport, r.Shostak, M.Pease](https://lamport.azurewebsites.net/pubs/byz.pdf)
+    * [Byzantine Generals' problem](https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969)
+    * [The Byzantine generals problem by Ivan on Tech](https://academy.ivanontech.com/blog/byzantine-generals-problem-an-introduction)
+    * [How satoshi Nakamoto solved the Byzantine Generals Problem](https://news.bitcoin.com/triple-entry-bookkeeping-how-satoshi-nakamoto-solved-the-byzantine-generals-problem/)
+
+
 - Distributed Ledgers,
 - Consensus Mechanisms,
 - Mining & Staking,
@@ -85,6 +92,8 @@ Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacO
 - Using Cryptograpic Hash functions,
 - Public Key Cryptography,
 - Merkle Trees,
+  * [Ever wonder how Merkle trees work?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)
+  
 - Using Merkle Trees,
 - Blockchain Structure,
 - Building a Blockchain,
