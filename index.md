@@ -36,34 +36,34 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
   * [MX Linux](https://mxlinux.org/)
 
 - Windows,
-* [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-* [Ethereum developers guid to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
+  * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  * [Ethereum developers guid to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
 - MacOS
 Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacOS_
-* [MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
+  * [MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
 
 - Options for Ethereum Nodes
-* [Nods and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
-* [OpenEthereum](https://github.com/openethereum/openethereum)
-* [Geth](https://geth.ethereum.org/)
-* [Nethermind, a .NET client](https://nethermind.io/)
-* [Infura](infura.io)
+  * [Nods and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
+  * [OpenEthereum](https://github.com/openethereum/openethereum)
+  * [Geth](https://geth.ethereum.org/)
+  * [Nethermind, a .NET client](https://nethermind.io/)
+  * [Infura](infura.io)
 
 
-- Deployment of a personal development environment.
-* [Stacks on Ethereum/](https://ethereum.org/en/developers/local-environment/)
+-  Deployment of a personal development environment.
+  * [Stacks on Ethereum/](https://ethereum.org/en/developers/local-environment/)
 
 - Editors and IDEs (Integrated development environments)
-* [remix](https://remix.ethereum.org)
-* [Atom](https://atom.io/)
-* [Visual studio Code](https://code.visualstudio.com/)
-* [JetBrains Idea](https://www.jetbrains.com/idea)
+  * [remix](https://remix.ethereum.org)
+  * [Atom](https://atom.io/)
+  * [Visual studio Code](https://code.visualstudio.com/)
+  * [JetBrains Idea](https://www.jetbrains.com/idea)
 
 
 - Git clients
-* [git](https://git-scm.com/)
-* [For GitHub :: Desktop](https://desktop.github.com/)
+  * [git](https://git-scm.com/)
+  * [For GitHub :: Desktop](https://desktop.github.com/)
 
 ## Learning Tools
 -
