@@ -52,7 +52,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacO
 
 
 - Deployment of a personal development environment.
-
+* [Stacks on Ethereum/](https://ethereum.org/en/developers/local-environment/)
 
 - Editors and IDEs (Integrated development environments)
 * [remix](https://remix.ethereum.org)
@@ -61,9 +61,8 @@ Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacO
 * [JetBrains Idea](https://www.jetbrains.com/idea)
 
 
-
 - Git clients
-
+* [git](https://git-scm.com/)
 * [For GitHub :: Desktop](https://desktop.github.com/)
 
 ## Learning Tools
