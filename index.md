@@ -53,7 +53,9 @@ Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacO
 
 - Deployment of a personal development environment.
 
+
 - Editors and IDEs (Integrated development environments)
+* [remix](https://remix.ethereum.org)
 * [Atom](https://atom.io/)
 * [Visual studio Code](https://code.visualstudio.com/)
 * [JetBrains Idea](https://www.jetbrains.com/idea)
