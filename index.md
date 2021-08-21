@@ -36,26 +36,26 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
   * [MX Linux](https://mxlinux.org/)
 
 - Windows,
-[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-[Ethereum developers guid to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
+* [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* [Ethereum developers guid to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
 - MacOS
 Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacOS_
-[MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
+* [MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
 
 - Options for Ethereum Nodes
-- [Nods and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
-- [OpenEthereum](https://github.com/openethereum/openethereum)
-- [Geth](https://geth.ethereum.org/)
-- [Nethermind, a .NET client](https://nethermind.io/)
-- [Infura](infura.io)
+* [Nods and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
+* [OpenEthereum](https://github.com/openethereum/openethereum)
+* [Geth](https://geth.ethereum.org/)
+* [Nethermind, a .NET client](https://nethermind.io/)
+* [Infura](infura.io)
 
 
 - Deployment of a personal development environment.
 
-- [Atom]
-- [Visual studio Code](https://code.visualstudio.com/)
-- [github Desktop](https://desktop.github.com/)
+* [Atom]
+* [Visual studio Code](https://code.visualstudio.com/)
+* [github Desktop](https://desktop.github.com/)
 
 ## Learning Tools
 -
@@ -149,15 +149,15 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Writing a Smart Contract - proof of existence,
 - Examples: Simple Bank, Supply Chain
 - Examples: Deploying a Voting Smart Contract
-[Deploying a Voting Smart Contract](https://www.youtube.com/watch?v=GB3hiiNNDjk)
+* [Deploying a Voting Smart Contract](https://www.youtube.com/watch?v=GB3hiiNNDjk)
 - The OpenZeppelin Libraries
 - Games
-  - [CryptoZombies](https://cryptozombies.io/)
+  * [CryptoZombies](https://cryptozombies.io/)
 
 
 ## Ethereum and the end User
 - Web 3.0 Introduction,
-[what is web3](https://www.freecodecamp.org/news/what-is-web3/) Decentralised Web Explained
+* [what is web3](https://www.freecodecamp.org/news/what-is-web3/) Decentralised Web Explained
 - Web3.js Library,
 - Ether.js Library,
 - Connecting web3.js to a contract,
@@ -183,7 +183,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Integer under/overflow (until 0.7.0),
 - Games
   - Etherenaut by OpenZeppelin
-    [Ethernaut security game](https://ethernaut.openzeppelin.com/)
+  * [Ethernaut security game](https://ethernaut.openzeppelin.com/)
 
 
 ## Full Stack Development Tutorials
@@ -222,11 +222,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Ethereum 2.0,[links to Ethereum 2]
 - Layer 2 Scaling,
 - [ChainLink](https://chain.link/)
-[Chain link ttutorials](https://docs.chain.link/docs/beginners-tutorial/)
-[Oracles with Chainlink on Ethereum](https://medium.com/@aznagy/oracles-with-chainlink-on-ethereum-networks-tutorial-series-338b8a5f1726)
+* [Chain link ttutorials](https://docs.chain.link/docs/beginners-tutorial/)
+* [Oracles with Chainlink on Ethereum](https://medium.com/@aznagy/oracles-with-chainlink-on-ethereum-networks-tutorial-series-338b8a5f1726)
 
 - The Graph
-[Building Graph QL APIs on Ethereum](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)
+* [Building Graph QL APIs on Ethereum](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)
 
 
 
@@ -234,8 +234,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Ethereum Improvement Proposals
 - Vyper,
 - Flint, a new Swift-like programming language for safer smart contracts
-- [Flint programming language](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Franklin-Schrans-A-new-programming-language-for-safer-smart-contracts.pdf)
-- [Flint Repository](https://github.com/flintlang/flint)
+* [Flint programming language](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Franklin-Schrans-A-new-programming-language-for-safer-smart-contracts.pdf)
+* [Flint Repository](https://github.com/flintlang/flint)
 
 
 
