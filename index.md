@@ -31,9 +31,9 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
 
 ## Setting up a development environment
 - Linux distirbution
-  [ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
-  [mint](https://linuxmint.com/)
-  [MX Linux](https://mxlinux.org/)
+  * [ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
+  * [mint](https://linuxmint.com/)
+  * [MX Linux](https://mxlinux.org/)
 
 - Windows,
 [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
@@ -43,8 +43,12 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
 Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacOS_
 [MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
 
-- Options for Ethereum Nodes (personal, Infura)
-
+- Options for Ethereum Nodes
+- [Nods and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
+- [OpenEthereum](https://github.com/openethereum/openethereum)
+- [Geth](https://geth.ethereum.org/)
+- [Nethermind, a .NET client](https://nethermind.io/)
+- [Infura](infura.io)
 
 
 - Deployment of a personal development environment.
