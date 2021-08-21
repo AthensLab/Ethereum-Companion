@@ -36,7 +36,10 @@ Git, Github Desktop, Editor
 
 
 ## Setting up a development environment
-- Linux,
+- Linux distirbution
+  [ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
+  [mint](https://linuxmint.com/)
+  [MX Linux](https://mxlinux.org/)
 
 
 - Windows,
@@ -44,10 +47,14 @@ Git, Github Desktop, Editor
 [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 [Ethereum developers guid to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
-
-
 - MacOS
+Latest MacOS is v11 'BigSur' (Aug 2021) *_you need an apple computer to run MacOS_
+[MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
+
 - Options for Ethereum Nodes (personal, Infura)
+
+
+
 - Deployment of a personal development environment.
 
 - [Atom]
@@ -222,6 +229,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Additional & Specialised Topics
 - Ethereum Improvement Proposals
 - Vyper,
+- Flint, a new Swift-like programming language for safer smart contracts
+[Flint programming language](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Franklin-Schrans-A-new-programming-language-for-safer-smart-contracts.pdf)
+
 
 
 ## Policy
