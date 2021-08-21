@@ -104,8 +104,8 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 - Cryptography,
 - Cryptographic Hash functions,
   * [Secure hash algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/)
+  * [Back to basics](https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7015.html)
   * [MD5](https://searchsecurity.techtarget.com/definition/MD5)
-
   * [SHA1](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf)
   * [SHA2 - Wikipedia](https://en.wikipedia.org/wiki/SHA-2)
   * [SHA3 - Wikipedia](https://en.wikipedia.org/wiki/SHA-3)
