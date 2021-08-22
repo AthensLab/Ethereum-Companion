@@ -196,6 +196,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - The OpenZeppelin Libraries
 - Games
   * [CryptoZombies](https://cryptozombies.io/)
+- guides  
+  * [Ethereumdev.io](https://ethereumdev.io/)
+  * [Solidity Developer](https://soliditydeveloper.com/blog)
+  
 
 
 ## Ethereum and the end User
@@ -298,6 +302,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [decrypt](https://decrypt.co/)
 - [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/)
 
+## Where to ask for Help
+- [Ethereum at SStack exchange](https://ethereum.stackexchange.com/)
 
 
 _maintained by_
