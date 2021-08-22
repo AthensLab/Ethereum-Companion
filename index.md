@@ -88,6 +88,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 - Mining & Staking,
   * [Proof of Work at Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
   * [Mining](https://eth.wiki/fundamentals/mining)
+  * [Ethash: Dagger Hashimoto](https://eth.wiki/en/concepts/ethash/ethash)
   * [Proof of Stake at Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
   * [start staking on Ethereum](https://ethereum.org/en/eth2/staking/)
   * [Mining vs  staking](https://major-capital.com/en/mining-vs-staking/)
@@ -107,6 +108,10 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 
 ## Blockchain Basics
 - Cryptography,
+  * [Cryptography in Wikipedia](https://en.wikipedia.org/wiki/Cryptography)
+  * [Schneier on Cryptography](https://www.schneier.com/blog/archives/2016/03/cryptography_is.html)
+  * [Schneir's Applied Crryptography online](https://www.schneier.com/blog/archives/2014/01/applied_cryptog_1.html)
+  * [Introduction to modern cryptosystems](https://www.giac.org/paper/gsec/2604/introduction-modern-cryptosystems/104482)  
 - Cryptographic Hash functions,
   * [Secure hash algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/)
   * [Back to basics](https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7015.html)
