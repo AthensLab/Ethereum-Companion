@@ -20,7 +20,7 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
 20 hours per week, with 10 hours per week devoted to hands-on practice. 5 hours per week, spent on theory, fundamentals and seminars.
 
 ## Onboarding
-- [Consesys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
+- [Consensys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
 - [Developer onboarding on Ethereum - Consensys](https://consensys.net/developers/10-minute-ethereum-orientation/)
 - [Developer onboarding on Ethereum - Ethereum.org](https://ethereum.org/en/developers/docs/)
 
@@ -51,6 +51,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 
 - Editors and IDEs (Integrated development environments)
   * [Remix](https://remix.ethereum.org)
+  * [Remix-Desktop](https://github.com/ethereum/remix-desktop)
   * [Atom](https://atom.io/)
   * [Visual studio Code](https://code.visualstudio.com/)
   * [JetBrains Idea](https://www.jetbrains.com/idea)
@@ -61,12 +62,14 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 
 ## Review of blockchain technologies
 - Blockchain Context
-    * [The Byzantin Gnerals Problem, by L.Lmport, r.Shostak, M.Pease](https://lamport.azurewebsites.net/pubs/byz.pdf)
+    * [The Byzantine Gnerals Problem, by L.Lmport, r.Shostak, M.Pease](https://lamport.azurewebsites.net/pubs/byz.pdf)
     * [Byzantine Generals' problem](https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969)
     * [The Byzantine generals problem by Ivan on Tech](https://academy.ivanontech.com/blog/byzantine-generals-problem-an-introduction)
     * [How Satoshi Nakamoto solved the Byzantine Generals Problem](https://news.bitcoin.com/triple-entry-bookkeeping-how-satoshi-nakamoto-solved-the-byzantine-generals-problem/)
     * [The Bitcoin WhitePaper](https://fermatslibrary.com/s/bitcoin)
-    * [Hacker-engineers and Their Economies, by J.K.Brekke](https://www.tandfonline.com/doi/abs/10.1080/13563467.2020.1806223)
+    * [How Does a Blockchain Work? - Video](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+    * [A Visual Blockchain Demo - Video](https://www.youtube.com/watch?v=_160oMzblY8)
+
 
 - Distributed Ledgers,
   * [A review of DLTs by N.E.Ioini & C.Pahl](https://www.researchgate.net/profile/Claus-Pahl/publication/328475892_A_Review_of_Distributed_Ledger_Technologies/links/5bd0085ba6fdcc204a036252/A-Review-of-Distributed-Ledger-Technologies.pdf)
@@ -78,8 +81,24 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [review of consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
   * [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
 
+- Transactions and Blocks
+  * [Transactions](https://ethereum.org/en/developers/docs/transactions/)
+  * [Blocks](https://ethereum.org/en/developers/docs/blocks/)
+
 - Mining & Staking,
+  * [Proof of Work at Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+  * [Mining](https://eth.wiki/fundamentals/mining)
+  * [Proof of Stake at Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+  * [start staking on Ethereum](https://ethereum.org/en/eth2/staking/)
+  * [Mining vs  staking](https://major-capital.com/en/mining-vs-staking/)
+
+
 - Network Peer Discovery and Messaging
+  * [Analysing the Underlying Peeer-to-Peer Network of Ethereum Blockchain, Wang et al](https://arxiv.org/pdf/2010.01373.pdf)
+  * [Understanding Ethereum's P2P work](https://medium.com/shyft-network-media/understanding-ethereums-p2p-network-86eeaa3345)
+  * [How the P2P netwrroking in Ethereum works](https://medium.com/orbs-network/the-actual-networking-behind-the-ethereum-network-how-it-works-6e147ca36b45)
+
+
 - Public and Private Blockchains
     * [Public and private blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) A blog post by V.Buterin
 
@@ -96,6 +115,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [SHA2 - Wikipedia](https://en.wikipedia.org/wiki/SHA-2)
   * [SHA3 - Wikipedia](https://en.wikipedia.org/wiki/SHA-3)
   * [SHA3 -'keccak'](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf)
+  * [Eth-hash keccak256](https://github.com/ethereum/eth-hash)
   * [Lecture by Christof Paar](https://www.youtube.com/watch?v=JWskjzgiIa4)
 
 - Using Cryptograpic Hash functions,
@@ -200,7 +220,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Ethereumdev.io](https://ethereumdev.io/)
   * [Solidity Developer](https://soliditydeveloper.com/blog)
   * [Ethereum Blockchain Developer](https://ethereum-blockchain-developer.com/)
-  
+
 ## Solidity Smart Contract Design Patterns
 * ERC20 Token (Fungible Token)
 * ERC721 Token (NFT - Not-Fungible Token)
@@ -211,7 +231,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Ethereum and the end User
 - Web 3.0 Introduction,
 * [what is web3](https://www.freecodecamp.org/news/what-is-web3/) Decentralised Web Explained
-- Web3 Packages 
+- Web3 Packages
   * [Ethers.js](https://docs.ethers.io/)
   * [Web3.js](https://web3js.readthedocs.io/)
 - Ethers.js vs Web3.js
@@ -297,6 +317,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Policy
 - [Decentralisation](https://policyreview.info/concepts/decentralisation)
+* [Hacker-engineers and Their Economies, by J.K.Brekke](https://www.tandfonline.com/doi/abs/10.1080/13563467.2020.1806223)
+
 
 
 ## Cryptography
