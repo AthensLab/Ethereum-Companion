@@ -125,12 +125,21 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 
 - Using Cryptograpic Hash functions,
   * [How hash algorithms work](https://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software)
+  * [Cryptographic hashing on Hackernoon](https://hackernoon.com/cryptographic-hashing-c25da23609c3)
+  * [Hashing functions in Blockchain](https://hackernoon.com/learn-the-blockchain-basics-part-3-hashing-functions-vt1435ow)
 
 - Public Key Cryptography,
+  * [Symmetric and Assymmetric public key cryptography](https://hackernoon.com/how-does-symmetric-and-asymmetric-public-key-cryptography-work-i6dy37pl)
+  * [Public Key Cryptography Glossary](https://hackernoon.com/glossary-of-security-terms-public-key-cryptography-fri3u4d)
+  * [Public key cryptography RSA keys](https://hackernoon.com/public-key-cryptography-rsa-keys-izda3ylv)
+
 - Merkle Trees,
   * [Ever wonder how Merkle trees work?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)
+  * [Getting to the root of th emerkle tree concept](https://hackernoon.com/getting-to-the-root-of-the-merkle-tree-concept-and-how-it-affects-blockchain-technology)
 
 - Using Merkle Trees,
+* [Merkle Tree Introduction](https://hackernoon.com/merkle-tree-introduction-4c44250e2da7)
+* [What is a Merkle Tree](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
 - Blockchain Structure,
 - Building a Blockchain,
 - Smart Contracts,
