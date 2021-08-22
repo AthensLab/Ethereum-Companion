@@ -139,10 +139,21 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 
 - Using Merkle Trees,
 * [Merkle Tree Introduction](https://hackernoon.com/merkle-tree-introduction-4c44250e2da7)
-* [What is a Merkle Tree](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
+* [What is a Merkle Tree](httpe://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
+* [Merkle Trer Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
+
 - Blockchain Structure,
 - Building a Blockchain,
+  * [Learn Blockchains by Building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+  * [Create your own blockchain - python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
+
+
 - Smart Contracts,
+  * [Formalizing and Scuring Relationships on Public Networks - first menetion of SC](https://firstmonday.org/ojs/index.php/fm/article/view/548)
+  * [Smart Contracts on Wikipedia](https://en.wikipedia.org/wiki/Smart_contract)
+  * [Smart contracts on Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
+  * [Smart contracts on Cardano](https://docs.cardano.org/new-to-cardano/what-is-a-smart-contract)
+
 - Smart Contracts: Additional reading and sources,
 - Blockchain Nodes,
 - Blockchain Forks,
