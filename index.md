@@ -2,10 +2,7 @@
 
 This website has been developed as a companion to the Consensys Blockchain Developer Bootcamp and is designed as a series of structured links and content, that when followed over four months, will provide you with the basic knowledge to develop decentralised applications.
 
-
-
 ## Learning Outcomes
-
 
 By Following the Companion,  learners will be able to show evidence of:
 
@@ -22,8 +19,6 @@ By Following the Companion,  learners will be able to show evidence of:
 Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice. / Recommended Learner Workload:
 20 hours per week, with 10 hours per week devoted to hands-on practice. 5 hours per week, spent on theory, fundamentals and seminars.
 
-
-
 ## Onboarding
 - [Consesys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
 - [Developer onboarding on Ethereum - Consensys](https://consensys.net/developers/10-minute-ethereum-orientation/)
@@ -31,7 +26,7 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
 
 ## Setting up a development environment
 - Linux distirbution
-  * [ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
+  * [Ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
   * [mint](https://linuxmint.com/)
   * [MX Linux](https://mxlinux.org/)
 
@@ -45,7 +40,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
 
 - Options for Ethereum Nodes
-  * [Nods and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
+  * [Nodes and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
   * [OpenEthereum](https://github.com/openethereum/openethereum)
   * [Geth](https://geth.ethereum.org/)
   * [Nethermind, a .NET client](https://nethermind.io/)
@@ -55,17 +50,14 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Stacks on Ethereum/](https://ethereum.org/en/developers/local-environment/)
 
 - Editors and IDEs (Integrated development environments)
-  * [remix](https://remix.ethereum.org)
+  * [Remix](https://remix.ethereum.org)
   * [Atom](https://atom.io/)
   * [Visual studio Code](https://code.visualstudio.com/)
   * [JetBrains Idea](https://www.jetbrains.com/idea)
 
-
 - Git clients
   * [git](https://git-scm.com/)
   * [For GitHub :: Desktop](https://desktop.github.com/)
-
-
 
 ## Review of blockchain technologies
 - Blockchain Context
@@ -94,8 +86,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 - Distributed Ledger Platforms.
   * [Hyperledger](https://www.hyperledger.org/use/fabric)
 
-
-
 ## Blockchain Basics
 - Cryptography,
 - Cryptographic Hash functions,
@@ -107,7 +97,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [SHA3 - Wikipedia](https://en.wikipedia.org/wiki/SHA-3)
   * [SHA3 -'keccak'](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf)
   * [Lecture by Christof Paar](https://www.youtube.com/watch?v=JWskjzgiIa4)
-
 
 - Using Cryptograpic Hash functions,
   * [How hash algorithms work](https://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software)
@@ -129,9 +118,11 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 Interesting to read as Buterin goes through the internal thought process of creating a fee based ledger that is Turing complete, i.e a state machine. Note the simplicity of the programmatic loop the devises to validate his concept
 - [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
-- Accounts,
-- Transactions,
-- Gas and Fees,
+- [Ethereum](https://ethereum.org/)
+- [Accounts](https://ethereum.org/en/developers/docs/accounts/)
+- [Transactions](https://ethereum.org/en/developers/docs/transactions/)
+- [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
+- [Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
 - Ethereum Structure,
 - Externally Owned Accounts and Ethereum Transactions,
 - Ethereum Virtual Machine
@@ -141,8 +132,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Mainnet and testnests,
 - Sharding,
 - Tokens and Token Standards,
-
-
 
 ## Traditional and Decentralised application development
 - Decentralised application development,
@@ -160,16 +149,26 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - How to set up an ethereum 2 node,
 - Ethereum 2 node software.
 
-
 ## Development frameworks and environment
+- [Solidity and Blockchain Development Big Picture](https://soliditydeveloper.com/solidity-overview-2020)
 - Introduction,
 - Development Workflow- low level,
-- Ganache CLI,
-- Truffle,
+- Blockchain Development Tools
+  * [Truffle Suite](https://www.trufflesuite.com/)
+    * [Ganache GUI](https://www.trufflesuite.com/ganache)
+    * [Ganache CLI](https://github.com/trufflesuite/ganache-cli-archive)
+    * [Drizzle](https://www.trufflesuite.com/drizzle)
+  * [Hardhat](https://hardhat.org/)
+    * [Beginners Tutorial](https://hardhat.org/tutorial/)
+  * [Alchemy](https://www.alchemy.com/)
 - Structure of a truffle project,
 - Ganache GUI.
 - Hardhat,
 - setting up HardHat guide,
+
+## Solidity Language Fundamentals
+- [Solidity Language](https://soliditylang.org/),
+- [Solidity Documentation](https://docs.soliditylang.org/),
 
 ## Solidity Fundamentals
 - Data Types and Variables,
@@ -180,8 +179,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Smart Contract Application Binary Interface,
 - Events and Logs,
 - Factory Contracts,
+- [Solidity Fast Track Part 1](https://soliditydeveloper.com/solidity-fast-track),
+- [Solidity Fast Track Part 2](https://soliditydeveloper.com/solidity-fast-track-2),
+- [Solidity by Example](https://solidity-by-example.org/)
 
-## Writing Smart Contracts
+## Writing Smart Contracts (Design Patterns)
 - Introductory Smart Contracts,
 - Inter-Contract Execution,
 - Inheritance,
@@ -197,14 +199,25 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - guides  
   * [Ethereumdev.io](https://ethereumdev.io/)
   * [Solidity Developer](https://soliditydeveloper.com/blog)
-
-
+  * [Ethereum Blockchain Developer](https://ethereum-blockchain-developer.com/)
+  
+## Solidity Smart Contract Design Patterns
+* ERC20 Token (Fungible Token)
+* ERC721 Token (NFT - Not-Fungible Token)
+* DAO (Decentralized Autonomous Organization)
+- Smart Contract Libraries
+  * [OpenZeppelin](https://openzeppelin.com/contracts/)
 
 ## Ethereum and the end User
 - Web 3.0 Introduction,
 * [what is web3](https://www.freecodecamp.org/news/what-is-web3/) Decentralised Web Explained
-- Web3.js Library,
-- Ether.js Library,
+- Web3 Packages 
+  * [Ethers.js](https://docs.ethers.io/)
+  * [Web3.js](https://web3js.readthedocs.io/)
+- Ethers.js vs Web3.js
+  * [Ethers.js vs Web3.js Part I](https://blog.infura.io/ethereum-javascript-libraries-web3-js-vs-ethers-js-part-i/)
+  * [Ethers.js vs Web3.js Part II](https://blog.infura.io/ethereum-javascript-libraries-web3-js-vs-ethers-js-part-ii/)
+
 - Connecting web3.js to a contract,
 - Truffle Pet Shop Tutorial,
 - Metamask,
@@ -233,7 +246,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
   - Etherenaut by OpenZeppelin
   * [Ethernaut security game](https://ethernaut.openzeppelin.com/)
 
-
 ## Full Stack Development Tutorials
 - [dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
 - [Complete Guide to full stack Ethereum Development](https://www.youtube.com/watch?v=WsZyb2T83lo)
@@ -242,13 +254,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Ethereum dapp crash course](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [React bootstrap Guide](https://react-bootstrap.github.io/)
 
-
 ## Developer Video guides
 - [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
 - [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
-
-
 
 ## Advanced Topics
 - [Interplanetary FileSystem: IPFS](https://ipfs.io/)
@@ -284,8 +293,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Flint, a new Swift-like programming language for safer smart contracts
 * [Flint programming language](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Franklin-Schrans-A-new-programming-language-for-safer-smart-contracts.pdf)
 * [Flint Repository](https://github.com/flintlang/flint)
-
-
 
 
 ## Policy
