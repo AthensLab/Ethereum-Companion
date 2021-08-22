@@ -92,6 +92,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Proof of Stake at Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
   * [start staking on Ethereum](https://ethereum.org/en/eth2/staking/)
   * [Mining vs  staking](https://major-capital.com/en/mining-vs-staking/)
+  * [Bye, Bye Miners](https://www.bloomberg.com/news/articles/2021-08-14/bye-bye-miners-how-ethereum-s-big-change-will-work-quicktake)
 
 
 - Network Peer Discovery and Messaging
@@ -112,6 +113,8 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Schneier on Cryptography](https://www.schneier.com/blog/archives/2016/03/cryptography_is.html)
   * [Schneir's Applied Crryptography online](https://www.schneier.com/blog/archives/2014/01/applied_cryptog_1.html)
   * [Introduction to modern cryptosystems](https://www.giac.org/paper/gsec/2604/introduction-modern-cryptosystems/104482)  
+  * [Practical Cryptography](https://rizkia.staff.telkomuniversity.ac.id/files/2016/02/Practical-Cryptography-Niels-Ferguson-Bruce-Schneier.pdf)
+
 - Cryptographic Hash functions,
   * [Secure hash algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/)
   * [Back to basics](https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7015.html)
