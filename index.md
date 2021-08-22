@@ -51,7 +51,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Nethermind, a .NET client](https://nethermind.io/)
   * [Infura](infura.io)
 
-
 -  Deployment of a personal development environment.
   * [Stacks on Ethereum/](https://ethereum.org/en/developers/local-environment/)
 
@@ -66,8 +65,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [git](https://git-scm.com/)
   * [For GitHub :: Desktop](https://desktop.github.com/)
 
-## Learning Tools
--
 
 
 ## Review of blockchain technologies
@@ -79,7 +76,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
     * [The Bitcoin WhitePaper](https://fermatslibrary.com/s/bitcoin)
     * [Hacker-engineers and Their Economies, by J.K.Brekke](https://www.tandfonline.com/doi/abs/10.1080/13563467.2020.1806223)
 
-
 - Distributed Ledgers,
   * [A review of DLTs by N.E.Ioini & C.Pahl](https://www.researchgate.net/profile/Claus-Pahl/publication/328475892_A_Review_of_Distributed_Ledger_Technologies/links/5bd0085ba6fdcc204a036252/A-Review-of-Distributed-Ledger-Technologies.pdf)
   * [Distributed Ledger Technology: Beyond Blockchain - UK gov office for Science](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
@@ -90,14 +86,14 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [review of consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
   * [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
 
-
-
 - Mining & Staking,
 - Network Peer Discovery and Messaging
 - Public and Private Blockchains
     * [Public and private blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) A blog post by V.Buterin
 
 - Distributed Ledger Platforms.
+  * [Hyperledger](https://www.hyperledger.org/use/fabric)
+
 
 
 ## Blockchain Basics
@@ -125,7 +121,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 - Building a Blockchain,
 - Smart Contracts,
 - Smart Contracts: Additional reading and sources,
-- Blockchain nodes,
+- Blockchain Nodes,
 - Blockchain Forks,
 
 ## “Ethereum” Basics
@@ -138,6 +134,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Gas and Fees,
 - Ethereum Structure,
 - Externally Owned Accounts and Ethereum Transactions,
+- Ethereum Virtual Machine
+  * [EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 - Generating Ethereum Addresses,
 - Elliptic Curve Cryptography,
 - Mainnet and testnests,
@@ -199,7 +197,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - guides  
   * [Ethereumdev.io](https://ethereumdev.io/)
   * [Solidity Developer](https://soliditydeveloper.com/blog)
-  
+
 
 
 ## Ethereum and the end User
@@ -220,6 +218,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Writing Tests,
 - Catching Errors In Tests,
 - Smart Contract Best Practices,
+  * [Smart Contracts best practices](https://consensys.github.io/smart-contract-best-practices/)
+  * [Known attack vectors and common antipatterns](https://blog.sigmaprime.io/solidity-security.html)
+  *
 - Exploits,
 - Gas Optimisation,
 - Safety checklist,
