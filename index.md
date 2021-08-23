@@ -167,15 +167,21 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Ethereum](https://ethereum.org/)
+- [Ethereum Docs](https://ethereum.org/en/developers/docs/)
+- [Web2 vs Web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)
 - [Accounts](https://ethereum.org/en/developers/docs/accounts/)
+  * Externally Owned
+  * Contract Owned
 - [Transactions](https://ethereum.org/en/developers/docs/transactions/)
 - [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
 - [Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
-- Ethereum Structure,
-- Externally Owned Accounts and Ethereum Transactions,
-- Ethereum Virtual Machine
+  * Proof of Work
+  * Proof of Stake
+- [Blocks](https://ethereum.org/en/developers/docs/blocks/)
+  * [Ethereum Block Structure Visualised](https://i.stack.imgur.com/eOwjD.png)
+- [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
   * [EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
-- Generating Ethereum Addresses,
+- [Generating Ethereum Addresses](https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo)
 - Elliptic Curve Cryptography,
 - Mainnet and testnests,
 - Sharding,
@@ -230,6 +236,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Solidity Fast Track Part 1](https://soliditydeveloper.com/solidity-fast-track),
 - [Solidity Fast Track Part 2](https://soliditydeveloper.com/solidity-fast-track-2),
 - [Solidity by Example](https://solidity-by-example.org/)
+- [All About Solidity](https://jeancvllr.medium.com/all-about-solidity-article-series-f57be7bf6746)
 
 ## Writing Smart Contracts (Design Patterns)
 - Introductory Smart Contracts,
@@ -362,6 +369,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Where to ask for Help
 - [Ethereum at SStack exchange](https://ethereum.stackexchange.com/)
+
+## Additional GitHub Repositories
+- [ConsenSys Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
 
 _maintained by_
