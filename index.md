@@ -32,7 +32,7 @@ Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours pe
 
 - Windows,
   * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-  * [Ethereum developers guid to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
+  * [Ethereum developers guide to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
 - MacOS
 Latest MacOS is v11 'BigSur' (Aug 2021)
