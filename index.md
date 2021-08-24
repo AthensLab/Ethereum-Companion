@@ -238,7 +238,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Solidity by Example](https://solidity-by-example.org/)
 - [All About Solidity](https://jeancvllr.medium.com/all-about-solidity-article-series-f57be7bf6746)
 
-## Writing Smart Contracts (Design Patterns)
+## Writing Smart Contracts 
 - Introductory Smart Contracts,
 - Inter-Contract Execution,
 - Inheritance,
@@ -256,10 +256,13 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Solidity Developer](https://soliditydeveloper.com/blog)
   * [Ethereum Blockchain Developer](https://ethereum-blockchain-developer.com/)
 
-## Solidity Smart Contract Design Patterns
-* ERC20 Token (Fungible Token)
-* ERC721 Token (NFT - Not-Fungible Token)
-* DAO (Decentralized Autonomous Organization)
+## Token Standards - EIP's
+* [EIP's - Ethereum Improvement Proposals](https://eips.ethereum.org/)
+  * [ERC20 - Token standard](https://eips.ethereum.org/EIPS/eip-20)
+  * [ERC721 - NFT standard](https://eips.ethereum.org/EIPS/eip-721)
+  *[ERC 1155 - Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
+
+## Solidity Smart Contract Libraries & Design Patterns
 - Smart Contract Libraries
   * [OpenZeppelin](https://openzeppelin.com/contracts/)
 
@@ -272,15 +275,22 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Ethers.js vs Web3.js
   * [Ethers.js vs Web3.js Part I](https://blog.infura.io/ethereum-javascript-libraries-web3-js-vs-ethers-js-part-i/)
   * [Ethers.js vs Web3.js Part II](https://blog.infura.io/ethereum-javascript-libraries-web3-js-vs-ethers-js-part-ii/)
-
+- [Interaction with Smart Contract using web3.js](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8a1ebd)
 - Connecting web3.js to a contract,
-- Truffle Pet Shop Tutorial,
+- [Truffle Pet Shop Tutorial](https://www.trufflesuite.com/tutorial)
 - Metamask,
 - Integrating with React,
 - Examples of Rimble use,
 - Other web frameworks with smart contracts,
 - Web3.py and Python interaction
 - Desktop Interaction through Python
+
+## Boiler Plates for creating Dapps
+* Blockchain Integrated:
+  * [Truffle Boxes](https://www.trufflesuite.com/boxes)
+* Blockchain NOT integrated:
+  * [create-react-app](https://create-react-app.dev/)
+  * [create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
 
 ## Testing & Debugging
 - Writing Tests,
