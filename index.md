@@ -158,8 +158,8 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Smart contracts on Cardano](https://docs.cardano.org/new-to-cardano/what-is-a-smart-contract)
 
 - Smart Contracts: Additional reading and sources,
-- Blockchain Nodes,
-- Blockchain Forks,
+- Blockchain Nodes
+- Blockchain Forks
 
 ## “Ethereum” Basics
 - [Ethereum "pre-history"](https://vitalik.ca/general/2017/09/14/prehistory.html) Vitalik Buterin blog post:
@@ -182,10 +182,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
   * [EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 - [Generating Ethereum Addresses](https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo)
-- Elliptic Curve Cryptography,
-- Mainnet and testnests,
-- Sharding,
-- Tokens and Token Standards,
+- Elliptic Curve Cryptography
+- MainNet and TestNets
+- Sharding
+- Tokens and Token Standards
 
 ## Traditional and Decentralised application development
 - Decentralised application development,
@@ -238,7 +238,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Solidity by Example](https://solidity-by-example.org/)
 - [All About Solidity](https://jeancvllr.medium.com/all-about-solidity-article-series-f57be7bf6746)
 
-## Writing Smart Contracts 
+## Writing Smart Contracts
 - Introductory Smart Contracts,
 - Inter-Contract Execution,
 - Inheritance,
