@@ -186,6 +186,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - MainNet and TestNets
 - Sharding
 - Tokens and Token Standards
+ - [EthWiki](https://eth.wiki/home)
 
 ## Traditional and Decentralised application development
 - Decentralised application development,
@@ -223,6 +224,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Solidity Language Fundamentals
 - [Solidity Language](https://soliditylang.org/),
 - [Solidity Documentation](https://docs.soliditylang.org/),
+- [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
 
 ## Solidity Fundamentals
 - Data Types and Variables,
@@ -237,6 +239,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Solidity Fast Track Part 2](https://soliditydeveloper.com/solidity-fast-track-2),
 - [Solidity by Example](https://solidity-by-example.org/)
 - [All About Solidity](https://jeancvllr.medium.com/all-about-solidity-article-series-f57be7bf6746)
+- [Learn X in Y - Solidity](https://learnxinyminutes.com/docs/solidity/)
+- [EthFiddle - Solidity < 0.7.1](https://ethfiddle.com/)
 
 ## Writing Smart Contracts
 - Introductory Smart Contracts,
@@ -307,10 +311,15 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - DoS Example,
 - Re-entrancy example,
 - Integer under/overflow (until 0.7.0),
-- Games
-  - Etherenaut by OpenZeppelin
-  * [Ethernaut security game](https://ethernaut.openzeppelin.com/)
 
+## Games
+- Security Games
+  - OpenZeppelin
+    * [Ethernaut](https://ethernaut.openzeppelin.com/)
+    * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  - SMARX
+    * [Capture the Ether](https://capturetheether.com/)
+  
 ## Full Stack Development Tutorials
 - [dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
 - [Complete Guide to full stack Ethereum Development](https://www.youtube.com/watch?v=WsZyb2T83lo)
@@ -378,7 +387,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/)
 
 ## Where to ask for Help
-- [Ethereum at SStack exchange](https://ethereum.stackexchange.com/)
+- [Ethereum at Stack exchange](https://ethereum.stackexchange.com/)
+- [Gitter Ethereum](https://gitter.im/ethereum/solidity/)
 
 ## Additional GitHub Repositories
 - [ConsenSys Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
