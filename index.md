@@ -52,8 +52,10 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 - Editors and IDEs (Integrated development environments)
   * [Remix](https://remix.ethereum.org)
   * [Remix-Desktop](https://github.com/ethereum/remix-desktop)
+  * [ethfiddle](https://ethfiddle.com/)
   * [Atom](https://atom.io/)
   * [Visual studio Code](https://code.visualstudio.com/)
+  * [MS Visual Studio Live share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
   * [JetBrains Idea](https://www.jetbrains.com/idea)
 
 - Git clients
@@ -227,8 +229,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Solidity Fundamentals
 - Data Types and Variables,
 - Functions,
-- Storage and Memory,
-- Contract Structure,
+- Storage and Memory
+- Contract Structure
 - Reading Smart Contracts,
 - Smart Contract Application Binary Interface,
 - Events and Logs,
@@ -285,7 +287,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Web3.py and Python interaction
 - Desktop Interaction through Python
 
-## Boiler Plates for creating Dapps
+## Templates for creating Dapps
 * Blockchain Integrated:
   * [Truffle Boxes](https://www.trufflesuite.com/boxes)
 * Blockchain NOT integrated:
@@ -318,6 +320,15 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [how to get into web3 as a developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - [Ethereum dapp crash course](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [React bootstrap Guide](https://react-bootstrap.github.io/)
+
+## DeFi
+
+## DAOs
+  * concepts  
+  * DAOStack
+  * Aragon
+  * Colony
+
 
 ## Developer Video guides
 - [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
