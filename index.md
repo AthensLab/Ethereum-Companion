@@ -331,6 +331,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [React bootstrap Guide](https://react-bootstrap.github.io/)
 
 ## DeFi
+  * concepts
 
 ## DAOs
   * concepts  
