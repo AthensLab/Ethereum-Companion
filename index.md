@@ -205,7 +205,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Testing Ethereum](https://www.innoq.com/en/blog/testing-ethereum/)
   * [How to set up a custom Ethereum Testnet](https://www.ulam.io/blog/how-to-setup-custom-ethereum-testnet/)
 
-
 - Etherscan
   * [MainNet Etherscan](https://etherscan.io/)
   * [Ropsten Etherscan](https://ropsten.etherscan.io/)
@@ -389,7 +388,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Other web frameworks with smart contracts
   * web3.js
   * ether.js
-  
+
 - Web3.py and Python interaction
 - Desktop Interaction through Python
 
