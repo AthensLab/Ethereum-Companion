@@ -1,6 +1,6 @@
 ## Welcome to the AthensLab Ethereum Developer Companion
 
-This website has been developed as a companion to the Consensys Blockchain Developer Bootcamp and is designed as a series of structured links and content, that when followed over four months, will provide you with the basic knowledge to develop decentralised applications.
+This website has been developed as a companion to the ConsenSys Blockchain Developer Bootcamp 2021 and is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications.
 
 
 ## Onboarding
@@ -9,12 +9,12 @@ This website has been developed as a companion to the Consensys Blockchain Devel
 - [Developer onboarding on Ethereum - Ethereum.org](https://ethereum.org/en/developers/docs/)
 
 ## Setting up a development environment
-- Linux distirbution
+- Linux distribution
   * [Ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
   * [mint](https://linuxmint.com/)
   * [MX Linux](https://mxlinux.org/)
 
-- Windows,
+- Windows
   * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   * [Ethereum developers guide to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
@@ -30,7 +30,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Nethermind, a .NET client](https://nethermind.io/)
   * [Infura](infura.io)
 
--  Deployment of a personal development environment.
+-  Deployment of a personal development environment
   * [Stacks on Ethereum/](https://ethereum.org/en/developers/local-environment/)
 
 - Editors and IDEs (Integrated development environments)
@@ -56,12 +56,12 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
     * [How Does a Blockchain Work? - Video](https://www.youtube.com/watch?v=SSo_EIwHSd4)
     * [A Visual Blockchain Demo - Video](https://www.youtube.com/watch?v=_160oMzblY8)
 
-- Distributed Ledgers,
+- Distributed Ledgers
   * [A review of DLTs by N.E.Ioini & C.Pahl](https://www.researchgate.net/profile/Claus-Pahl/publication/328475892_A_Review_of_Distributed_Ledger_Technologies/links/5bd0085ba6fdcc204a036252/A-Review-of-Distributed-Ledger-Technologies.pdf)
   * [Distributed Ledger Technology: Beyond Blockchain - UK gov office for Science](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
   * [WorldBank on DLTs](https://www.worldbank.org/en/topic/financialsector/brief/blockchain-dlt)
 
-- Consensus Mechanisms,
+- Consensus Mechanisms
   * [Consensus mechanisms](https://mastanbtc.github.io/blockchainnotes/consensustypes/)
   * [review of consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
   * [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
@@ -70,7 +70,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Transactions](https://ethereum.org/en/developers/docs/transactions/)
   * [Blocks](https://ethereum.org/en/developers/docs/blocks/)
 
-- Mining & Staking,
+- Mining & Staking
   * [Proof of Work at Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
   * [Mining](https://eth.wiki/fundamentals/mining)
   * [Ethash: Dagger Hashimoto](https://eth.wiki/en/concepts/ethash/ethash)
@@ -78,7 +78,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [start staking on Ethereum](https://ethereum.org/en/eth2/staking/)
   * [Mining vs  staking](https://major-capital.com/en/mining-vs-staking/)
   * [Bye, Bye Miners](https://www.bloomberg.com/news/articles/2021-08-14/bye-bye-miners-how-ethereum-s-big-change-will-work-quicktake)
-
 
 - Network Peer Discovery and Messaging
   * [Analysing the Underlying Peeer-to-Peer Network of Ethereum Blockchain, Wang et al](https://arxiv.org/pdf/2010.01373.pdf)
@@ -89,7 +88,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 - Public and Private Blockchains
     * [Public and private blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) A blog post by V.Buterin
 
-- Distributed Ledger Platforms.
+- Distributed Ledger Platforms
   * [Hyperledger](https://www.hyperledger.org/use/fabric)
 
 ## Blockchain Basics
@@ -101,7 +100,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Practical Cryptography](https://rizkia.staff.telkomuniversity.ac.id/files/2016/02/Practical-Cryptography-Niels-Ferguson-Bruce-Schneier.pdf)
   *[overview of modern cryptography](https://cryptobook.nakov.com/cryptography-overview)
 
-- Cryptographic Hash functions,
+- Cryptographic Hash functions
   * [Secure hash algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/)
   * [Back to basics](https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7015.html)
   * [MD5](https://searchsecurity.techtarget.com/definition/MD5)
@@ -112,21 +111,21 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Eth-hash keccak256](https://github.com/ethereum/eth-hash)
   * [Lecture by Christof Paar](https://www.youtube.com/watch?v=JWskjzgiIa4)
 
-- Using Cryptograpic Hash functions,
+- Using Cryptograpic Hash functions
   * [How hash algorithms work](https://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software)
   * [Cryptographic hashing on Hackernoon](https://hackernoon.com/cryptographic-hashing-c25da23609c3)
   * [Hashing functions in Blockchain](https://hackernoon.com/learn-the-blockchain-basics-part-3-hashing-functions-vt1435ow)
 
-- Public Key Cryptography,
+- Public Key Cryptography
   * [Symmetric and Assymmetric public key cryptography](https://hackernoon.com/how-does-symmetric-and-asymmetric-public-key-cryptography-work-i6dy37pl)
   * [Public Key Cryptography Glossary](https://hackernoon.com/glossary-of-security-terms-public-key-cryptography-fri3u4d)
   * [Public key cryptography RSA keys](https://hackernoon.com/public-key-cryptography-rsa-keys-izda3ylv)
 
-- Merkle Trees,
+- Merkle Trees
   * [Ever wonder how Merkle trees work?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)
   * [Getting to the root of th emerkle tree concept](https://hackernoon.com/getting-to-the-root-of-the-merkle-tree-concept-and-how-it-affects-blockchain-technology)
 
-- Using Merkle Trees,
+- Using Merkle Trees
 * [Merkle Tree Introduction](https://hackernoon.com/merkle-tree-introduction-4c44250e2da7)
 * [What is a Merkle Tree](httpe://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
 * [Merkle Trer Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
@@ -180,7 +179,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
   * Proof of Work
 
-
   * Proof of Stake
 - [Blocks](https://ethereum.org/en/developers/docs/blocks/)
   * [Ethereum Block Structure Visualised](https://i.stack.imgur.com/eOwjD.png)
@@ -193,7 +191,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [maths behind elliptic curve cryptography](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
   * [easy to understand primer on elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
   * [Bitcoin Book:Elliptic Curve Cryptography](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc#elliptic-curve-cryptography-explained)
-
 
 - MainNet and TestNets
   * [Networks on ethereum](https://ethereum.org/en/developers/docs/networks/)
@@ -214,14 +211,14 @@ Interesting to read as Buterin goes through the internal thought process of crea
  - [EthWiki](https://eth.wiki/home)
 
 ## Traditional and Decentralised application development
-- Decentralised application development,
-- Similarities and differences,
-- Development setup,
-- Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS ),
-- Geth (and Staking Eth2 node),
-- Other Ethereum Node Software,
-- Connecting to a testnet,
-- Setting up your own Ethereum private network,
+- Decentralised application development
+- Similarities and differences
+- Development setup
+- Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS )
+- Geth (and Staking Eth2 node)
+- Other Ethereum Node Software
+- Connecting to a testnet
+- Setting up your own Ethereum private network
 - Setting up your own node on ethereum (Geth, dappnode.io, Parity)
 
 
@@ -436,8 +433,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Uniswap 2](https://solidity-by-example.org/defi/uniswap-v2/)
 
 
-## DAOs
-  * concepts  
+## Decentralised Autonomous Orrganisations  - DAOs 道
+  * Concepts  
   * DAOStack
   * Aragon
   * Colony
