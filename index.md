@@ -56,7 +56,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
     * [How Does a Blockchain Work? - Video](https://www.youtube.com/watch?v=SSo_EIwHSd4)
     * [A Visual Blockchain Demo - Video](https://www.youtube.com/watch?v=_160oMzblY8)
 
-
 - Distributed Ledgers,
   * [A review of DLTs by N.E.Ioini & C.Pahl](https://www.researchgate.net/profile/Claus-Pahl/publication/328475892_A_Review_of_Distributed_Ledger_Technologies/links/5bd0085ba6fdcc204a036252/A-Review-of-Distributed-Ledger-Technologies.pdf)
   * [Distributed Ledger Technology: Beyond Blockchain - UK gov office for Science](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
@@ -133,21 +132,31 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 * [Merkle Trer Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
 
 - Blockchain Structure
+  * [security and privacy issues on blockchain technology - intro to basic structure of BC](https://www.researchgate.net/publication/325173502_A_survey_on_security_and_privacy_issues_of_blockchain_technology)
+  * [basic blockchain structure on O' Reilly](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/ch07.html)
+
 
 - Building a Blockchain
   * [Learn Blockchains by Building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
   * [Create your own blockchain - python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
+  * [Blockchain basics on Solidity](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
-- Smart Contracts,
+- Smart contracts
   * [Formalizing and Scuring Relationships on Public Networks - first menetion of SC](https://firstmonday.org/ojs/index.php/fm/article/view/548)
   * [Smart Contracts on Wikipedia](https://en.wikipedia.org/wiki/Smart_contract)
   * [Smart contracts on Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
   * [Smart contracts on Cardano](https://docs.cardano.org/new-to-cardano/what-is-a-smart-contract)
 
-- Smart Contracts: Additional reading and sources
 - Blockchain Nodes
-- Blockchain Forks
+  * [What is a node](https://coinmarketcap.com/alexandria/article/what-is-a-node)
+  * [Blockchain as a service](https://www.infoq.com/articles/blockchain-as-a-service-get-block/)
+  * [Blockchain nodes 101](https://101blockchains.com/blockchain-nodes/)
 
+- Blockchain Forks
+  * [a history of bitcoin forks](https://www.investopedia.com/tech/history-bitcoin-hard-forks/)
+  * [What are blockchain forks?](https://www.youtube.com/watch?v=boARRLlu5Uc)
+  * [An oveview of forks and blockchain development](https://www.researchgate.net/publication/349492184_An_Overview_of_Forks_and_Coordination_in_Blockchain_Development)
+  
 ## “Ethereum” Basics
 - [Ethereum "pre-history"](https://vitalik.ca/general/2017/09/14/prehistory.html) Vitalik Buterin blog post:
 Interesting to read as Buterin goes through the internal thought process of creating a fee based ledger that is Turing complete, i.e a state machine. Note the simplicity of the programmatic loop the devises to validate his concept
@@ -197,7 +206,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Development frameworks and environment
 - [Solidity and Blockchain Development Big Picture](https://soliditydeveloper.com/solidity-overview-2020)
-- Introduction,
+- Introduction
+  * [Solidity Language Documentation](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
+
 - Development Workflow- low level,
 - Blockchain Development Tools
   * [Truffle Suite](https://www.trufflesuite.com/)
