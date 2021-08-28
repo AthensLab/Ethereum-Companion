@@ -379,8 +379,12 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Integrating with React
   * [How to connect React to Ethereum](https://medium.com/fullstacked/connect-react-to-ethereum-b117986d56c1)
   * [How to fetch and update data from Ethereum](https://consensys.net/blog/developers/how-to-fetch-and-update-data-from-ethereum-with-react-and-swr/)
+
+- Examples of Rimble use
+  * [Rimpble App demo by ConsenSys - Code](https://github.com/ConsenSys/rimble-app-demo)
+  * [Rimblee app demo by ConsenSys - Demo](https://consensys.github.io/rimble-app-demo/)
   
-- Examples of Rimble use,
+
 - Other web frameworks with smart contracts
 - Web3.py and Python interaction
 - Desktop Interaction through Python
