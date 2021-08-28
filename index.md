@@ -167,8 +167,12 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Web2 vs Web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)
 - [Accounts](https://ethereum.org/en/developers/docs/accounts/)
   * Externally Owned
-
+    [EOA by gnosis](https://docs.gnosis.io/safe/docs/intro_accounts/)
+    [understanding EOA through deciphering a transaction](https://docs.ethhub.io/guides/deciphering-a-transaction-on-etherscan/)
   * Contract Owned
+    [Contract & EO accounts](https://www.theengineeringprojects.com/2021/06/ethereum-accounts-definition-types-and-fields.html)
+    [Contract deployment](https://programtheblockchain.com/posts/2018/01/09/how-smart-contract-deployment-works/)
+
 - [Transactions](https://ethereum.org/en/developers/docs/transactions/)
 - [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
 - [Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
