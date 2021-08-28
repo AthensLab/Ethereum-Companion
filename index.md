@@ -251,7 +251,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 - Developer Tools guides
   * [Ethereum Developer tools by Consensys](https://github.com/ConsenSys/ethereum-developer-tools-list)
-  
+
 
 
 ## Solidity Fundamentals
@@ -327,7 +327,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [OpenZeppelin](https://openzeppelin.com/contracts/)
   * [Modular network Lirbaries](https://github.com/modular-network/ethereum-libraries)
 
-- Smart Contract system Design,
+- Smart Contract system Design
+  * [Building your Dapp](https://docs.openzeppelin.com/learn/building-a-dapp)
+  * [towards better voting prottocols](https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119/)
+  * [designing tthe architecture of your ethereum application](https://blog.openzeppelin.com/designing-the-architecture-for-your-ethereum-application-9cec086f8317/)
+  
 - Writing a Smart Contract - proof of existence
   * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
 
