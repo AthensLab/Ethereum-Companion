@@ -383,9 +383,13 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Examples of Rimble use
   * [Rimpble App demo by ConsenSys - Code](https://github.com/ConsenSys/rimble-app-demo)
   * [Rimblee app demo by ConsenSys - Demo](https://consensys.github.io/rimble-app-demo/)
-  
+  * [Rimples examples](https://codesandbox.io/examples/package/rimble-ui)
+
 
 - Other web frameworks with smart contracts
+  * web3.js
+  * ether.js
+  
 - Web3.py and Python interaction
 - Desktop Interaction through Python
 
