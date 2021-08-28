@@ -376,7 +376,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [infura](https://infura.io)
   * [What is metamask](https://decrypt.co/resources/metamask)
 
-- Integrating with React,
+- Integrating with React
+  * [How to connect React to Ethereum](https://medium.com/fullstacked/connect-react-to-ethereum-b117986d56c1)
+  * [How to fetch and update data from Ethereum](https://consensys.net/blog/developers/how-to-fetch-and-update-data-from-ethereum-with-react-and-swr/)
+  
 - Examples of Rimble use,
 - Other web frameworks with smart contracts
 - Web3.py and Python interaction
