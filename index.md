@@ -247,7 +247,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 - Hardhat
 
-- setting up HardHat guide,
+- setting up HardHat guide
+
+- Developer Tools guides
+  * [Ethereum Developer tools by Consensys](https://github.com/ConsenSys/ethereum-developer-tools-list)
+  
 
 
 ## Solidity Fundamentals
@@ -292,7 +296,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Solidity Events](https://www.tutorialspoint.com/solidity/solidity_events.htm)
   * [How to use events for logging](https://betterprogramming.pub/learn-solidity-events-2801d6a99a92)
   * [How to use eevents in solidity](https://hackernoon.com/how-to-use-events-in-solidity-pe1735t5)
-  
+
 - Factory Contracts,
 - [Solidity Fast Track Part 1](https://soliditydeveloper.com/solidity-fast-track),
 - [Solidity Fast Track Part 2](https://soliditydeveloper.com/solidity-fast-track-2),
@@ -308,9 +312,21 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [multi-sig wallet](https://solidity-by-example.org/app/multi-sig-wallet/)
 
 - Inter-Contract Execution
+  * [Basic example on stackexchange](https://ethereum.stackexchange.com/questions/1599/basic-example-of-interaction-between-2-contracts)
+  * [Interactions between contract](https://dappsforbeginners.wordpress.com/tutorials/interactions-between-contracts/)
+  * [Calling other conttract](https://solidity-by-example.org/calling-contract/)
+  * [Contract that crreeates other contracts](https://solidity-by-example.org/new-contract/)
 
-- Inheritance,
-- Libraries and the Ethereum Package manager,
+- Inheritance
+  * [Solidity Inheritance](https://www.geeksforgeeks.org/solidity-inheritance/#:~:text=Solidity%20supports%20inheritance%20between%20smart,is%20called%20a%20derived%20contract.)
+  * [Contracts are classes](https://ethereumdev.io/inheritance-in-solidity-contracts-are-classes/)
+  * [Inheritance in Solidity Docs](https://docs.soliditylang.org/en/v0.8.6/contracts.html?highlight=inheritance#inheritance)
+
+- Libraries and the Ethereum Package manager
+  * [Libraries at Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/libraries/)
+  * [OpenZeppelin](https://openzeppelin.com/contracts/)
+  * [Modular network Lirbaries](https://github.com/modular-network/ethereum-libraries)
+
 - Smart Contract system Design,
 - Writing a Smart Contract - proof of existence
   * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
