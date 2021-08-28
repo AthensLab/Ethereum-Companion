@@ -100,6 +100,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Schneir's Applied Crryptography online](https://www.schneier.com/blog/archives/2014/01/applied_cryptog_1.html)
   * [Introduction to modern cryptosystems](https://www.giac.org/paper/gsec/2604/introduction-modern-cryptosystems/104482)  
   * [Practical Cryptography](https://rizkia.staff.telkomuniversity.ac.id/files/2016/02/Practical-Cryptography-Niels-Ferguson-Bruce-Schneier.pdf)
+  *[overview of modern cryptography](https://cryptobook.nakov.com/cryptography-overview)
 
 - Cryptographic Hash functions,
   * [Secure hash algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/)
@@ -131,11 +132,11 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 * [What is a Merkle Tree](httpe://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
 * [Merkle Trer Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
 
-- Blockchain Structure,
-- Building a Blockchain,
+- Blockchain Structure
+
+- Building a Blockchain
   * [Learn Blockchains by Building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
   * [Create your own blockchain - python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
-
 
 - Smart Contracts,
   * [Formalizing and Scuring Relationships on Public Networks - first menetion of SC](https://firstmonday.org/ojs/index.php/fm/article/view/548)
@@ -143,7 +144,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Smart contracts on Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
   * [Smart contracts on Cardano](https://docs.cardano.org/new-to-cardano/what-is-a-smart-contract)
 
-- Smart Contracts: Additional reading and sources,
+- Smart Contracts: Additional reading and sources
 - Blockchain Nodes
 - Blockchain Forks
 
@@ -157,6 +158,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Web2 vs Web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)
 - [Accounts](https://ethereum.org/en/developers/docs/accounts/)
   * Externally Owned
+
   * Contract Owned
 - [Transactions](https://ethereum.org/en/developers/docs/transactions/)
 - [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
@@ -169,6 +171,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 - [Generating Ethereum Addresses](https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo)
 - Elliptic Curve Cryptography
+  * [Basic Introduction to elliptic curve cryptography](https://qvault.io/cryptography/elliptic-curve-cryptography/)
+  * [Practical Elliptic Curve Cryptography](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
+  * [maths behind elliptic curve cryptography](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
 
 - MainNet and TestNets
 - Sharding
@@ -401,7 +406,7 @@ By Following the Companion,  learners will be able to show evidence of:
 5.Build, Deploy and showcase a decentralised application on Ethereum.
 
 Indicative  Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice.
-Recommended  Workload: 20 hours per week, with 10 hours per week devoted to hands-on practice. 
+Recommended  Workload: 20 hours per week, with 10 hours per week devoted to hands-on practice.
 
 
 _maintained by_
