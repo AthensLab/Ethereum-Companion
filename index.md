@@ -156,7 +156,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [a history of bitcoin forks](https://www.investopedia.com/tech/history-bitcoin-hard-forks/)
   * [What are blockchain forks?](https://www.youtube.com/watch?v=boARRLlu5Uc)
   * [An oveview of forks and blockchain development](https://www.researchgate.net/publication/349492184_An_Overview_of_Forks_and_Coordination_in_Blockchain_Development)
-  
+
 ## “Ethereum” Basics
 - [Ethereum "pre-history"](https://vitalik.ca/general/2017/09/14/prehistory.html) Vitalik Buterin blog post:
 Interesting to read as Buterin goes through the internal thought process of creating a fee based ledger that is Turing complete, i.e a state machine. Note the simplicity of the programmatic loop the devises to validate his concept
@@ -188,7 +188,21 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [easy to understand primer on elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 
 - MainNet and TestNets
-- Sharding
+  * [Networks on ethereum](https://ethereum.org/en/developers/docs/networks/)
+  * [Deveelopment Networks](https://ethereum.org/en/developers/docs/development-networks/)
+  * [Kovan Test Network](https://kovan-testnet.github.io/website/)
+  * [Rinkeby Test Network](https://www.rinkeby.io/#stats)
+  * [Goerli Test Network](https://goerli.net/)
+  * [Connecting to public testnets](https://docs.openzeppelin.com/learn/connecting-to-public-test-networks)
+  * [Testing Ethereum](https://www.innoq.com/en/blog/testing-ethereum/)
+  * [How to set up a custom Ethereum Testnet](https://www.ulam.io/blog/how-to-setup-custom-ethereum-testnet/)
+
+
+- Etherscan
+  * [MainNet Etherscan](https://etherscan.io/)
+  * [Ropsten Etherscan](https://ropsten.etherscan.io/)
+  * [Rinkeby Etherscan](https://rinkeby.etherscan.io/)
+
 - Tokens and Token Standards
  - [EthWiki](https://eth.wiki/home)
 
@@ -374,8 +388,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Ethereum 2
-- How to set up an ethereum 2 node,
-- Ethereum 2 node software.
+- Sharding
+- How to set up an ethereum 2 node
+- Ethereum 2 node software
 
 ## Additional & Specialised Topics
 - Ethereum Improvement Proposals
