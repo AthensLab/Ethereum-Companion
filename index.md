@@ -517,11 +517,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 By Following the Companion,  learners will be able to show evidence of:
 
-1.Describe Blockchain primitives and basics and give examples for their usage.
-2.Prepare and demonstrate setting up a development environment for Ethereum.
-3.Compose basic Smart contracts and their tests and deploy them in a test environment.
-4.Produce an evaluation of common security issues in smart contracts.
-5.Build, Deploy and showcase a decentralised application on Ethereum.
+1. Describe Blockchain primitives and basics and give examples for their usage.
+2. Prepare and demonstrate setting up a development environment for Ethereum.
+3. Compose basic Smart contracts and their tests and deploy them in a test environment.
+4. Produce an evaluation of common security issues in smart contracts.
+5. Build, Deploy and showcase a decentralised application on Ethereum.
 
 Indicative  Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice.
 Recommended  Workload: 20 hours per week, with 10 hours per week devoted to hands-on practice.
