@@ -190,6 +190,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Practical Elliptic Curve Cryptography](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
   * [maths behind elliptic curve cryptography](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
   * [easy to understand primer on elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+  * [Bitcoin Book:Elliptic Curve Cryptography](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc#elliptic-curve-cryptography-explained)
+
 
 - MainNet and TestNets
   * [Networks on ethereum](https://ethereum.org/en/developers/docs/networks/)
@@ -247,10 +249,26 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
 
 ## Solidity Fundamentals
-- Data Types and Variables,
-- Functions,
+- Layout & Structure
+  * [Layout of a solidity file](https://docs.soliditylang.org/en/v0.8.7/layout-of-source-files.html)
+  * [Structure](https://docs.soliditylang.org/en/v0.8.7/structure-of-a-contract.html)
+
+- Data Types and Variables
+  * [Value Types](https://docs.soliditylang.org/en/v0.8.7/types.html#value-types)
+  * [Units and global variables](https://docs.soliditylang.org/en/v0.8.7/units-and-global-variables.html)
+  * [Variables by example](https://solidity-by-example.org/variables/)
+
+- Functions
+  * [Functions](https://docs.soliditylang.org/en/v0.8.7/structure-of-a-contract.html#functions)
+  * [Functions by Example](https://solidity-by-example.org/function/)
+  * [Function Modifier](https://solidity-by-example.org/function-modifier/)
+  * [Functtion Selector](https://solidity-by-example.org/function-selector/)
+
+
 - Storage and Memory
-- Contract Structure
+  * [Storage by example](https://solidity-by-example.org/data-locations/)
+  * [Storage, Memory & the stack](https://docs.soliditylang.org/en/v0.8.7/introduction-to-smart-contracts.html?highlight=memory#storage-memory-and-the-stack)
+  
 - Reading Smart Contracts,
 - Smart Contract Application Binary Interface,
 - Events and Logs,
