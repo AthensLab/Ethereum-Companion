@@ -2,22 +2,6 @@
 
 This website has been developed as a companion to the Consensys Blockchain Developer Bootcamp and is designed as a series of structured links and content, that when followed over four months, will provide you with the basic knowledge to develop decentralised applications.
 
-## Learning Outcomes
-
-By Following the Companion,  learners will be able to show evidence of:
-
-1.Describe Blockchain primitives and basics and give examples for their usage.
-
-2.Prepare and demonstrate setting up a development environment for Ethereum.
-
-3.Compose basic Smart contracts and their tests and deploy them in a test environment.
-
-4.Produce an evaluation of common security issues in smart contracts.
-
-5.Build, Deploy and showcase a decentralised application on Ethereum.
-
-Indicative Learner Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice. / Recommended Learner Workload:
-20 hours per week, with 10 hours per week devoted to hands-on practice. 5 hours per week, spent on theory, fundamentals and seminars.
 
 ## Onboarding
 - [Consensys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
@@ -185,6 +169,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 - [Generating Ethereum Addresses](https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo)
 - Elliptic Curve Cryptography
+
 - MainNet and TestNets
 - Sharding
 - Tokens and Token Standards
@@ -321,7 +306,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
     * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
   - SMARX
     * [Capture the Ether](https://capturetheether.com/)
-  
+
 ## Full Stack Development Tutorials
 - [dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
 - [Complete Guide to full stack Ethereum Development](https://www.youtube.com/watch?v=WsZyb2T83lo)
@@ -404,6 +389,19 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Additional GitHub Repositories
 - [ConsenSys Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
+
+## Learning Outcomes
+
+By Following the Companion,  learners will be able to show evidence of:
+
+1.Describe Blockchain primitives and basics and give examples for their usage.
+2.Prepare and demonstrate setting up a development environment for Ethereum.
+3.Compose basic Smart contracts and their tests and deploy them in a test environment.
+4.Produce an evaluation of common security issues in smart contracts.
+5.Build, Deploy and showcase a decentralised application on Ethereum.
+
+Indicative  Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice.
+Recommended  Workload: 20 hours per week, with 10 hours per week devoted to hands-on practice. 
 
 
 _maintained by_
