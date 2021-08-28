@@ -146,6 +146,8 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Smart Contracts on Wikipedia](https://en.wikipedia.org/wiki/Smart_contract)
   * [Smart contracts on Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
   * [Smart contracts on Cardano](https://docs.cardano.org/new-to-cardano/what-is-a-smart-contract)
+  * [Understanding smart contracts](http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/)
+
 
 - Blockchain Nodes
   * [What is a node](https://coinmarketcap.com/alexandria/article/what-is-a-node)
@@ -230,6 +232,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Solidity Language Documentation](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
 - Development Workflow- low level,
+
 - Blockchain Development Tools
   * [Truffle Suite](https://www.trufflesuite.com/)
     * [Ganache GUI](https://www.trufflesuite.com/ganache)
@@ -238,17 +241,20 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Hardhat](https://hardhat.org/)
     * [Beginners Tutorial](https://hardhat.org/tutorial/)
   * [Alchemy](https://www.alchemy.com/)
-- Structure of a truffle project,
-- Ganache GUI.
-- Hardhat,
+- Structure of a truffle project
+
+- Ganache GUI
+
+- Hardhat
+
 - setting up HardHat guide,
 
-## Solidity Language Fundamentals
+
+## Solidity Fundamentals
 - [Solidity Language](https://soliditylang.org/),
 - [Solidity Documentation](https://docs.soliditylang.org/),
 - [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
 
-## Solidity Fundamentals
 - Layout & Structure
   * [Layout of a solidity file](https://docs.soliditylang.org/en/v0.8.7/layout-of-source-files.html)
   * [Structure](https://docs.soliditylang.org/en/v0.8.7/structure-of-a-contract.html)
@@ -268,10 +274,25 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Storage and Memory
   * [Storage by example](https://solidity-by-example.org/data-locations/)
   * [Storage, Memory & the stack](https://docs.soliditylang.org/en/v0.8.7/introduction-to-smart-contracts.html?highlight=memory#storage-memory-and-the-stack)
+
+- Reading Smart Contracts
+  * [Solidity by Example](https://solidity-by-example.org/)
+  * [Reading OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/)
+  * [OpenZeppelin on Github](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
+- Smart Contract Application Binary Interface [ABI]
+  * [ABI](https://docs.soliditylang.org/en/v0.8.6/abi-spec.html)
+  * [ABI bytecode and the EVM](https://medium.com/@eiki1212/explaining-ethereum-contract-abi-evm-bytecode-6afa6e917c3b)
+  * [Understanding ABIs step by step](https://www.quicknode.com/guides/solidity/what-is-an-abi)
+  * [ABI on alchemy](https://docs.alchemy.com/alchemy/guides/eth_getlogs#what-are-ab-is)
+  * [ABI encoding in Ethereum](https://docs.nethereum.com/en/latest/nethereum-abi-encoding/)
+
+- Events and Logs
+  * [Events](https://docs.soliditylang.org/en/develop/abi-spec.html#events)
+  * [Solidity Events](https://www.tutorialspoint.com/solidity/solidity_events.htm)
+  * [How to use events for logging](https://betterprogramming.pub/learn-solidity-events-2801d6a99a92)
+  * [How to use eevents in solidity](https://hackernoon.com/how-to-use-events-in-solidity-pe1735t5)
   
-- Reading Smart Contracts,
-- Smart Contract Application Binary Interface,
-- Events and Logs,
 - Factory Contracts,
 - [Solidity Fast Track Part 1](https://soliditydeveloper.com/solidity-fast-track),
 - [Solidity Fast Track Part 2](https://soliditydeveloper.com/solidity-fast-track-2),
@@ -281,13 +302,23 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [EthFiddle - Solidity < 0.7.1](https://ethfiddle.com/)
 
 ## Writing Smart Contracts
-- Introductory Smart Contracts,
-- Inter-Contract Execution,
+- Introductory Smart Contracts
+  * [Hello World](https://solidity-by-example.org/hello-world/)
+  * [first app -count](https://solidity-by-example.org/first-app/)
+  * [multi-sig wallet](https://solidity-by-example.org/app/multi-sig-wallet/)
+
+- Inter-Contract Execution
+
 - Inheritance,
 - Libraries and the Ethereum Package manager,
 - Smart Contract system Design,
-- Writing a Smart Contract - proof of existence,
+- Writing a Smart Contract - proof of existence
+  * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
+
+
 - Examples: Simple Bank, Supply Chain
+
+
 - Examples: Deploying a Voting Smart Contract
 * [Deploying a Voting Smart Contract](https://www.youtube.com/watch?v=GB3hiiNNDjk)
 - The OpenZeppelin Libraries
@@ -368,6 +399,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## DeFi
   * concepts
+  * [Uniswap 2](https://solidity-by-example.org/defi/uniswap-v2/)
+
 
 ## DAOs
   * concepts  
