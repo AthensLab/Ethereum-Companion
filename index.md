@@ -94,7 +94,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Hyperledger](https://www.hyperledger.org/use/fabric)
 
 ## Blockchain Basics
-- Cryptography,
+- Cryptography
   * [Cryptography in Wikipedia](https://en.wikipedia.org/wiki/Cryptography)
   * [Schneier on Cryptography](https://www.schneier.com/blog/archives/2016/03/cryptography_is.html)
   * [Schneir's Applied Crryptography online](https://www.schneier.com/blog/archives/2014/01/applied_cryptog_1.html)
@@ -164,6 +164,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
 - [Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
   * Proof of Work
+
+
   * Proof of Stake
 - [Blocks](https://ethereum.org/en/developers/docs/blocks/)
   * [Ethereum Block Structure Visualised](https://i.stack.imgur.com/eOwjD.png)
@@ -174,6 +176,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Basic Introduction to elliptic curve cryptography](https://qvault.io/cryptography/elliptic-curve-cryptography/)
   * [Practical Elliptic Curve Cryptography](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
   * [maths behind elliptic curve cryptography](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
+  * [easy to understand primer on elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 
 - MainNet and TestNets
 - Sharding
@@ -191,10 +194,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Setting up your own Ethereum private network,
 - Setting up your own node on ethereum (Geth, dappnode.io, Parity)
 
-
-## Ethereum 2
-- How to set up an ethereum 2 node,
-- Ethereum 2 node software.
 
 ## Development frameworks and environment
 - [Solidity and Blockchain Development Big Picture](https://soliditydeveloper.com/solidity-overview-2020)
@@ -304,7 +303,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Re-entrancy example,
 - Integer under/overflow (until 0.7.0),
 
-## Games
+## Learning throufh Gamification
 - Security Games
   - OpenZeppelin
     * [Ethernaut](https://ethernaut.openzeppelin.com/)
@@ -362,6 +361,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 * [Building Graph QL APIs on Ethereum](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)
 
 
+
+## Ethereum 2
+- How to set up an ethereum 2 node,
+- Ethereum 2 node software.
 
 ## Additional & Specialised Topics
 - Ethereum Improvement Proposals
