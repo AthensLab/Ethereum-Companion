@@ -331,7 +331,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Building your Dapp](https://docs.openzeppelin.com/learn/building-a-dapp)
   * [towards better voting prottocols](https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119/)
   * [designing tthe architecture of your ethereum application](https://blog.openzeppelin.com/designing-the-architecture-for-your-ethereum-application-9cec086f8317/)
-  
+
 - Writing a Smart Contract - proof of existence
   * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
 
@@ -371,10 +371,14 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Interaction with Smart Contract using web3.js](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8a1ebd)
 - Connecting web3.js to a contract,
 - [Truffle Pet Shop Tutorial](https://www.trufflesuite.com/tutorial)
-- Metamask,
+- Metamask
+  * [Metamask](https://metamask.io/)
+  * [infura](https://infura.io)
+  * [What is metamask](https://decrypt.co/resources/metamask)
+
 - Integrating with React,
 - Examples of Rimble use,
-- Other web frameworks with smart contracts,
+- Other web frameworks with smart contracts
 - Web3.py and Python interaction
 - Desktop Interaction through Python
 
@@ -390,7 +394,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Catching Errors In Tests,
 - Smart Contract Best Practices,
   * [Smart Contracts best practices](https://consensys.github.io/smart-contract-best-practices/)
-  * [Known attack vectors and common antipatterns](https://blog.sigmaprime.io/solidity-security.html)
+  * [Known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
   *
 - Exploits,
 - Gas Optimisation,
