@@ -178,8 +178,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
 - [Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
   * Proof of Work
-
+    [proof of work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
   * Proof of Stake
+    [proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+
 - [Blocks](https://ethereum.org/en/developers/docs/blocks/)
   * [Ethereum Block Structure Visualised](https://i.stack.imgur.com/eOwjD.png)
 - [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
@@ -194,7 +196,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 - MainNet and TestNets
   * [Networks on ethereum](https://ethereum.org/en/developers/docs/networks/)
-  * [Deveelopment Networks](https://ethereum.org/en/developers/docs/development-networks/)
+  * [Development Networks](https://ethereum.org/en/developers/docs/development-networks/)
   * [Kovan Test Network](https://kovan-testnet.github.io/website/)
   * [Rinkeby Test Network](https://www.rinkeby.io/#stats)
   * [Goerli Test Network](https://goerli.net/)
@@ -214,7 +216,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Decentralised application development
 - Similarities and differences
 - Development setup
-- Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS )
+- Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS)
 - Geth (and Staking Eth2 node)
 - Other Ethereum Node Software
 - Connecting to a testnet
