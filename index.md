@@ -227,26 +227,37 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Introduction
   * [Solidity Language Documentation](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
-- Development Workflow- low level,
+- Development Workflow-low level
 
 - Blockchain Development Tools
   * [Truffle Suite](https://www.trufflesuite.com/)
     * [Ganache GUI](https://www.trufflesuite.com/ganache)
     * [Ganache CLI](https://github.com/trufflesuite/ganache-cli-archive)
     * [Drizzle](https://www.trufflesuite.com/drizzle)
-  * [Hardhat](https://hardhat.org/)
+    * [Hardhat](https://hardhat.org/)
     * [Beginners Tutorial](https://hardhat.org/tutorial/)
-  * [Alchemy](https://www.alchemy.com/)
+    * [Alchemy](https://www.alchemy.com/)
+
 - Structure of a truffle project
+  * [Trufflesuite guides](https://www.trufflesuite.com/guides)
+  * [Trufflesuite PetShop Tutorial](https://www.trufflesuite.com/tutorial)
+
 
 - Ganache GUI
+  * [Guides on using Ganache](https://www.trufflesuite.com/guides)
 
 - Hardhat
+  * [Hello world Tutorial with Hardhat](https://ethereum.org/en/developers/tutorials/waffle-say-hello-world-with-hardhat-and-ethers/)
+  * [Create and Deploy a smart contract with Hardhat](https://www.quicknode.com/guides/web3-sdks/how-to-create-and-deploy-a-smart-contract-with-hardhat)
 
-- setting up HardHat guide
+- Setting up HardHat guide
+  * [Setup Hardhat video tutorial](https://www.youtube.com/watch?v=D4kPj10lKyQ)
 
 - Developer Tools guides
   * [Ethereum Developer tools by Consensys](https://github.com/ConsenSys/ethereum-developer-tools-list)
+
+- Truffle Boxes (Templates to base your project on)
+  * [Truffle boxes](https://www.trufflesuite.com/boxes)
 
 
 
