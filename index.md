@@ -464,6 +464,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Fungible & Non-fungible Tokens
   - erc20
   - erc721
+    * [NFT School](https://nftschool.dev/)
   - other token Standards
   - Tokenisation strategies
 
