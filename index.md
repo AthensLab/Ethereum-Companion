@@ -452,6 +452,13 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * Aragon
   * Colony
 
+## Fungible & Non-fungible Tokens
+  - erc20
+  - erc721
+  - other token Standards
+  - Tokenisation strategies
+
+
 
 ## Developer Video guides
 - [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
