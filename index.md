@@ -181,6 +181,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
     [proof of work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
   * Proof of Stake
     [proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+    [Proof of Stake vs Proof of Work](https://decrypt.co/resources/proof-of-work-vs-proof-of-stake)
 
 - [Blocks](https://ethereum.org/en/developers/docs/blocks/)
   * [Ethereum Block Structure Visualised](https://i.stack.imgur.com/eOwjD.png)
@@ -236,10 +237,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
     * [Ganache GUI](https://www.trufflesuite.com/ganache)
     * [Ganache CLI](https://github.com/trufflesuite/ganache-cli-archive)
     * [Drizzle](https://www.trufflesuite.com/drizzle)
-  * [Hardhat](https://hardhat.org/)
+    * [Hardhat](https://hardhat.org/)
     * [Beginners Tutorial](https://hardhat.org/tutorial/)
-  * [Alchemy](https://www.alchemy.com/)
-  * [Moralis](https://moralis.io/)
+    * [Alchemy](https://www.alchemy.com/)
 
 - Structure of a truffle project
   * [Trufflesuite guides](https://www.trufflesuite.com/guides)
@@ -363,7 +363,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 * [EIP's - Ethereum Improvement Proposals](https://eips.ethereum.org/)
   * [ERC20 - Token standard](https://eips.ethereum.org/EIPS/eip-20)
   * [ERC721 - NFT standard](https://eips.ethereum.org/EIPS/eip-721)
-  *[ERC 1155 - Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
+  * [ERC 1155 - Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
 
 ## Solidity Smart Contract Libraries & Design Patterns
 - Smart Contract Libraries
@@ -404,9 +404,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Desktop Interaction through Python
 
 ## Templates for creating Dapps
-* Blockchain Integrated:
+  * Blockchain Integrated:
   * [Truffle Boxes](https://www.trufflesuite.com/boxes)
-* Blockchain NOT integrated:
+  * Blockchain NOT integrated:
   * [create-react-app](https://create-react-app.dev/)
   * [create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
 
@@ -416,7 +416,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Smart Contract Best Practices,
   * [Smart Contracts best practices](https://consensys.github.io/smart-contract-best-practices/)
   * [Known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
-  *
+
 - Exploits,
 - Gas Optimisation,
 - Safety checklist,
@@ -426,16 +426,13 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Re-entrancy example,
 - Integer under/overflow (until 0.7.0),
 
-## Learning through Gamification
+## Learning throufh Gamification
 - Security Games
   - OpenZeppelin
     * [Ethernaut](https://ethernaut.openzeppelin.com/)
     * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
   - SMARX
     * [Capture the Ether](https://capturetheether.com/)
-
-## Visual No-Code Builder
-- [Eth Build](https://eth.build/)
 
 ## Full Stack Development Tutorials
 - [dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
@@ -446,34 +443,29 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [React bootstrap Guide](https://react-bootstrap.github.io/)
 
 
-## Decentralised Finance - DeFi
-- [What is DeFi](https://ethereum.org/en/defi/)
+
+## Developer Video guides
+- [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
+- [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
+- [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
+
+
+## DeFi
   * concepts
   * [Uniswap 2](https://solidity-by-example.org/defi/uniswap-v2/)
-  * [Build a Flash Loan Bot - Part 1](https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-i/)
-  * [Build a Flash Loan Bot - Part 2](https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-ii/)
-  * [Security Flaw Walkthroughs](https://rekt.news)
 
 
-## Decentralised Autonomous Organisations  - DAOs 道
-- [What is a DAO](https://ethereum.org/en/dao/)
-  * concepts  
-  * [DAOStack](https://daostack.io/)
-  * [Aragon](https://aragon.org/)
-  * [Colony](https://colony.io/)
+## Decentralised Autonomous Orrganisations  - DAOs 道
+  * Concepts  
+  * DAOStack
+  * Aragon
+  * Colony
 
 ## Fungible & Non-fungible Tokens
   - erc20
   - erc721
   - other token Standards
   - Tokenisation strategies
-
-
-
-## Developer Video guides
-- [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
-- [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
-- [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
 
 ## Advanced Topics
 - [Interplanetary FileSystem: IPFS](https://ipfs.io/)
@@ -502,7 +494,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 * [Building Graph QL APIs on Ethereum](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)
 
 
-
 ## Ethereum 2
 - Sharding
 - How to set up an ethereum 2 node
@@ -523,7 +514,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 * [Hacker-engineers and Their Economies, by J.K.Brekke](https://www.tandfonline.com/doi/abs/10.1080/13563467.2020.1806223)
 
 
-
 ## Cryptography
 - [Lecture series on Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k&list=UU1usFRN4LCMcfIV7UjHNuQg&index=25)
 
@@ -531,43 +521,16 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Non-Fungible Tokens
 - [NFT-School](https://nftschool.dev/)
 
-## YouTube Developers
-- [Eat The Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
-- [Dapp University](https://www.youtube.com/c/DappUniversity)
-- [Moralis](https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw)
-- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/featured)
-- [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
-
-
 ## News, Reviews and Interesting Sites
 - [decrypt](https://decrypt.co/)
 - [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/)
-- [Week in Ethereum News](https://weekinethereumnews.com/)
-- [EthHub](https://ethhub.io/)
-- DeFi Specific
-  * DeFi Informational Resources and New
-    - [DeFi Pulse](https://defipulse.com/)
-    - [DeFi Prime](https://defiprime.com/)
-    - [DeFi Rate](https://defirate.com/)
-    - [The Defiant](https://thedefiant.io/)
-- [Coindesk](https://www.coindesk.com/)
-- [Coin Telegraph](https://cointelegraph.com/)
-
-## Interesting Articles
-- [The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics](https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/)
 
 ## Where to ask for Help
 - [Ethereum at Stack exchange](https://ethereum.stackexchange.com/)
 - [Gitter Ethereum](https://gitter.im/ethereum/solidity/)
-- [r/Ethdev - Reddit Community](https://www.reddit.com/r/ethdev/)
 
 ## Additional GitHub Repositories
 - [ConsenSys Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
-- [Awesome Ethereum](https://github.com/bekatom/awesome-ethereum)
-- [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
-
-## Technical Research
-- [Ethereum Research](https://ethresear.ch/)
 
 ## Learning Outcomes
 
