@@ -483,7 +483,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Scaling Chains,
 - Zero-Knowledge Proofs,
 - Ethereum 2.0,[links to Ethereum 2]
-- Layer 2 Scaling,
+- Layer 2 Scaling
 - [ChainLink](https://chain.link/)
 * [Chain link ttutorials](https://docs.chain.link/docs/beginners-tutorial/)
 * [Oracles with Chainlink on Ethereum](https://medium.com/@aznagy/oracles-with-chainlink-on-ethereum-networks-tutorial-series-338b8a5f1726)
@@ -498,13 +498,15 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - How to set up an ethereum 2 node
 - Ethereum 2 node software
 
-## Additional & Specialised Topics
-- Ethereum Improvement Proposals
+## Other smart contract langugages
 - Vyper,
 - Flint, a new Swift-like programming language for safer smart contracts
 * [Flint programming language](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Franklin-Schrans-A-new-programming-language-for-safer-smart-contracts.pdf)
 * [Flint Repository](https://github.com/flintlang/flint)
 
+## How Ethereum is Built
+- Ethereum Improvement Proposals
+- Core Ethereum
 
 ## Policy
 - [Decentralisation](https://policyreview.info/concepts/decentralisation)
