@@ -236,9 +236,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
     * [Ganache GUI](https://www.trufflesuite.com/ganache)
     * [Ganache CLI](https://github.com/trufflesuite/ganache-cli-archive)
     * [Drizzle](https://www.trufflesuite.com/drizzle)
-    * [Hardhat](https://hardhat.org/)
+  * [Hardhat](https://hardhat.org/)
     * [Beginners Tutorial](https://hardhat.org/tutorial/)
-    * [Alchemy](https://www.alchemy.com/)
+  * [Alchemy](https://www.alchemy.com/)
+  * [Moralis](https://moralis.io/)
 
 - Structure of a truffle project
   * [Trufflesuite guides](https://www.trufflesuite.com/guides)
@@ -425,13 +426,16 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Re-entrancy example,
 - Integer under/overflow (until 0.7.0),
 
-## Learning throufh Gamification
+## Learning through Gamification
 - Security Games
   - OpenZeppelin
     * [Ethernaut](https://ethernaut.openzeppelin.com/)
     * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
   - SMARX
     * [Capture the Ether](https://capturetheether.com/)
+
+## Visual No-Code Builder
+- [Eth Build](https://eth.build/)
 
 ## Full Stack Development Tutorials
 - [dAPP React development off a to-do list](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
@@ -441,16 +445,22 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Ethereum dapp crash course](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [React bootstrap Guide](https://react-bootstrap.github.io/)
 
-## DeFi
+
+## Decentralised Finance - DeFi
+- [What is DeFi](https://ethereum.org/en/defi/)
   * concepts
   * [Uniswap 2](https://solidity-by-example.org/defi/uniswap-v2/)
+  * [Build a Flash Loan Bot - Part 1](https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-i/)
+  * [Build a Flash Loan Bot - Part 2](https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-ii/)
+  * [Security Flaw Walkthroughs](https://rekt.news)
 
 
-## Decentralised Autonomous Orrganisations  - DAOs 道
-  * Concepts  
-  * DAOStack
-  * Aragon
-  * Colony
+## Decentralised Autonomous Organisations  - DAOs 道
+- [What is a DAO](https://ethereum.org/en/dao/)
+  * concepts  
+  * [DAOStack](https://daostack.io/)
+  * [Aragon](https://aragon.org/)
+  * [Colony](https://colony.io/)
 
 ## Fungible & Non-fungible Tokens
   - erc20
@@ -521,16 +531,43 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Non-Fungible Tokens
 - [NFT-School](https://nftschool.dev/)
 
+## YouTube Developers
+- [Eat The Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
+- [Dapp University](https://www.youtube.com/c/DappUniversity)
+- [Moralis](https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw)
+- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/featured)
+- [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
+
+
 ## News, Reviews and Interesting Sites
 - [decrypt](https://decrypt.co/)
 - [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/)
+- [Week in Ethereum News](https://weekinethereumnews.com/)
+- [EthHub](https://ethhub.io/)
+- DeFi Specific
+  * DeFi Informational Resources and New
+    - [DeFi Pulse](https://defipulse.com/)
+    - [DeFi Prime](https://defiprime.com/)
+    - [DeFi Rate](https://defirate.com/)
+    - [The Defiant](https://thedefiant.io/)
+- [Coindesk](https://www.coindesk.com/)
+- [Coin Telegraph](https://cointelegraph.com/)
+
+## Interesting Articles
+- [The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics](https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/)
 
 ## Where to ask for Help
 - [Ethereum at Stack exchange](https://ethereum.stackexchange.com/)
 - [Gitter Ethereum](https://gitter.im/ethereum/solidity/)
+- [r/Ethdev - Reddit Community](https://www.reddit.com/r/ethdev/)
 
 ## Additional GitHub Repositories
 - [ConsenSys Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
+- [Awesome Ethereum](https://github.com/bekatom/awesome-ethereum)
+- [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+
+## Technical Research
+- [Ethereum Research](https://ethresear.ch/)
 
 ## Learning Outcomes
 
