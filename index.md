@@ -556,6 +556,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Interesting Articles
 - [The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics](https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/)
 
+## history
+Out of the Ether
+Infinite machine
+
+
 ## Where to ask for Help
 - [Ethereum at Stack exchange](https://ethereum.stackexchange.com/)
 - [Gitter Ethereum](https://gitter.im/ethereum/solidity/)
@@ -568,7 +573,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
 
 ## Technical Research
-- [Ethereum Research](https://ethresear.ch/)s
+- [Ethereum Research](https://ethresear.ch/)
 
 ## Learning Outcomes
 
