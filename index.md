@@ -442,6 +442,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Ethereum dapp crash course](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [React bootstrap Guide](https://react-bootstrap.github.io/)
 
+<<<<<<< HEAD
 
 
 ## Developer Video guides
@@ -450,6 +451,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
 
 
+=======
+>>>>>>> parent of d12c86c (Added new links and info)
 ## DeFi
   * concepts
   * [Uniswap 2](https://solidity-by-example.org/defi/uniswap-v2/)
