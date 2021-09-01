@@ -443,6 +443,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [React bootstrap Guide](https://react-bootstrap.github.io/)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 ## Developer Video guides
@@ -451,6 +452,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
 
 
+=======
+>>>>>>> parent of d12c86c (Added new links and info)
 =======
 >>>>>>> parent of d12c86c (Added new links and info)
 ## DeFi
