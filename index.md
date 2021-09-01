@@ -568,7 +568,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
 
 ## Technical Research
-- [Ethereum Research](https://ethresear.ch/)
+- [Ethereum Research](https://ethresear.ch/)s
 
 ## Learning Outcomes
 
