@@ -578,6 +578,7 @@ Infinite machine
 ## Learning Outcomes
 
 By Following the Companion,  learners will be able to **show evidence** of:
+
 '''
 1. Describe Blockchain primitives and basics and give examples for their usage.
 2. Prepare and demonstrate setting up a development environment for Ethereum.
