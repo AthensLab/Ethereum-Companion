@@ -20,7 +20,7 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
 
 - MacOS
 Latest MacOS is v11 'BigSur' (Aug 2021)
-  *_you need an apple computer to run MacOS_
+  * _you need an apple computer to run MacOS_
   * [MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
 
 - Options for Ethereum Nodes
@@ -83,7 +83,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Analysing the Underlying Peeer-to-Peer Network of Ethereum Blockchain, Wang et al](https://arxiv.org/pdf/2010.01373.pdf)
   * [Understanding Ethereum's P2P work](https://medium.com/shyft-network-media/understanding-ethereums-p2p-network-86eeaa3345)
   * [How the P2P netwrroking in Ethereum works](https://medium.com/orbs-network/the-actual-networking-behind-the-ethereum-network-how-it-works-6e147ca36b45)
-
 
 - Public and Private Blockchains
     * [Public and private blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) A blog post by V.Buterin
@@ -371,7 +370,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [OpenZeppelin](https://openzeppelin.com/contracts/)
 
 ## Ethereum and the end User
-- Web 3.0 Introduction,
+- Web 3.0 Introduction
 * [what is web3](https://www.freecodecamp.org/news/what-is-web3/) Decentralised Web Explained
 - Web3 Packages
   * [Ethers.js](https://docs.ethers.io/)
@@ -380,7 +379,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Ethers.js vs Web3.js Part I](https://blog.infura.io/ethereum-javascript-libraries-web3-js-vs-ethers-js-part-i/)
   * [Ethers.js vs Web3.js Part II](https://blog.infura.io/ethereum-javascript-libraries-web3-js-vs-ethers-js-part-ii/)
 - [Interaction with Smart Contract using web3.js](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8a1ebd)
-- Connecting web3.js to a contract,
+- Connecting web3.js to a contract
 - [Truffle Pet Shop Tutorial](https://www.trufflesuite.com/tutorial)
 - Metamask
   * [Metamask](https://metamask.io/)
@@ -412,20 +411,20 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
 
 ## Testing & Debugging
-- Writing Tests,
-- Catching Errors In Tests,
-- Smart Contract Best Practices,
+- Writing Tests
+- Catching Errors In Tests
+- Smart Contract Best Practices
   * [Smart Contracts best practices](https://consensys.github.io/smart-contract-best-practices/)
   * [Known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
 
-- Exploits,
-- Gas Optimisation,
-- Safety checklist,
-- Security analysis,
-- Transaction Origin attack Demo,
-- DoS Example,
-- Re-entrancy example,
-- Integer under/overflow (until 0.7.0),
+- Exploits
+- Gas Optimisation
+- Safety checklist
+- Security analysis
+- Transaction Origin attack Demo
+- DoS Example
+- Re-entrancy example
+- Integer under/overflow (until 0.7.0)
 
 ## Learning through Gamification
 - Security Games
@@ -465,7 +464,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Decentralised Autonomous Organisations  - DAOs 道
   - [What is a DAO](https://ethereum.org/en/dao/)
-    * concepts  
+    * DAO concepts
+
+  - DAO Frameworks:  
     * [DAOStack](https://daostack.io/)
     * [Aragon](https://aragon.org/)
     * [Colony](https://colony.io/)
@@ -497,11 +498,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [ENS: the good, the bad, and the ugly](https://arxiv.org/abs/2104.05185)
 - [Why you need an ETH domain name](https://levelup.gitconnected.com/why-you-need-a-eth-domain-name-b16762fd16b4?gi=4d6a221cebd6)
 
-- Upgradeable Contracts,
-- Oracles,
-- Formal Verification,
-- Scaling Chains,
-- Zero-Knowledge Proofs,
+- Upgradeable Contracts
+- Oracles
+- Formal Verification
+- Scaling Chains
+- Zero-Knowledge Proofs
 - Ethereum 2.0,[links to Ethereum 2]
 - Layer 2 Scaling
 - [ChainLink](https://chain.link/)
@@ -511,14 +512,13 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - The Graph
 * [Building Graph QL APIs on Ethereum](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)
 
-
 ## Ethereum 2
 - Sharding
 - How to set up an ethereum 2 node
 - Ethereum 2 node software
 
 ## Other smart contract langugages
-- Vyper,
+- Vyper
 - Flint, a new Swift-like programming language for safer smart contracts
 * [Flint programming language](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Franklin-Schrans-A-new-programming-language-for-safer-smart-contracts.pdf)
 * [Flint Repository](https://github.com/flintlang/flint)
@@ -545,7 +545,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Week in Ethereum News](https://weekinethereumnews.com/)
 - [EthHub](https://ethhub.io/)
 - DeFi Specific
-  * DeFi Informational Resources and New
+  * DeFi Informational Resources
     - [DeFi Pulse](https://defipulse.com/)
     - [DeFi Prime](https://defiprime.com/)
     - [DeFi Rate](https://defirate.com/)
