@@ -485,7 +485,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   - [Moralis](https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw)
   - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/featured)
   - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
-
+  - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 
 ## Advanced Topics
 - [Interplanetary FileSystem: IPFS](https://ipfs.io/)
