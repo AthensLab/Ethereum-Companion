@@ -451,11 +451,12 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
 - [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
+- [EthGlobal - Protocol Tutorials](https://www.youtube.com/c/ETHGlobal) 
 
 
 ## Decentralised Finance - DeFi
 - [What is DeFi](https://ethereum.org/en/defi/)
-  * concepts
+  * [Finematics - DeFi Concepts Explained](https://www.youtube.com/c/Finematics/videos)
   * [Uniswap 2](https://solidity-by-example.org/defi/uniswap-v2/)
   * [Build a Flash Loan Bot - Part 1](https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-i/)
   * [Build a Flash Loan Bot - Part 2](https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-ii/)
