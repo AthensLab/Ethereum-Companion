@@ -49,10 +49,10 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 
 ## Review of blockchain technologies
 - Blockchain Context
-    * [The Byzantine Gnerals Problem, by L.Lmport, r.Shostak, M.Pease](https://lamport.azurewebsites.net/pubs/byz.pdf)
+    * [The Byzantine Generals' Problem, by L.Lmport, r.Shostak, M.Pease](https://lamport.azurewebsites.net/pubs/byz.pdf)
     * [Byzantine Generals' problem](https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969)
-    * [The Byzantine generals problem by Ivan on Tech](https://academy.ivanontech.com/blog/byzantine-generals-problem-an-introduction)
-    * [How Satoshi Nakamoto solved the Byzantine Generals Problem](https://news.bitcoin.com/triple-entry-bookkeeping-how-satoshi-nakamoto-solved-the-byzantine-generals-problem/)
+    * [The Byzantine Generals' problem by Ivan on Tech](https://academy.ivanontech.com/blog/byzantine-generals-problem-an-introduction)
+    * [How Satoshi Nakamoto solved the Byzantine Generals' Problem](https://news.bitcoin.com/triple-entry-bookkeeping-how-satoshi-nakamoto-solved-the-byzantine-generals-problem/)
     * [The Bitcoin WhitePaper](https://fermatslibrary.com/s/bitcoin)
     * [How Does a Blockchain Work? - Video](https://www.youtube.com/watch?v=SSo_EIwHSd4)
     * [A Visual Blockchain Demo - Video](https://www.youtube.com/watch?v=_160oMzblY8)
@@ -63,7 +63,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [WorldBank on DLTs](https://www.worldbank.org/en/topic/financialsector/brief/blockchain-dlt)
 
 - Consensus Mechanisms
-  * [Consensus mechanisms](https://mastanbtc.github.io/blockchainnotes/consensustypes/)
+  * [Consensus Mechanisms](https://mastanbtc.github.io/blockchainnotes/consensustypes/)
   * [review of consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
   * [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
 
@@ -453,7 +453,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
 - [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
-- [EthGlobal - Protocol Tutorials](https://www.youtube.com/c/ETHGlobal) 
+- [EthGlobal - Protocol Tutorials](https://www.youtube.com/c/ETHGlobal)
 
 
 ## Decentralised Finance - DeFi
