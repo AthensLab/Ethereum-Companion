@@ -45,6 +45,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 - Git clients
   * [git](https://git-scm.com/)
   * [For GitHub :: Desktop](https://desktop.github.com/)
+  * [Oh My Git - Learning Git game](https://ohmygit.org/)
 
 ## Review of blockchain technologies
 - Blockchain Context
@@ -213,6 +214,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
  - [EthWiki](https://eth.wiki/home)
 
 ## Traditional and Decentralised application development
+- [How to Get Into Ethereum | Crypto | Web3 as a Developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - Decentralised application development
 - Similarities and differences
 - Development setup
