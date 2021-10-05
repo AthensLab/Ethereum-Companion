@@ -128,7 +128,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 - Using Merkle Trees
 * [Merkle Tree Introduction](https://hackernoon.com/merkle-tree-introduction-4c44250e2da7)
 * [What is a Merkle Tree](httpe://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
-* [Merkle Trer Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
+* [Merkle Tree Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
 
 - Blockchain Structure
   * [security and privacy issues on blockchain technology - intro to basic structure of BC](https://www.researchgate.net/publication/325173502_A_survey_on_security_and_privacy_issues_of_blockchain_technology)
@@ -136,16 +136,16 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 
 
 - Building a Blockchain
-  * [Learn Blockchains by Building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-  * [Create your own blockchain - python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
+  * [Learn Blockchains by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+  * [Create your own blockchain using python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
   * [Blockchain basics on Solidity](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
 - Smart contracts
-  * [Formalizing and Scuring Relationships on Public Networks - first menetion of SC](https://firstmonday.org/ojs/index.php/fm/article/view/548)
+  * [Formalizing and Securing Relationships on Public Networks - first mention of Smart Contracts](https://firstmonday.org/ojs/index.php/fm/article/view/548)
   * [Smart Contracts on Wikipedia](https://en.wikipedia.org/wiki/Smart_contract)
-  * [Smart contracts on Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
-  * [Smart contracts on Cardano](https://docs.cardano.org/new-to-cardano/what-is-a-smart-contract)
-  * [Understanding smart contracts](http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/)
+  * [Smart Contracts on Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
+  * [Smart Contracts on Cardano](https://docs.cardano.org/new-to-cardano/what-is-a-smart-contract)
+  * [Understanding Smart Contracts](http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/)
 
 
 - Blockchain Nodes
@@ -178,25 +178,28 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
 - [Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
   * Proof of Work
-    [proof of work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+    [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
   * Proof of Stake
-    [proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+    [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
     [Proof of Stake vs Proof of Work](https://decrypt.co/resources/proof-of-work-vs-proof-of-stake)
 
 - [Blocks](https://ethereum.org/en/developers/docs/blocks/)
   * [Ethereum Block Structure Visualised](https://i.stack.imgur.com/eOwjD.png)
+
 - [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
-  * [EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+  * [Ethereum Virtual Machine illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+
 - [Generating Ethereum Addresses](https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo)
+- 
 - Elliptic Curve Cryptography
   * [Basic Introduction to elliptic curve cryptography](https://qvault.io/cryptography/elliptic-curve-cryptography/)
   * [Practical Elliptic Curve Cryptography](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
-  * [maths behind elliptic curve cryptography](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
+  * [Maths behind elliptic curve cryptography](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
   * [easy to understand primer on elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
   * [Bitcoin Book:Elliptic Curve Cryptography](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc#elliptic-curve-cryptography-explained)
 
 - MainNet and TestNets
-  * [Networks on ethereum](https://ethereum.org/en/developers/docs/networks/)
+  * [Networks on Ethereum](https://ethereum.org/en/developers/docs/networks/)
   * [Development Networks](https://ethereum.org/en/developers/docs/development-networks/)
   * [Kovan Test Network](https://kovan-testnet.github.io/website/)
   * [Rinkeby Test Network](https://www.rinkeby.io/#stats)
