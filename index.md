@@ -98,7 +98,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Schneir's Applied Crryptography online](https://www.schneier.com/blog/archives/2014/01/applied_cryptog_1.html)
   * [Introduction to modern cryptosystems](https://www.giac.org/paper/gsec/2604/introduction-modern-cryptosystems/104482)  
   * [Practical Cryptography](https://rizkia.staff.telkomuniversity.ac.id/files/2016/02/Practical-Cryptography-Niels-Ferguson-Bruce-Schneier.pdf)
-  *[overview of modern cryptography](https://cryptobook.nakov.com/cryptography-overview)
+  * [overview of modern cryptography](https://cryptobook.nakov.com/cryptography-overview)
 
 - Cryptographic Hash functions
   * [Secure hash algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/)
@@ -190,7 +190,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Ethereum Virtual Machine illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 
 - [Generating Ethereum Addresses](https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo)
-- 
+-
 - Elliptic Curve Cryptography
   * [Basic Introduction to elliptic curve cryptography](https://qvault.io/cryptography/elliptic-curve-cryptography/)
   * [Practical Elliptic Curve Cryptography](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
