@@ -457,6 +457,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [EthGlobal - Protocol Tutorials](https://www.youtube.com/c/ETHGlobal)
+- [ChainLink](https://www.youtube.com/channel/UCnjkrlqaWEBSnKZQ71gdyFA)
 
 
 ## Decentralised Finance - DeFi
@@ -491,6 +492,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/featured)
   - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
   - [Nader Dabit](https://www.youtube.com/c/naderdabit)
+  - [HashLiips](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
 
 ## Advanced Topics
 - [Interplanetary FileSystem: IPFS](https://ipfs.io/)
