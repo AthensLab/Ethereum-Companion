@@ -493,6 +493,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
   - [Nader Dabit](https://www.youtube.com/c/naderdabit)
   - [HashLiips](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+  - [EthGloba](https://www.youtube.com/c/ETHGlobal)
 
 ## Advanced Topics
 - [Interplanetary FileSystem: IPFS](https://ipfs.io/)
@@ -576,6 +577,7 @@ Infinite machine
 
 
 ## Additional GitHub Repositories
+- [ConsenSys Discord Questions and Answers](https://github.com/ConsenSys-Academy/Emergent-Knowledge-Base)
 - [ConsenSys Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 - [Awesome Ethereum](https://github.com/bekatom/awesome-ethereum)
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
