@@ -586,8 +586,12 @@ Infinite machine
 - [Ethereum Research](https://ethresear.ch/)
 
 ## Where to find a job
- - [cryptojobs](https://cryptojobslist.com)
- 
+- [cryptojobs](https://cryptojobslist.com)
+
+## Companies
+- [Protocols Labs](https://protocol.ai/join/)
+- [Consensys](https://consensys.net)
+
 
 ## Learning Outcomes
 
