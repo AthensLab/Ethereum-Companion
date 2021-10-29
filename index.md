@@ -585,6 +585,10 @@ Infinite machine
 ## Technical Research
 - [Ethereum Research](https://ethresear.ch/)
 
+## Where to find a job
+ - [cryptojobs](https://cryptojobslist.com)
+ 
+
 ## Learning Outcomes
 
 By Following the Companion,  learners will be able to **show evidence** of:
