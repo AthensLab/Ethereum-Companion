@@ -487,12 +487,19 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ##  Developers on YouTube
   - [Eat The Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
+    - [Eat The Blocks - Github Repo](https://github.com/jklepatch/eattheblocks)
   - [Dapp University](https://www.youtube.com/c/DappUniversity)
+    - [Dapp University - Github Repo](https://github.com/dappuniversity)
   - [Moralis](https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw)
+    - [Moralis- Github Repo](https://github.com/MoralisWeb3)
   - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/featured)
+    - [Austin Griffith - Github Repo](https://github.com/austintgriffith)
   - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
+    - [Patrick Collins- Github Repo](https://github.com/PatrickAlphaC)
   - [Nader Dabit](https://www.youtube.com/c/naderdabit)
-  - [HashLiips](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+    - [Nader Dabit - Github Repo](https://github.com/dabit3)
+  - [HashLips](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+    - [HashLips - Github Repo](https://github.com/HashLips)
   - [EthGloba](https://www.youtube.com/c/ETHGlobal)
 
 ## Advanced Topics
