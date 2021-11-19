@@ -312,7 +312,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [How to use events for logging](https://betterprogramming.pub/learn-solidity-events-2801d6a99a92)
   * [How to use eevents in solidity](https://hackernoon.com/how-to-use-events-in-solidity-pe1735t5)
 
-- Factory Contracts,
+- Factory Contracts
 - [Solidity Fast Track Part 1](https://soliditydeveloper.com/solidity-fast-track),
 - [Solidity Fast Track Part 2](https://soliditydeveloper.com/solidity-fast-track-2),
 - [Solidity by Example](https://solidity-by-example.org/)
