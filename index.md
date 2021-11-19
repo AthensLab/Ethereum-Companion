@@ -320,6 +320,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Learn X in Y - Solidity](https://learnxinyminutes.com/docs/solidity/)
 - [EthFiddle - Solidity < 0.7.1](https://ethfiddle.com/)
 
+- Solidity patterns
+  * [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
+  * [Smart Contract Weakness Classification](https://swcregistry.io/)
+
 ## Writing Smart Contracts
 - Introductory Smart Contracts
   * [Hello World](https://solidity-by-example.org/hello-world/)
@@ -479,8 +483,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
     * [Colony](https://colony.io/)
 
 ## Fungible & Non-fungible Tokens
-  - erc20
-  - erc721
+  - ERC20
+  - ERC721
     * [NFT School](https://nftschool.dev/)
   - other token Standards
   - Tokenisation strategies
