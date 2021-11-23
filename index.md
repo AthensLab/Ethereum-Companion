@@ -505,6 +505,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
   - [HashLips](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
     - [HashLips - Github Repo](https://github.com/HashLips)
   - [EthGloba](https://www.youtube.com/c/ETHGlobal)
+  - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/featured)
+  
 
 ## Advanced Topics
 - [Interplanetary FileSystem: IPFS](https://ipfs.io/)
