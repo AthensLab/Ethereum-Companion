@@ -217,7 +217,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
  - [EthWiki](https://eth.wiki/home)
 
 ## Traditional and Decentralised application development
-- [How to Get Into Ethereum | Crypto | Web3 as a Developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
+- [How to Get Into Ethereum-Crypto-Web3 as a Developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - Decentralised application development
 - Similarities and differences
 - Development setup
@@ -506,7 +506,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
     - [HashLips - Github Repo](https://github.com/HashLips)
   - [EthGloba](https://www.youtube.com/c/ETHGlobal)
   - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/featured)
-  
+
 
 ## Advanced Topics
 - [Interplanetary FileSystem: IPFS](https://ipfs.io/)
