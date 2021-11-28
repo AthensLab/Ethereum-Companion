@@ -134,7 +134,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [security and privacy issues on blockchain technology - intro to basic structure of BC](https://www.researchgate.net/publication/325173502_A_survey_on_security_and_privacy_issues_of_blockchain_technology)
   * [basic blockchain structure on O' Reilly](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/ch07.html)
 
-
 - Building a Blockchain
   * [Learn Blockchains by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
   * [Create your own blockchain using python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
@@ -146,7 +145,6 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Smart Contracts on Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
   * [Smart Contracts on Cardano](https://docs.cardano.org/new-to-cardano/what-is-a-smart-contract)
   * [Understanding Smart Contracts](http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/)
-
 
 - Blockchain Nodes
   * [What is a node](https://coinmarketcap.com/alexandria/article/what-is-a-node)
@@ -183,14 +181,17 @@ Interesting to read as Buterin goes through the internal thought process of crea
     [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
     [Proof of Stake vs Proof of Work](https://decrypt.co/resources/proof-of-work-vs-proof-of-stake)
 
-- [Blocks](https://ethereum.org/en/developers/docs/blocks/)
+- Blocks
+  * [Blocks](https://ethereum.org/en/developers/docs/blocks/)
   * [Ethereum Block Structure Visualised](https://i.stack.imgur.com/eOwjD.png)
 
-- [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
+- Ethereum Virtual Machine
+* [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
   * [Ethereum Virtual Machine illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 
-- [Generating Ethereum Addresses](https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo)
--
+- Generating Ethereum addresses
+  * [Generating Ethereum Addresses](https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo)
+
 - Elliptic Curve Cryptography
   * [Basic Introduction to elliptic curve cryptography](https://qvault.io/cryptography/elliptic-curve-cryptography/)
   * [Practical Elliptic Curve Cryptography](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
