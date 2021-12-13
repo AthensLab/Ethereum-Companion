@@ -460,6 +460,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Developer Video guides
 - [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
 - [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
+- [Generative NFTs : HashLips](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [EthGlobal - Protocol Tutorials](https://www.youtube.com/c/ETHGlobal)
 - [ChainLink](https://www.youtube.com/channel/UCnjkrlqaWEBSnKZQ71gdyFA)
