@@ -102,10 +102,10 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
 - Cryptography
   * [Cryptography in Wikipedia](https://en.wikipedia.org/wiki/Cryptography)
   * [Schneier on Cryptography](https://www.schneier.com/blog/archives/2016/03/cryptography_is.html)
-  * [Schneir's Applied Crryptography online](https://www.schneier.com/blog/archives/2014/01/applied_cryptog_1.html)
+  * [Schneir's Applied Cryptography online](https://www.schneier.com/blog/archives/2014/01/applied_cryptog_1.html)
   * [Introduction to modern cryptosystems](https://www.giac.org/paper/gsec/2604/introduction-modern-cryptosystems/104482)  
   * [Practical Cryptography](https://rizkia.staff.telkomuniversity.ac.id/files/2016/02/Practical-Cryptography-Niels-Ferguson-Bruce-Schneier.pdf)
-  * [overview of modern cryptography](https://cryptobook.nakov.com/cryptography-overview)
+  * [Overview of modern Cryptography](https://cryptobook.nakov.com/cryptography-overview)
 
 - Cryptographic Hash functions
   * [Secure hash algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/)
@@ -115,8 +115,8 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
   * [SHA2 - Wikipedia](https://en.wikipedia.org/wiki/SHA-2)
   * [SHA3 - Wikipedia](https://en.wikipedia.org/wiki/SHA-3)
   * [SHA3 -'keccak'](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf)
-  * [Eth-hash keccak256](https://github.com/ethereum/eth-hash)
-  * [Lecture by Christof Paar](https://www.youtube.com/watch?v=JWskjzgiIa4)
+  * [ETH-hash keccak256](https://github.com/ethereum/eth-hash)
+  * [Lecture by Christof Paar on Cryptographic Functions](https://www.youtube.com/watch?v=JWskjzgiIa4)
 
 - Using Cryptograpic Hash functions
   * [How hash algorithms work](https://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software)
@@ -124,25 +124,25 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
   * [Hashing functions in Blockchain](https://hackernoon.com/learn-the-blockchain-basics-part-3-hashing-functions-vt1435ow)
 
 - Public Key Cryptography
-  * [Symmetric and Assymmetric public key cryptography](https://hackernoon.com/how-does-symmetric-and-asymmetric-public-key-cryptography-work-i6dy37pl)
+  * [Symmetric and Assymmetric Public Key Cryptography](https://hackernoon.com/how-does-symmetric-and-asymmetric-public-key-cryptography-work-i6dy37pl)
   * [Public Key Cryptography Glossary](https://hackernoon.com/glossary-of-security-terms-public-key-cryptography-fri3u4d)
   * [Public key cryptography RSA keys](https://hackernoon.com/public-key-cryptography-rsa-keys-izda3ylv)
 
 - Merkle Trees
   * [Ever wonder how Merkle trees work?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)
-  * [Getting to the root of th emerkle tree concept](https://hackernoon.com/getting-to-the-root-of-the-merkle-tree-concept-and-how-it-affects-blockchain-technology)
+  * [Getting to the root of the "Merkle" tree concept](https://hackernoon.com/getting-to-the-root-of-the-merkle-tree-concept-and-how-it-affects-blockchain-technology)
 
 - Using Merkle Trees
-* [Merkle Tree Introduction](https://hackernoon.com/merkle-tree-introduction-4c44250e2da7)
-* [What is a Merkle Tree](httpe://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
-* [Merkle Tree Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
+  * [Merkle Tree Introduction](https://hackernoon.com/merkle-tree-introduction-4c44250e2da7)
+  * [What is a Merkle Tree](httpe://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
+  * [Merkle Tree Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
 
 - Blockchain Structure
-  * [security and privacy issues on blockchain technology - intro to basic structure of BC](https://www.researchgate.net/publication/325173502_A_survey_on_security_and_privacy_issues_of_blockchain_technology)
-  * [basic blockchain structure on O' Reilly](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/ch07.html)
+  * [Security and Privacy issues on blockchain technology - intro to basic structure of BC](https://www.researchgate.net/publication/325173502_A_survey_on_security_and_privacy_issues_of_blockchain_technology)
+  * [Basic Blockchain Structure on O' Reilly](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/ch07.html)
 
 - Building a Blockchain
-  * [Learn Blockchains by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+  * [Learn Blockchains by Building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
   * [Create your own blockchain using python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
   * [Blockchain basics on Solidity](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
@@ -154,9 +154,9 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
   * [Understanding Smart Contracts](http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/)
 
 - Blockchain Nodes
-  * [What is a node](https://coinmarketcap.com/alexandria/article/what-is-a-node)
+  * [What is a Node](https://coinmarketcap.com/alexandria/article/what-is-a-node)
   * [Blockchain as a service](https://www.infoq.com/articles/blockchain-as-a-service-get-block/)
-  * [Blockchain nodes 101](https://101blockchains.com/blockchain-nodes/)
+  * [Blockchain Nodes 101](https://101blockchains.com/blockchain-nodes/)
 
 - Blockchain Forks
   * [a history of bitcoin forks](https://www.investopedia.com/tech/history-bitcoin-hard-forks/)
