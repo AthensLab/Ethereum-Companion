@@ -11,17 +11,17 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
 ## Setting up a development environment
 - Linux distribution
   * [Ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
-  * [mint](https://linuxmint.com/)
+  * [Linux Mint](https://linuxmint.com/)
   * [MX Linux](https://mxlinux.org/)
 
 - Windows
   * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   * [Ethereum developers guide to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
-- MacOS
-Latest MacOS is v11 'BigSur' (Aug 2021)
+- MacOS: Latest is v11 'BigSur' (Aug 2021)
   * _you need an apple computer to run MacOS_
-  * [MacOS Big-Sur](https://www.apple.com/macos/big-sur/)
+  * _yes, you can develop dApps on the new Macs with M1, M1X and M1Pro_
+  * [MacOS Monterey](https://www.apple.com/uk/macos/monterey/)
 
 - Options for Ethereum Nodes
   * [Nodes and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
@@ -31,7 +31,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Infura](infura.io)
 
 -  Deployment of a personal development environment
-  * [Stacks on Ethereum/](https://ethereum.org/en/developers/local-environment/)
+    * [Stacks on Ethereum/](https://ethereum.org/en/developers/local-environment/)
 
 - Editors and IDEs (Integrated development environments)
   * [Remix](https://remix.ethereum.org)
@@ -44,7 +44,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 
 - Git clients
   * [git](https://git-scm.com/)
-  * [For GitHub :: Desktop](https://desktop.github.com/)
+  * [GitHub :: Desktop - best for MacOS and Windows](https://desktop.github.com/)
   * [Oh My Git - Learning Git game](https://ohmygit.org/)
 
 ## Review of blockchain technologies
@@ -64,7 +64,7 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
 
 - Consensus Mechanisms
   * [Consensus Mechanisms](https://mastanbtc.github.io/blockchainnotes/consensustypes/)
-  * [review of consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
+  * [Review of consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
   * [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
 
 - Transactions and Blocks
@@ -76,20 +76,27 @@ Latest MacOS is v11 'BigSur' (Aug 2021)
   * [Mining](https://eth.wiki/fundamentals/mining)
   * [Ethash: Dagger Hashimoto](https://eth.wiki/en/concepts/ethash/ethash)
   * [Proof of Stake at Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-  * [start staking on Ethereum](https://ethereum.org/en/eth2/staking/)
   * [Mining vs  staking](https://major-capital.com/en/mining-vs-staking/)
   * [Bye, Bye Miners](https://www.bloomberg.com/news/articles/2021-08-14/bye-bye-miners-how-ethereum-s-big-change-will-work-quicktake)
+  * [Start staking on Ethereum](https://ethereum.org/en/eth2/staking/)
+
 
 - Network Peer Discovery and Messaging
-  * [Analysing the Underlying Peeer-to-Peer Network of Ethereum Blockchain, Wang et al](https://arxiv.org/pdf/2010.01373.pdf)
+  * [Analysing the Underlying Peer-to-Peer Network of Ethereum Blockchain, Wang et al](https://arxiv.org/pdf/2010.01373.pdf)
   * [Understanding Ethereum's P2P work](https://medium.com/shyft-network-media/understanding-ethereums-p2p-network-86eeaa3345)
-  * [How the P2P netwrroking in Ethereum works](https://medium.com/orbs-network/the-actual-networking-behind-the-ethereum-network-how-it-works-6e147ca36b45)
+  * [How the P2P networking in Ethereum works](https://medium.com/orbs-network/the-actual-networking-behind-the-ethereum-network-how-it-works-6e147ca36b45)
 
 - Public and Private Blockchains
-    * [Public and private blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) A blog post by V.Buterin
+    * [Public and private blockchains - A blog post by V.Buterin](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
 
 - Distributed Ledger Platforms
   * [Hyperledger](https://www.hyperledger.org/use/fabric)
+  * [Corda](www.corda.net)
+  * [IOTA](www.iota.org)
+
+  * [Alternative Distributed Ledger Technologies Blockchain vs. Tangle vs. Hashgraph - A High-Level Overview and Comparison
+](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144241)
+
 
 ## Blockchain Basics
 - Cryptography
