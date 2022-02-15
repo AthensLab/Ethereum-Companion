@@ -63,9 +63,16 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
   * [WorldBank on DLTs](https://www.worldbank.org/en/topic/financialsector/brief/blockchain-dlt)
 
 - Consensus Mechanisms
+
   * [Consensus Mechanisms](https://mastanbtc.github.io/blockchainnotes/consensustypes/)
+  * [Consensus Mechanisms in Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
   * [Review of consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
   * [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
+    * Proof of Work
+      [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+    * Proof of Stake
+      [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+      [Proof of Stake vs Proof of Work](https://decrypt.co/resources/proof-of-work-vs-proof-of-stake)
 
 - Transactions and Blocks
   * [Transactions](https://ethereum.org/en/developers/docs/transactions/)
@@ -163,11 +170,12 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
   * [What are blockchain forks?](https://www.youtube.com/watch?v=boARRLlu5Uc)
   * [An oveview of forks and blockchain development](https://www.researchgate.net/publication/349492184_An_Overview_of_Forks_and_Coordination_in_Blockchain_Development)
 
-## “Ethereum” Basics
+
+## “Ethereum” Primitives
 - [Ethereum "pre-history"](https://vitalik.ca/general/2017/09/14/prehistory.html) Vitalik Buterin blog post:
-Interesting to read as Buterin goes through the internal thought process of creating a fee based ledger that is Turing complete, i.e a state machine. Note the simplicity of the programmatic loop the devises to validate his concept
+Interesting to read as Buterin goes through the internal thought process of creating a fee based ledger that is Turing complete, i.e a state machine. Note the simplicity of the programmatic loop he employs to validate his concept
 - [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
-- [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Ethereum Yellow Paper, Dr Gavin Wood](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Ethereum](https://ethereum.org/)
 - [Ethereum Docs](https://ethereum.org/en/developers/docs/)
 - [Web2 vs Web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)
@@ -181,19 +189,14 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 - [Transactions](https://ethereum.org/en/developers/docs/transactions/)
 - [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
-- [Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
-  * Proof of Work
-    [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
-  * Proof of Stake
-    [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-    [Proof of Stake vs Proof of Work](https://decrypt.co/resources/proof-of-work-vs-proof-of-stake)
+
 
 - Blocks
   * [Blocks](https://ethereum.org/en/developers/docs/blocks/)
   * [Ethereum Block Structure Visualised](https://i.stack.imgur.com/eOwjD.png)
 
 - Ethereum Virtual Machine
-* [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
+  * [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
   * [Ethereum Virtual Machine illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 
 - Generating Ethereum addresses
@@ -224,25 +227,23 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Tokens and Token Standards
  - [EthWiki](https://eth.wiki/home)
 
-## Traditional and Decentralised application development
+## Traditional and Decentralised application development ///
 - [How to Get Into Ethereum-Crypto-Web3 as a Developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - Decentralised application development
 - Similarities and differences
-- Development setup
+- Development Environment setup
 - Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS)
 - Geth (and Staking Eth2 node)
 - Other Ethereum Node Software
 - Connecting to a testnet
 - Setting up your own Ethereum private network
-- Setting up your own node on ethereum (Geth, dappnode.io, Parity)
+- Setting up your own Node on ethereum (Geth, dappnode.io, Parity)
 
 
 ## Development frameworks and environment
 - [Solidity and Blockchain Development Big Picture](https://soliditydeveloper.com/solidity-overview-2020)
 - Introduction
   * [Solidity Language Documentation](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
-
-- Development Workflow-low level
 
 - Blockchain Development Tools
   * [Truffle Suite](https://www.trufflesuite.com/)
@@ -258,9 +259,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Trufflesuite guides](https://www.trufflesuite.com/guides)
   * [Trufflesuite PetShop Tutorial](https://www.trufflesuite.com/tutorial)
 
-
-- Ganache GUI
-  * [Guides on using Ganache](https://www.trufflesuite.com/guides)
 
 - Hardhat
   * [Hello world Tutorial with Hardhat](https://ethereum.org/en/developers/tutorials/waffle-say-hello-world-with-hardhat-and-ethers/)
@@ -321,12 +319,12 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [How to use eevents in solidity](https://hackernoon.com/how-to-use-events-in-solidity-pe1735t5)
 
 - Factory Contracts
-- [Solidity Fast Track Part 1](https://soliditydeveloper.com/solidity-fast-track),
-- [Solidity Fast Track Part 2](https://soliditydeveloper.com/solidity-fast-track-2),
-- [Solidity by Example](https://solidity-by-example.org/)
-- [All About Solidity](https://jeancvllr.medium.com/all-about-solidity-article-series-f57be7bf6746)
-- [Learn X in Y - Solidity](https://learnxinyminutes.com/docs/solidity/)
-- [EthFiddle - Solidity < 0.7.1](https://ethfiddle.com/)
+* [Solidity Fast Track Part 1](https://soliditydeveloper.com/solidity-fast-track),
+* [Solidity Fast Track Part 2](https://soliditydeveloper.com/solidity-fast-track-2),
+* [Solidity by Example](https://solidity-by-example.org/)
+* [All About Solidity](https://jeancvllr.medium.com/all-about-solidity-article-series-f57be7bf6746)
+* [Learn X in Y - Solidity](https://learnxinyminutes.com/docs/solidity/)
+* [EthFiddle - Solidity < 0.7.1](https://ethfiddle.com/)
 
 - Solidity patterns
   * [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
@@ -335,49 +333,49 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Writing Smart Contracts
 - Introductory Smart Contracts
   * [Hello World](https://solidity-by-example.org/hello-world/)
-  * [first app -count](https://solidity-by-example.org/first-app/)
+  * [first app : count](https://solidity-by-example.org/first-app/)
   * [multi-sig wallet](https://solidity-by-example.org/app/multi-sig-wallet/)
 
 - Inter-Contract Execution
   * [Basic example on stackexchange](https://ethereum.stackexchange.com/questions/1599/basic-example-of-interaction-between-2-contracts)
   * [Interactions between contract](https://dappsforbeginners.wordpress.com/tutorials/interactions-between-contracts/)
-  * [Calling other conttract](https://solidity-by-example.org/calling-contract/)
-  * [Contract that crreeates other contracts](https://solidity-by-example.org/new-contract/)
+  * [Calling other contract](https://solidity-by-example.org/calling-contract/)
+  * [Contract that creates other contracts](https://solidity-by-example.org/new-contract/)
 
 - Inheritance
   * [Solidity Inheritance](https://www.geeksforgeeks.org/solidity-inheritance/#:~:text=Solidity%20supports%20inheritance%20between%20smart,is%20called%20a%20derived%20contract.)
-  * [Contracts are classes](https://ethereumdev.io/inheritance-in-solidity-contracts-are-classes/)
+  * [Contracts are Classes](https://ethereumdev.io/inheritance-in-solidity-contracts-are-classes/)
   * [Inheritance in Solidity Docs](https://docs.soliditylang.org/en/v0.8.6/contracts.html?highlight=inheritance#inheritance)
 
-- Libraries and the Ethereum Package manager
+- Libraries and the Ethereum Package manager ///
+//
   * [Libraries at Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/libraries/)
-  * [OpenZeppelin](https://openzeppelin.com/contracts/)
-  * [Modular network Lirbaries](https://github.com/modular-network/ethereum-libraries)
+  * [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
+  * [Modular Network Lirbaries](https://github.com/modular-network/ethereum-libraries)
 
 - Smart Contract system Design
   * [Building your Dapp](https://docs.openzeppelin.com/learn/building-a-dapp)
-  * [towards better voting prottocols](https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119/)
-  * [designing tthe architecture of your ethereum application](https://blog.openzeppelin.com/designing-the-architecture-for-your-ethereum-application-9cec086f8317/)
+  * [Towards better voting protocols](https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119/)
+  * [Designing the architecture of your Ethereum application](https://blog.openzeppelin.com/designing-the-architecture-for-your-ethereum-application-9cec086f8317/)
 
 - Writing a Smart Contract - proof of existence
   * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
 
-
-- Examples: Simple Bank, Supply Chain
+- Examples: Simple Bank, Supply Chain//////
 
 
 - Examples: Deploying a Voting Smart Contract
 * [Deploying a Voting Smart Contract](https://www.youtube.com/watch?v=GB3hiiNNDjk)
-- The OpenZeppelin Libraries
 - Games
   * [CryptoZombies](https://cryptozombies.io/)
-- guides  
+- Guides  
   * [Ethereumdev.io](https://ethereumdev.io/)
   * [Solidity Developer](https://soliditydeveloper.com/blog)
   * [Ethereum Blockchain Developer](https://ethereum-blockchain-developer.com/)
 
-## Token Standards - EIP's
-* [EIP's - Ethereum Improvement Proposals](https://eips.ethereum.org/)
+## Token Standards - EIP's /////
+
+- [EIP's - Ethereum Improvement Proposals](https://eips.ethereum.org/)
   * [ERC20 - Token standard](https://eips.ethereum.org/EIPS/eip-20)
   * [ERC721 - NFT standard](https://eips.ethereum.org/EIPS/eip-721)
   * [ERC 1155 - Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
@@ -413,21 +411,25 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Rimples examples](https://codesandbox.io/examples/package/rimble-ui)
 
 
-- Other web frameworks with smart contracts
+- Other web frameworks with smart contracts //////
   * web3.js
   * ether.js
 
-- Web3.py and Python interaction
-- Desktop Interaction through Python
+- Web3.py and Python interaction /////
+- Desktop Interaction through Python /////
 
-## Templates for creating Dapps
+## Templates for creating Dapps ///////
   * Blockchain Integrated:
   * [Truffle Boxes](https://www.trufflesuite.com/boxes)
   * Blockchain NOT integrated:
   * [create-react-app](https://create-react-app.dev/)
   * [create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
 
-## Testing & Debugging
+## Testing & Debugging ///////
+
+[//]: # (add more good links here)
+
+
 - Writing Tests
 - Catching Errors In Tests
 - Smart Contract Best Practices
@@ -461,7 +463,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [how to get into web3 as a developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - [Ethereum dapp crash course](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [React bootstrap Guide](https://react-bootstrap.github.io/)
-
 
 
 ## Developer Video guides
