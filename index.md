@@ -20,7 +20,6 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
 
 - MacOS: Latest is v11 'BigSur' (Aug 2021)
   * _you need an apple computer to run MacOS_
-  * _yes, you can develop dApps on the new Macs with M1, M1X and M1Pro_
   * [MacOS Monterey](https://www.apple.com/uk/macos/monterey/)
 
 - Options for Ethereum Nodes
@@ -361,7 +360,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Writing a Smart Contract - proof of existence
   * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
 
-- Examples: Simple Bank, Supply Chain//////
+- Examples: 
+* Simple Bank 
+* Supply Chain
 
 
 - Examples: Deploying a Voting Smart Contract
@@ -373,7 +374,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Solidity Developer](https://soliditydeveloper.com/blog)
   * [Ethereum Blockchain Developer](https://ethereum-blockchain-developer.com/)
 
-## Token Standards - EIP's /////
+## Token Standards - EIP's 
 
 - [EIP's - Ethereum Improvement Proposals](https://eips.ethereum.org/)
   * [ERC20 - Token standard](https://eips.ethereum.org/EIPS/eip-20)
@@ -412,10 +413,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 - Other web frameworks with smart contracts //////
-  * web3.js
-  * ether.js
+  * web3.js [web3,js](https://web3js.readthedocs.io/en/v1.7.3/)
+  * ether.js [ether.js](https://docs.ethers.io/v3/)
 
-- Web3.py and Python interaction /////
+- Web3.py and Python interaction /
+* web3.p [web3.py](https://web3py.readthedocs.io/en/stable/)
 - Desktop Interaction through Python /////
 
 ## Templates for creating Dapps ///////
