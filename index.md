@@ -226,7 +226,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Tokens and Token Standards
  - [EthWiki](https://eth.wiki/home)
 
-## Traditional and Decentralised application development 
+## Traditional and Decentralised application development
 - [How to Get Into Ethereum-Crypto-Web3 as a Developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - Decentralised application development
 - Similarities and differences
@@ -346,8 +346,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Contracts are Classes](https://ethereumdev.io/inheritance-in-solidity-contracts-are-classes/)
   * [Inheritance in Solidity Docs](https://docs.soliditylang.org/en/v0.8.6/contracts.html?highlight=inheritance#inheritance)
 
-- Libraries and the Ethereum Package manager ///
-//
+- Libraries and the Ethereum Package manager 
   * [Libraries at Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/libraries/)
   * [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
   * [Modular Network Lirbaries](https://github.com/modular-network/ethereum-libraries)
@@ -360,8 +359,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Writing a Smart Contract - proof of existence
   * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
 
-- Examples: 
-* Simple Bank 
+- Examples:
+* Simple Bank
 * Supply Chain
 
 
@@ -374,7 +373,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Solidity Developer](https://soliditydeveloper.com/blog)
   * [Ethereum Blockchain Developer](https://ethereum-blockchain-developer.com/)
 
-## Token Standards - EIPs 
+## Token Standards - EIPs
 
 - [EIPs - Ethereum Improvement Proposals](https://eips.ethereum.org/)
   * [ERC20 - Token standard](https://eips.ethereum.org/EIPS/eip-20)
@@ -420,14 +419,14 @@ Interesting to read as Buterin goes through the internal thought process of crea
 * web3.p [web3.py](https://web3py.readthedocs.io/en/stable/)
 
 
-## Templates for creating Dapps 
+## Templates for creating Dapps
   * Blockchain Integrated:
   * [Truffle Boxes](https://www.trufflesuite.com/boxes)
   * Blockchain NOT integrated:
   * [create-react-app](https://create-react-app.dev/)
   * [create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
 
-## Testing & Debugging 
+## Testing & Debugging
 
 [//]: # (add more good links here)
 - Writing Tests
