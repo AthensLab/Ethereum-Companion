@@ -346,7 +346,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Contracts are Classes](https://ethereumdev.io/inheritance-in-solidity-contracts-are-classes/)
   * [Inheritance in Solidity Docs](https://docs.soliditylang.org/en/v0.8.6/contracts.html?highlight=inheritance#inheritance)
 
-- Libraries and the Ethereum Package manager 
+- Libraries and the Ethereum Package manager
   * [Libraries at Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/libraries/)
   * [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
   * [Modular Network Lirbaries](https://github.com/modular-network/ethereum-libraries)
@@ -473,7 +473,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [EthGlobal - Protocol Tutorials](https://www.youtube.com/c/ETHGlobal)
 - [ChainLink](https://www.youtube.com/channel/UCnjkrlqaWEBSnKZQ71gdyFA)
-
+- [Blockchain, Solidity, Full stack web3 Developmnet with Javascirpt 32 hour course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 
 ## Decentralised Finance - DeFi
 - [What is DeFi](https://ethereum.org/en/defi/)
@@ -486,7 +486,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Decentralised Autonomous Organisations  - DAOs 道
   - [What is a DAO](https://ethereum.org/en/dao/)
-    * DAO concepts
+    * [DAO concepts](https://archidao.substack.com/p/top-10-words-to-know-about-dao-decentralized)
 
   - DAO Frameworks:  
     * [DAOStack](https://daostack.io/)
