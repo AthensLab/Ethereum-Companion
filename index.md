@@ -150,6 +150,10 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
 - Building a Blockchain
   * [Learn Blockchains by Building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
   * [Create your own blockchain using python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
+  * [How to Build A Blockchain in Python](https://www.activestate.com/blog/how-to-build-a-blockchain-in-python/)
+  * [How to create a blockchain in Python](https://www.section.io/engineering-education/how-to-create-a-blockchain-in-python/)
+  * [Build a Blochchain in less than 60 lines of code](https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531)
+
   * [Blockchain basics on Solidity](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
 - Smart contracts
@@ -193,6 +197,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Blocks
   * [Blocks](https://ethereum.org/en/developers/docs/blocks/)
   * [Ethereum Block Structure Visualised](https://i.stack.imgur.com/eOwjD.png)
+
+- Running an Ethereum Node
+  * [PoS](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+  *
+
 
 - Ethereum Virtual Machine
   * [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
@@ -416,7 +425,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * ether.js [ether.js](https://docs.ethers.io/v3/)
 
 - Web3.py and Python interaction /
-* web3.p [web3.py](https://web3py.readthedocs.io/en/stable/)
+* web3.py [web3.py](https://web3py.readthedocs.io/en/stable/)
 
 
 ## Templates for creating Dapps
