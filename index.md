@@ -1,12 +1,12 @@
 ## Welcome to the AthensLab Ethereum Developer Companion
-
-This website has been developed as a companion to the ConsenSys Blockchain Developer Bootcamp 2021 and is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications.
+This website has been developed as a companion to the AthensLabs Blockchain Developer Bootcamp 2022 and is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications. The companion is used as a source of information on active learning that you have to develop, by developing an actual decentralised application.
 
 
 ## Onboarding
 - [Consensys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
 - [Developer onboarding on Ethereum - Consensys](https://consensys.net/developers/10-minute-ethereum-orientation/)
 - [Developer onboarding on Ethereum - Ethereum.org](https://ethereum.org/en/developers/docs/)
+
 
 ## Setting up a development environment
 - Linux distribution
@@ -41,10 +41,12 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
   * [MS Visual Studio Live share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
   * [JetBrains Idea](https://www.jetbrains.com/idea)
 
+
 - Git clients
   * [git](https://git-scm.com/)
   * [GitHub :: Desktop - best for MacOS and Windows](https://desktop.github.com/)
   * [Oh My Git - Learning Git game](https://ohmygit.org/)
+
 
 ## Review of blockchain technologies
 - Blockchain Context
@@ -56,20 +58,20 @@ This website has been developed as a companion to the ConsenSys Blockchain Devel
     * [How Does a Blockchain Work? - Video](https://www.youtube.com/watch?v=SSo_EIwHSd4)
     * [A Visual Blockchain Demo - Video](https://www.youtube.com/watch?v=_160oMzblY8)
 
+
 - Distributed Ledgers
   * [A review of DLTs by N.E.Ioini & C.Pahl](https://www.researchgate.net/profile/Claus-Pahl/publication/328475892_A_Review_of_Distributed_Ledger_Technologies/links/5bd0085ba6fdcc204a036252/A-Review-of-Distributed-Ledger-Technologies.pdf)
   * [Distributed Ledger Technology: Beyond Blockchain - UK gov office for Science](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
   * [WorldBank on DLTs](https://www.worldbank.org/en/topic/financialsector/brief/blockchain-dlt)
 
 - Consensus Mechanisms
-
   * [Consensus Mechanisms](https://mastanbtc.github.io/blockchainnotes/consensustypes/)
   * [Consensus Mechanisms in Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
   * [Review of consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
   * [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
-    * Proof of Work
+  * Proof of Work
       [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
-    * Proof of Stake
+  * Proof of Stake
       [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
       [Proof of Stake vs Proof of Work](https://decrypt.co/resources/proof-of-work-vs-proof-of-stake)
 
