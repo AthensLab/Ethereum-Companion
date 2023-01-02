@@ -1,5 +1,5 @@
 ## Welcome to the AthensLab Ethereum Developer Companion
-This website has been developed as a companion to the AthensLabs Blockchain Developer Bootcamp 2022 and is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications. The companion is used as a source of information on active learning that you have to develop, by developing an actual decentralised application.
+This website has been developed as a companion to the AthensLabs Blockchain Developer Bootcamp 2022. It is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications. The companion is used as a source of information on active learning that you have to develop, by designing, coding and deploying an actual decentralised application. The companion focuses mainly on the Ethereum Blockchain and the Solidity Language for Smart Contracts
 
 
 ## Onboarding
@@ -19,7 +19,7 @@ This website has been developed as a companion to the AthensLabs Blockchain Deve
   * [Ethereum developers guide to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
 - MacOS: Latest is v11 'BigSur' (Aug 2021)
-  * _you need an apple computer to run MacOS_
+  * _you need an Apple computer to run MacOS_
   * [MacOS Monterey](https://www.apple.com/uk/macos/monterey/)
 
 - Options for Ethereum Nodes
@@ -202,7 +202,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 - Running an Ethereum Node
   * [PoS](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-  *
+  * [Run an Ethereum Node - general info](https://ethereum.org/en/run-a-node/)
+  * [Spin your Own Node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
+  * [Guide to becoming a validator](https://blockdaemon.com/products/white-label-validator/ethereum-introduction/)
 
 
 - Ethereum Virtual Machine
@@ -240,14 +242,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Traditional and Decentralised application development
 - [How to Get Into Ethereum-Crypto-Web3 as a Developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - Decentralised application development
-- Similarities and differences
-- Development Environment setup
+- [Similarities and differences between Centralised vs Decentralised](https://www.geeksforgeeks.org/centralized-vs-decentralized-applications/)
+- [Setting up yur Development Environment](https://www.grizzlypeaksoftware.com/articles?id=947hoJYsqk86nRQku8szy)
 - Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS)
-- Geth (and Staking Eth2 node)
-- Other Ethereum Node Software
-- Connecting to a testnet
-- Setting up your own Ethereum private network
-- Setting up your own Node on ethereum (Geth, dappnode.io, Parity)
+- [Decentralised Application Frameworks](https://blog.logrocket.com/top-5-decentralized-app-development-frameworks/)
+- [Setting up your own Ethereum private network](https://hackernoon.com/how-to-set-up-a-private-ethereum-blockchain-proof-of-authority-with-go-ethereum-part-1)
 
 
 ## Development frameworks and environment
@@ -256,7 +255,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Solidity Language Documentation](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
 - Blockchain Development Tools
-  * [Truffle Suite](https://www.trufflesuite.com/)
+    * [Truffle Suite](https://www.trufflesuite.com/)
     * [Ganache GUI](https://www.trufflesuite.com/ganache)
     * [Ganache CLI](https://github.com/trufflesuite/ganache-cli-archive)
     * [Drizzle](https://www.trufflesuite.com/drizzle)
@@ -286,9 +285,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Solidity Fundamentals
-- [Solidity Language](https://soliditylang.org/),
-- [Solidity Documentation](https://docs.soliditylang.org/),
-- [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
+* [Solidity Language](https://soliditylang.org/),
+* [Solidity Documentation](https://docs.soliditylang.org/),
+* [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
 
 - Layout & Structure
   * [Layout of a solidity file](https://docs.soliditylang.org/en/v0.8.7/layout-of-source-files.html)
@@ -371,8 +370,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
 
 - Examples:
-* Simple Bank
-* Supply Chain
+* [Simple Bank](https://nicogs.medium.com/building-a-bank-with-solidity-for-beginners-ethereum-blockchain-development-tutorial-ba50ce6e8eb0)
+* [Multi-signature Wallet](https://github.com/ConsenSys-Academy/multisig-wallet-exercise)
+* [Supply Chain](https://github.com/ConsenSys-Academy/supply-chain-exercise)
 
 
 - Examples: Deploying a Voting Smart Contract
@@ -422,16 +422,16 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Rimples examples](https://codesandbox.io/examples/package/rimble-ui)
 
 
-- Other web frameworks with smart contracts //////
-  * web3.js [web3,js](https://web3js.readthedocs.io/en/v1.7.3/)
-  * ether.js [ether.js](https://docs.ethers.io/v3/)
+- Web3 libraries as frontends for smart contracts 
+  * Web3.js [wWb3.js](https://web3js.readthedocs.io/en/v1.7.3/)
+  * Ether.js [Ether.js](https://docs.ethers.io/v3/)
 
-- Web3.py and Python interaction /
-* web3.py [web3.py](https://web3py.readthedocs.io/en/stable/)
+- Web3 and Python interaction - frontend
+* Web3.py [web3.py](https://web3py.readthedocs.io/en/stable/)
 
 
 ## Templates for creating Dapps
-  * Blockchain Integrated:
+  * Blockchain Integrated - via Ganache:
   * [Truffle Boxes](https://www.trufflesuite.com/boxes)
   * Blockchain NOT integrated:
   * [create-react-app](https://create-react-app.dev/)
@@ -441,8 +441,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 [//]: # (add more good links here)
 - Writing Tests
--  tests inn solidity
--  tests in javascript
+- tests in Solidity
+- tests in Javascript
 - Catching Errors In Tests
 - Smart Contract Best Practices
   * [Smart Contracts best practices](https://consensys.github.io/smart-contract-best-practices/)
