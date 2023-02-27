@@ -441,8 +441,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 [//]: # (add more good links here)
 - Writing Tests
-- tests in Solidity
-- tests in Javascript
+- Tests in Solidity
+- Tests in Javascript
 - Catching Errors In Tests
 - Smart Contract Best Practices
   * [Smart Contracts best practices](https://consensys.github.io/smart-contract-best-practices/)
@@ -450,12 +450,16 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 - Exploits
 - Gas Optimisation
-- Safety checklist
-- Security analysis
+- Safety Checklist
+- Security Analysis
 - Transaction Origin attack Demo
 - DoS Example
 - Re-entrancy example
 - Integer under/overflow (until 0.7.0)
+
+## Full Learning Guides
+- Alchemy University
+* [Alchemy University](https://university.alchemy.com/home)
 
 ## Learning through Gamification
 - Security Games
