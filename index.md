@@ -440,8 +440,20 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Testing & Debugging
 
 [//]: # (add more good links here)
+- Why test?
+  * [What is unit testing?](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
+  * [Why Testable Code matters: Unit Testing](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
+  * [Software Testing Methodology](https://smartbear.com/learn/automated-testing/software-testing-methodologies/)
+
 - Writing Tests
+  * [Writting Solidity Tests with Truffle](https://trufflesuite.com/docs/truffle/how-to/debug-test/write-tests-in-solidity/)
+  * [Testing Contracts with HardHat](https://hardhat.org/tutorial/testing-contracts)
+  * [Writing Automated Tests](https://docs.openzeppelin.com/learn/writing-automated-tests)
+
 - Tests in Solidity
+  * [Writing Tests in Solidity with Foundry](https://soliditydeveloper.com/foundry)
+  * [Solidity Unit Testing using Remix](https://remix-ide.readthedocs.io/en/latest/unittesting.html)
+
 - Tests in Javascript
 - Catching Errors In Tests
 - Smart Contract Best Practices
@@ -510,10 +522,17 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Fungible & Non-fungible Tokens
   - ERC20
-  - ERC721
+    * [Create an ERC-20 in 20 min](https://vitto.cc/how-to-create-and-deploy-an-erc20-token-in-20-minutes/)
+    * [Create an ERC-20 in 4 steps - Alchemy docs](https://docs.alchemy.com/docs/how-to-create-an-erc-20-token-4-steps)
+    * [How to create your own ERC-20 in an hour - Verified](https://steemit.com/ethereum/@maxnachamkin/how-to-create-your-own-ethereum-token-in-an-hour-erc20-verified)
+    * [dAPP university: create your own Cryptocurrency in Ethereum](https://www.dappuniversity.com/articles/code-your-own-cryptocurrency-on-ethereum)
+    * [OpenZeppelin - ERC-20 supplies](https://docs.openzeppelin.com/contracts/2.x/erc20-supply)
+ 
+      - ERC721
     * [NFT School](https://nftschool.dev/)
   - Other token Standards
   - Tokenisation strategies
+    * [Token engineering academy](https://tokenengineering.net/)
 
 ##  Developers on YouTube
   - [Eat The Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
