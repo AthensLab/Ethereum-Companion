@@ -155,7 +155,6 @@ This website has been developed as a companion to the AthensLabs Blockchain Deve
   * [How to Build A Blockchain in Python](https://www.activestate.com/blog/how-to-build-a-blockchain-in-python/)
   * [How to create a blockchain in Python](https://www.section.io/engineering-education/how-to-create-a-blockchain-in-python/)
   * [Build a Blochchain in less than 60 lines of code](https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531)
-
   * [Blockchain basics on Solidity](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
 - Smart contracts
@@ -240,13 +239,13 @@ Interesting to read as Buterin goes through the internal thought process of crea
  - [EthWiki](https://eth.wiki/home)
 
 ## Traditional and Decentralised application development
-- [How to Get Into Ethereum-Crypto-Web3 as a Developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
+* [How to Get Into Ethereum-Crypto-Web3 as a Developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - Decentralised application development
-- [Similarities and differences between Centralised vs Decentralised](https://www.geeksforgeeks.org/centralized-vs-decentralized-applications/)
-- [Setting up yur Development Environment](https://www.grizzlypeaksoftware.com/articles?id=947hoJYsqk86nRQku8szy)
+* [Similarities and differences between Centralised vs Decentralised](https://www.geeksforgeeks.org/centralized-vs-decentralized-applications/)
+* [Setting up yur Development Environment](https://www.grizzlypeaksoftware.com/articles?id=947hoJYsqk86nRQku8szy)
 - Key Developer Tools (metamask, remix, truffle, hardhat, web3.js, IPFS)
-- [Decentralised Application Frameworks](https://blog.logrocket.com/top-5-decentralized-app-development-frameworks/)
-- [Setting up your own Ethereum private network](https://hackernoon.com/how-to-set-up-a-private-ethereum-blockchain-proof-of-authority-with-go-ethereum-part-1)
+* [Decentralised Application Frameworks](https://blog.logrocket.com/top-5-decentralized-app-development-frameworks/)
+* [Setting up your own Ethereum private network](https://hackernoon.com/how-to-set-up-a-private-ethereum-blockchain-proof-of-authority-with-go-ethereum-part-1)
 
 
 ## Development frameworks and environment
@@ -391,7 +390,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [ERC721 - NFT standard](https://eips.ethereum.org/EIPS/eip-721)
   * [ERC 1155 - Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
 
-## Solidity Smart Contract Libraries & Design Patterns
+## Solidity Libraries & Design Patterns for Smart Contracts
 - Smart Contract Libraries
   * [OpenZeppelin](https://openzeppelin.com/contracts/)
 
@@ -473,6 +472,12 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Alchemy University
 * [Alchemy University](https://university.alchemy.com/home)
 
+# Frameworks
+
+* Foundry
+* Truffle
+* Brownie
+
 ## Learning through Gamification
 - Security Games
   - OpenZeppelin
@@ -531,7 +536,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
       - ERC721
     * [NFT School](https://nftschool.dev/)
   - Other token Standards
-  - Tokenisation strategies
+  - ERC777
+
+
+  ## Token Engineering 
     * [Token engineering academy](https://tokenengineering.net/)
 
 ##  Developers on YouTube
