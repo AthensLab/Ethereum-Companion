@@ -474,8 +474,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 # Frameworks
 
-* Foundry
-* Truffle
+
+* [Foundry](https://github.com/foundry-rs/foundry)
+
 * Brownie
 
 ## Learning through Gamification
