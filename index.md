@@ -1,5 +1,9 @@
-## Welcome to the AthensLab Ethereum Developer Companion
-This website has been developed as a companion to the AthensLabs Blockchain Developer Bootcamp 2022. It is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications. The companion is used as a source of information on active learning that you have to develop, by designing, coding and deploying an actual decentralised application. The companion focuses mainly on the Ethereum Blockchain and the Solidity Language for Smart Contracts
+## Welcome to the ArchiDAO Ethereum Developer Companion
+
+Early version of this guide were developed as a companion to the AthensLabs Blockchain Developer Bootcamp 2022. We have been updating this guide for use of Blockchain in Architecture-Engineering-Construction, including upgrading tutorials on newer development frameworks. Still, some of the fundamentals on blockchains remain unchanged. The guide focuses on the Ethereum ecosystem, currently (Nov 2023) the most vibrant smart contract and blockchain development ecosystem.
+It is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications. 
+
+- The companion is used as a source of information on active learning that you have to develop, by designing, coding and deploying an actual decentralised application. 
 
 
 ## Onboarding
