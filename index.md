@@ -28,7 +28,7 @@ It is designed as a series of structured links and content that will provide you
   * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   * [Ethereum developers guide to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
-- MacOS: Latest is v11 'BigSur' (Aug 2021)
+- MacOS: Latest is v13 'Sonoma' (sep 2023)
   * _you need an Apple computer to run MacOS_
   * [MacOS Monterey](https://www.apple.com/uk/macos/monterey/)
   * [MacOS Monterey](https://www.apple.com/by/macos/monterey/)
