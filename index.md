@@ -49,7 +49,7 @@ It is designed as a series of structured links and content that will provide you
   * [Remix](https://remix.ethereum.org)
   * [Remix-Desktop](https://github.com/ethereum/remix-desktop)
   * [ethfiddle](https://ethfiddle.com/)
-  * [Atom](https://atom.io/)
+  * [Atom - no longer developed](https://atom.io/)
   * [Visual studio Code](https://code.visualstudio.com/)
   * [MS Visual Studio Live share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
   * [JetBrains Idea](https://www.jetbrains.com/idea)
@@ -114,9 +114,7 @@ It is designed as a series of structured links and content that will provide you
   * [Hyperledger](https://www.hyperledger.org/use/fabric)
   * [Corda](www.corda.net)
   * [IOTA](www.iota.org)
-
-  * [Alternative Distributed Ledger Technologies Blockchain vs. Tangle vs. Hashgraph - A High-Level Overview and Comparison
-](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144241)
+  * [Alternative Distributed Ledger Technologies Blockchain vs. Tangle vs. Hashgraph - A High-Level Overview and Comparison](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144241)
 
 
 ## Blockchain Basics
@@ -157,6 +155,7 @@ It is designed as a series of structured links and content that will provide you
   * [Merkle Tree Introduction](https://hackernoon.com/merkle-tree-introduction-4c44250e2da7)
   * [What is a Merkle Tree](httpe://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
   * [Merkle Tree Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
+  * [Merkle Tree in solidity](https://soliditydeveloper.com/merkle-tree)
 
 - Blockchain Structure
   * [Security and Privacy issues on blockchain technology - intro to basic structure of BC](https://www.researchgate.net/publication/325173502_A_survey_on_security_and_privacy_issues_of_blockchain_technology)
@@ -164,8 +163,8 @@ It is designed as a series of structured links and content that will provide you
 
 - Building a Blockchain
   * [Learn Blockchains by Building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-  * [Create your own blockchain using python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
-  * [How to Build A Blockchain in Python](https://www.activestate.com/blog/how-to-build-a-blockchain-in-python/)
+  * [Create your own Blockchain using python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
+  * [How to build a Blockchain in Python](https://www.activestate.com/blog/how-to-build-a-blockchain-in-python/)
   * [How to create a blockchain in Python](https://www.section.io/engineering-education/how-to-create-a-blockchain-in-python/)
   * [Build a Blochchain in less than 60 lines of code](https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531)
   * [Blockchain basics on Solidity](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
@@ -236,17 +235,33 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - MainNet and TestNets
   * [Networks on Ethereum](https://ethereum.org/en/developers/docs/networks/)
   * [Development Networks](https://ethereum.org/en/developers/docs/development-networks/)
-  * [Kovan Test Network](https://kovan-testnet.github.io/website/)
-  * [Rinkeby Test Network](https://www.rinkeby.io/#stats)
-  * [Goerli Test Network](https://goerli.net/)
+  * [Sepolia Test Netowrk](https://sepolia.dev/)
+  * [Holesky Test Network](https://holesky.ethpandaops.io/)
+
   * [Connecting to public testnets](https://docs.openzeppelin.com/learn/connecting-to-public-test-networks)
   * [Testing Ethereum](https://www.innoq.com/en/blog/testing-ethereum/)
   * [How to set up a custom Ethereum Testnet](https://www.ulam.io/blog/how-to-setup-custom-ethereum-testnet/)
 
+
+  - Layer 2 testnets
+  * [Goerli for Abritrum](https://goerli.arbiscan.io/)
+  * [Goerli for Optimisim](https://goerli-optimism.etherscan.io/)
+  * [Goerli for Stacknet](https://faucet.goerli.starknet.io/)
+
+  - Consortium Networks
+  * [Create a private network](https://www.c-sharpcorner.com/article/setup-your-private-ethereum-network-with-geth2/)
+
+  
+
+- depreciated
+  * [Kovan Test Network](https://kovan-testnet.github.io/website/)
+  * [Rinkeby Test Network](https://www.rinkeby.io/#stats)
+  * [Goerli Test Network](https://goerli.net/)
+
 - Etherscan
   * [MainNet Etherscan](https://etherscan.io/)
-  * [Ropsten Etherscan](https://ropsten.etherscan.io/)
-  * [Rinkeby Etherscan](https://rinkeby.etherscan.io/)
+  * [Sepolia Etherscan](https://sepolia.etherscan.io/)
+  * [Holesky Etherscan](https://holesky.etherscan.io/)
 
 - Tokens and Token Standards
  - [EthWiki](https://eth.wiki/home)
@@ -266,15 +281,21 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Introduction
   * [Solidity Language Documentation](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
-- Blockchain Development Tools
-    * [Truffle Suite](https://www.trufflesuite.com/)
+- Blockchain Development Tools & Suites
+    * [Foundry](https://github.com/foundry-rs/foundry)
+    * [Hardhat](https://hardhat.org/)
+    * [Beginners Tutorial](https://hardhat.org/tutorial/)
+    * [Brownie - python based](https://github.com/eth-brownie/brownie)
+
+  - enterprise class
+    * [Alchemy](https://www.alchemy.com/)
+    * [Moralis](https://moralis.io/)
+
+    Depreciated:
+    * [Truffle Suite- in the process of being sunset](https://www.trufflesuite.com/)
     * [Ganache GUI](https://www.trufflesuite.com/ganache)
     * [Ganache CLI](https://github.com/trufflesuite/ganache-cli-archive)
     * [Drizzle](https://www.trufflesuite.com/drizzle)
-    * [Hardhat](https://hardhat.org/)
-    * [Beginners Tutorial](https://hardhat.org/tutorial/)
-    * [Alchemy](https://www.alchemy.com/)
-    * [Moralis](https://moralis.io/)
 
 - Structure of a truffle project
   * [Trufflesuite guides](https://www.trufflesuite.com/guides)
