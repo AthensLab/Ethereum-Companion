@@ -296,11 +296,12 @@ Interesting to read as Buterin goes through the internal thought process of crea
     * [Ganache GUI](https://www.trufflesuite.com/ganache)
     * [Ganache CLI](https://github.com/trufflesuite/ganache-cli-archive)
     * [Drizzle](https://www.trufflesuite.com/drizzle)
+    * [Trufflesuite guides](https://www.trufflesuite.com/guides)
+    * [Trufflesuite PetShop Tutorial](https://www.trufflesuite.com/tutorial)
+    - Truffle Boxes (Templates to base your project on)
+      * [Truffle boxes](https://www.trufflesuite.com/boxes)
 
-- Structure of a truffle project
-  * [Trufflesuite guides](https://www.trufflesuite.com/guides)
-  * [Trufflesuite PetShop Tutorial](https://www.trufflesuite.com/tutorial)
-
+  
 
 - Hardhat
   * [Hello world Tutorial with Hardhat](https://ethereum.org/en/developers/tutorials/waffle-say-hello-world-with-hardhat-and-ethers/)
@@ -312,19 +313,16 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Developer Tools guides
   * [Ethereum Developer tools by Consensys](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
-- Truffle Boxes (Templates to base your project on)
-  * [Truffle boxes](https://www.trufflesuite.com/boxes)
-
 
 
 ## Solidity Fundamentals
-* [Solidity Language](https://soliditylang.org/),
-* [Solidity Documentation](https://docs.soliditylang.org/),
+* [Solidity Language](https://soliditylang.org/)
+* [Solidity Documentation](https://docs.soliditylang.org/)
 * [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
 
 - Layout & Structure
-  * [Layout of a solidity file](https://docs.soliditylang.org/en/v0.8.7/layout-of-source-files.html)
-  * [Structure](https://docs.soliditylang.org/en/v0.8.7/structure-of-a-contract.html)
+  * [Layout of a solidity file](https://docs.soliditylang.org/en/v0.8.23/layout-of-source-files.html)
+  * [Structure](https://docs.soliditylang.org/en/v0.8.23/structure-of-a-contract.html)
 
 - Data Types and Variables
   * [Value Types](https://docs.soliditylang.org/en/v0.8.7/types.html#value-types)
@@ -394,7 +392,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
   * [Modular Network Lirbaries](https://github.com/modular-network/ethereum-libraries)
 
-- Smart Contract system Design
+- Smart Contract System Design
   * [Building your Dapp](https://docs.openzeppelin.com/learn/building-a-dapp)
   * [Towards better voting protocols](https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119/)
   * [Designing the architecture of your Ethereum application](https://blog.openzeppelin.com/designing-the-architecture-for-your-ethereum-application-9cec086f8317/)
@@ -402,7 +400,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Writing a Smart Contract - proof of existence
   * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
 
-- Examples:
+- Types of Smart Contracts
 * [Simple Bank](https://nicogs.medium.com/building-a-bank-with-solidity-for-beginners-ethereum-blockchain-development-tutorial-ba50ce6e8eb0)
 * [Multi-signature Wallet](https://github.com/ConsenSys-Academy/multisig-wallet-exercise)
 * [Supply Chain](https://github.com/ConsenSys-Academy/supply-chain-exercise)
@@ -410,8 +408,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 - Examples: Deploying a Voting Smart Contract
 * [Deploying a Voting Smart Contract](https://www.youtube.com/watch?v=GB3hiiNNDjk)
+
 - Games
   * [CryptoZombies](https://cryptozombies.io/)
+
 - Guides  
   * [Ethereumdev.io](https://ethereumdev.io/)
   * [Solidity Developer](https://soliditydeveloper.com/blog)
@@ -456,23 +456,15 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 - Web3 libraries as frontends for smart contracts 
-  * Web3.js [wWb3.js](https://web3js.readthedocs.io/en/v1.7.3/)
+  * Web3.js [web3.js](https://web3js.readthedocs.io/en/v1.7.3/)
   * Ether.js [Ether.js](https://docs.ethers.io/v3/)
 
 - Web3 and Python interaction - frontend
 * Web3.py [web3.py](https://web3py.readthedocs.io/en/stable/)
 
 
-## Templates for creating Dapps
-  * Blockchain Integrated - via Ganache:
-  * [Truffle Boxes](https://www.trufflesuite.com/boxes)
-  * Blockchain NOT integrated:
-  * [create-react-app](https://create-react-app.dev/)
-  * [create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
-
 ## Testing & Debugging
-
-[//]: # (add more good links here)
+//: # (add more good links here)
 - Why test?
   * [What is unit testing?](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
   * [Why Testable Code matters: Unit Testing](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
