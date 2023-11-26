@@ -1,26 +1,39 @@
-## Welcome to the AthensLab Ethereum Developer Companion
-This website has been developed as a companion to the AthensLabs Blockchain Developer Bootcamp 2022. It is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications. The companion is used as a source of information on active learning that you have to develop, by designing, coding and deploying an actual decentralised application. The companion focuses mainly on the Ethereum Blockchain and the Solidity Language for Smart Contracts
+## Welcome to the ArchiDAO Ethereum Developer Companion
+
+Early version of this guide were developed as a companion to the AthensLabs Blockchain Developer Bootcamp 2022. We have been updating this guide for use of Blockchain in Architecture-Engineering-Construction, including upgrading tutorials on newer development frameworks. Still, some of the fundamentals on blockchains remain unchanged. The guide focuses on the Ethereum ecosystem, currently (Nov 2023) the most vibrant smart contract and blockchain development ecosystem.
+It is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications. 
+
+- The companion is used as a source of information on active learning that you have to develop, by designing, coding and deploying an actual decentralised application. 
 
 
 ## Onboarding
 - [Consensys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
-- [Developer onboarding on Ethereum - Consensys](https://consensys.net/developers/10-minute-ethereum-orientation/)
 - [Developer onboarding on Ethereum - Ethereum.org](https://ethereum.org/en/developers/docs/)
+- [Alchemy university - solidity](https://university.alchemy.com/overview/solidity)
 
 
 ## Setting up a development environment
 - Linux distribution
   * [Ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
+  * [Ubuntu 23.11](https://releases.ubuntu.com/mantic/)
   * [Linux Mint](https://linuxmint.com/)
   * [MX Linux](https://mxlinux.org/)
+  * [Puppy Linux - best for old machines](https://puppylinux-woof-ce.github.io/)
+  * [Fedora](https://fedoraproject.org/en/workstation/)
+  * [CEntOs- best for enterprise deployments](https://www.centos.org/centos-stream/)
+  * [OpenSuse](https://www.opensuse.org/)
+  * [Linux Distribution watch](https://distrowatch.com/)
 
 - Windows
   * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   * [Ethereum developers guide to setting up WSL](https://consensys.net/blog/developers/ethereum-developers-guide-to-setting-up-windows-subsystem-for-linux/)
 
-- MacOS: Latest is v11 'BigSur' (Aug 2021)
+- MacOS: Latest is v13 'Sonoma' (sep 2023)
   * _you need an Apple computer to run MacOS_
   * [MacOS Monterey](https://www.apple.com/uk/macos/monterey/)
+  * [MacOS Monterey](https://www.apple.com/by/macos/monterey/)
+  * [MacOS Sonoma](https://www.apple.com/macos/sonoma/)
+
 
 - Options for Ethereum Nodes
   * [Nodes and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
@@ -36,7 +49,7 @@ This website has been developed as a companion to the AthensLabs Blockchain Deve
   * [Remix](https://remix.ethereum.org)
   * [Remix-Desktop](https://github.com/ethereum/remix-desktop)
   * [ethfiddle](https://ethfiddle.com/)
-  * [Atom](https://atom.io/)
+  * [Atom - no longer developed](https://atom.io/)
   * [Visual studio Code](https://code.visualstudio.com/)
   * [MS Visual Studio Live share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
   * [JetBrains Idea](https://www.jetbrains.com/idea)
@@ -101,9 +114,7 @@ This website has been developed as a companion to the AthensLabs Blockchain Deve
   * [Hyperledger](https://www.hyperledger.org/use/fabric)
   * [Corda](www.corda.net)
   * [IOTA](www.iota.org)
-
-  * [Alternative Distributed Ledger Technologies Blockchain vs. Tangle vs. Hashgraph - A High-Level Overview and Comparison
-](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144241)
+  * [Alternative Distributed Ledger Technologies Blockchain vs. Tangle vs. Hashgraph - A High-Level Overview and Comparison](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144241)
 
 
 ## Blockchain Basics
@@ -144,6 +155,7 @@ This website has been developed as a companion to the AthensLabs Blockchain Deve
   * [Merkle Tree Introduction](https://hackernoon.com/merkle-tree-introduction-4c44250e2da7)
   * [What is a Merkle Tree](httpe://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
   * [Merkle Tree Demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
+  * [Merkle Tree in solidity](https://soliditydeveloper.com/merkle-tree)
 
 - Blockchain Structure
   * [Security and Privacy issues on blockchain technology - intro to basic structure of BC](https://www.researchgate.net/publication/325173502_A_survey_on_security_and_privacy_issues_of_blockchain_technology)
@@ -151,8 +163,8 @@ This website has been developed as a companion to the AthensLabs Blockchain Deve
 
 - Building a Blockchain
   * [Learn Blockchains by Building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-  * [Create your own blockchain using python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
-  * [How to Build A Blockchain in Python](https://www.activestate.com/blog/how-to-build-a-blockchain-in-python/)
+  * [Create your own Blockchain using python](https://dzone.com/articles/how-to-create-your-own-cryptocurrency-blockchain-i)
+  * [How to build a Blockchain in Python](https://www.activestate.com/blog/how-to-build-a-blockchain-in-python/)
   * [How to create a blockchain in Python](https://www.section.io/engineering-education/how-to-create-a-blockchain-in-python/)
   * [Build a Blochchain in less than 60 lines of code](https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531)
   * [Blockchain basics on Solidity](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
@@ -223,17 +235,33 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - MainNet and TestNets
   * [Networks on Ethereum](https://ethereum.org/en/developers/docs/networks/)
   * [Development Networks](https://ethereum.org/en/developers/docs/development-networks/)
-  * [Kovan Test Network](https://kovan-testnet.github.io/website/)
-  * [Rinkeby Test Network](https://www.rinkeby.io/#stats)
-  * [Goerli Test Network](https://goerli.net/)
+  * [Sepolia Test Netowrk](https://sepolia.dev/)
+  * [Holesky Test Network](https://holesky.ethpandaops.io/)
+
   * [Connecting to public testnets](https://docs.openzeppelin.com/learn/connecting-to-public-test-networks)
   * [Testing Ethereum](https://www.innoq.com/en/blog/testing-ethereum/)
   * [How to set up a custom Ethereum Testnet](https://www.ulam.io/blog/how-to-setup-custom-ethereum-testnet/)
 
+
+  - Layer 2 testnets
+  * [Goerli for Abritrum](https://goerli.arbiscan.io/)
+  * [Goerli for Optimisim](https://goerli-optimism.etherscan.io/)
+  * [Goerli for Stacknet](https://faucet.goerli.starknet.io/)
+
+  - Consortium Networks
+  * [Create a private network](https://www.c-sharpcorner.com/article/setup-your-private-ethereum-network-with-geth2/)
+
+  
+
+- depreciated
+  * [Kovan Test Network](https://kovan-testnet.github.io/website/)
+  * [Rinkeby Test Network](https://www.rinkeby.io/#stats)
+  * [Goerli Test Network](https://goerli.net/)
+
 - Etherscan
   * [MainNet Etherscan](https://etherscan.io/)
-  * [Ropsten Etherscan](https://ropsten.etherscan.io/)
-  * [Rinkeby Etherscan](https://rinkeby.etherscan.io/)
+  * [Sepolia Etherscan](https://sepolia.etherscan.io/)
+  * [Holesky Etherscan](https://holesky.etherscan.io/)
 
 - Tokens and Token Standards
  - [EthWiki](https://eth.wiki/home)
@@ -253,20 +281,27 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Introduction
   * [Solidity Language Documentation](https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
-- Blockchain Development Tools
-    * [Truffle Suite](https://www.trufflesuite.com/)
-    * [Ganache GUI](https://www.trufflesuite.com/ganache)
-    * [Ganache CLI](https://github.com/trufflesuite/ganache-cli-archive)
-    * [Drizzle](https://www.trufflesuite.com/drizzle)
+- Blockchain Development Tools & Suites
+    * [Foundry](https://github.com/foundry-rs/foundry)
     * [Hardhat](https://hardhat.org/)
     * [Beginners Tutorial](https://hardhat.org/tutorial/)
+    * [Brownie - python based](https://github.com/eth-brownie/brownie)
+
+  - enterprise class
     * [Alchemy](https://www.alchemy.com/)
     * [Moralis](https://moralis.io/)
 
-- Structure of a truffle project
-  * [Trufflesuite guides](https://www.trufflesuite.com/guides)
-  * [Trufflesuite PetShop Tutorial](https://www.trufflesuite.com/tutorial)
+    Depreciated:
+    * [Truffle Suite- in the process of being sunset](https://www.trufflesuite.com/)
+    * [Ganache GUI](https://www.trufflesuite.com/ganache)
+    * [Ganache CLI](https://github.com/trufflesuite/ganache-cli-archive)
+    * [Drizzle](https://www.trufflesuite.com/drizzle)
+    * [Trufflesuite guides](https://www.trufflesuite.com/guides)
+    * [Trufflesuite PetShop Tutorial](https://www.trufflesuite.com/tutorial)
+    - Truffle Boxes (Templates to base your project on)
+      * [Truffle boxes](https://www.trufflesuite.com/boxes)
 
+  
 
 - Hardhat
   * [Hello world Tutorial with Hardhat](https://ethereum.org/en/developers/tutorials/waffle-say-hello-world-with-hardhat-and-ethers/)
@@ -278,19 +313,16 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Developer Tools guides
   * [Ethereum Developer tools by Consensys](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
-- Truffle Boxes (Templates to base your project on)
-  * [Truffle boxes](https://www.trufflesuite.com/boxes)
-
 
 
 ## Solidity Fundamentals
-* [Solidity Language](https://soliditylang.org/),
-* [Solidity Documentation](https://docs.soliditylang.org/),
+* [Solidity Language](https://soliditylang.org/)
+* [Solidity Documentation](https://docs.soliditylang.org/)
 * [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
 
 - Layout & Structure
-  * [Layout of a solidity file](https://docs.soliditylang.org/en/v0.8.7/layout-of-source-files.html)
-  * [Structure](https://docs.soliditylang.org/en/v0.8.7/structure-of-a-contract.html)
+  * [Layout of a solidity file](https://docs.soliditylang.org/en/v0.8.23/layout-of-source-files.html)
+  * [Structure](https://docs.soliditylang.org/en/v0.8.23/structure-of-a-contract.html)
 
 - Data Types and Variables
   * [Value Types](https://docs.soliditylang.org/en/v0.8.7/types.html#value-types)
@@ -360,7 +392,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
   * [Modular Network Lirbaries](https://github.com/modular-network/ethereum-libraries)
 
-- Smart Contract system Design
+- Smart Contract System Design
   * [Building your Dapp](https://docs.openzeppelin.com/learn/building-a-dapp)
   * [Towards better voting protocols](https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119/)
   * [Designing the architecture of your Ethereum application](https://blog.openzeppelin.com/designing-the-architecture-for-your-ethereum-application-9cec086f8317/)
@@ -368,7 +400,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Writing a Smart Contract - proof of existence
   * [Proof of Existence](https://github.com/ramyhardan/proof-of-existence)
 
-- Examples:
+- Types of Smart Contracts
 * [Simple Bank](https://nicogs.medium.com/building-a-bank-with-solidity-for-beginners-ethereum-blockchain-development-tutorial-ba50ce6e8eb0)
 * [Multi-signature Wallet](https://github.com/ConsenSys-Academy/multisig-wallet-exercise)
 * [Supply Chain](https://github.com/ConsenSys-Academy/supply-chain-exercise)
@@ -376,8 +408,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 - Examples: Deploying a Voting Smart Contract
 * [Deploying a Voting Smart Contract](https://www.youtube.com/watch?v=GB3hiiNNDjk)
+
 - Games
   * [CryptoZombies](https://cryptozombies.io/)
+
 - Guides  
   * [Ethereumdev.io](https://ethereumdev.io/)
   * [Solidity Developer](https://soliditydeveloper.com/blog)
@@ -422,23 +456,16 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 - Web3 libraries as frontends for smart contracts 
-  * Web3.js [wWb3.js](https://web3js.readthedocs.io/en/v1.7.3/)
+  * Web3.js [web3.js](https://web3js.readthedocs.io/en/v1.7.3/)
   * Ether.js [Ether.js](https://docs.ethers.io/v3/)
 
 - Web3 and Python interaction - frontend
 * Web3.py [web3.py](https://web3py.readthedocs.io/en/stable/)
 
 
-## Templates for creating Dapps
-  * Blockchain Integrated - via Ganache:
-  * [Truffle Boxes](https://www.trufflesuite.com/boxes)
-  * Blockchain NOT integrated:
-  * [create-react-app](https://create-react-app.dev/)
-  * [create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
-
 ## Testing & Debugging
+//: # (add more good links here)
 
-[//]: # (add more good links here)
 - Why test?
   * [What is unit testing?](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
   * [Why Testable Code matters: Unit Testing](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
@@ -454,7 +481,11 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Solidity Unit Testing using Remix](https://remix-ide.readthedocs.io/en/latest/unittesting.html)
 
 - Tests in Javascript
+  * [Unit tests in javascript](https://docs.alchemy.com/docs/how-to-unit-test-a-smart-contract)
 - Catching Errors In Tests
+* [catching errors in solidity](https://codeforgeek.com/error-testing-smart-contract-in-solidity/)
+* [common smart contract errors](https://blog.tenderly.co/how-to-debug-common-smart-contract-errors/)
+
 - Smart Contract Best Practices
   * [Smart Contracts best practices](https://consensys.github.io/smart-contract-best-practices/)
   * [Known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
@@ -466,7 +497,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Transaction Origin attack Demo
 - DoS Example
 - Re-entrancy example
-- Integer under/overflow (until 0.7.0)
 
 ## Full Learning Guides
 - Alchemy University
@@ -474,10 +504,14 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 # Frameworks
 
-
+* Foundry 
 * [Foundry](https://github.com/foundry-rs/foundry)
+* [Foundry book](https://book.getfoundry.sh/)
+
 
 * Brownie
+* [Brownie](https://github.com/eth-brownie/brownie)
+* [Brownie Documentation](https://eth-brownie.readthedocs.io/en/stable/)
 
 ## Learning through Gamification
 - Security Games
@@ -500,7 +534,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Developer Video guides
-- [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
 - [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [Generative NFTs : HashLips](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
