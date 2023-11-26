@@ -8,15 +8,21 @@ It is designed as a series of structured links and content that will provide you
 
 ## Onboarding
 - [Consensys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
-- [Developer onboarding on Ethereum - Consensys](https://consensys.net/developers/10-minute-ethereum-orientation/)
 - [Developer onboarding on Ethereum - Ethereum.org](https://ethereum.org/en/developers/docs/)
+- [Alchemy university - solidity](https://university.alchemy.com/overview/solidity)
 
 
 ## Setting up a development environment
 - Linux distribution
   * [Ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
+  * [Ubuntu 23.11](https://releases.ubuntu.com/mantic/)
   * [Linux Mint](https://linuxmint.com/)
   * [MX Linux](https://mxlinux.org/)
+  * [Puppy Linux - best for old machines](https://puppylinux-woof-ce.github.io/)
+  * [Fedora](https://fedoraproject.org/en/workstation/)
+  * [CEntOs- best for enterprise deployments](https://www.centos.org/centos-stream/)
+  * [OpenSuse](https://www.opensuse.org/)
+  * [Linux Distribution watch](https://distrowatch.com/)
 
 - Windows
   * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
@@ -25,6 +31,9 @@ It is designed as a series of structured links and content that will provide you
 - MacOS: Latest is v11 'BigSur' (Aug 2021)
   * _you need an Apple computer to run MacOS_
   * [MacOS Monterey](https://www.apple.com/uk/macos/monterey/)
+  * [MacOS Monterey](https://www.apple.com/by/macos/monterey/)
+  * [MacOS Sonoma](https://www.apple.com/macos/sonoma/)
+
 
 - Options for Ethereum Nodes
   * [Nodes and clients on Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
@@ -459,6 +468,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 - Tests in Javascript
 - Catching Errors In Tests
+
 - Smart Contract Best Practices
   * [Smart Contracts best practices](https://consensys.github.io/smart-contract-best-practices/)
   * [Known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
@@ -470,7 +480,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Transaction Origin attack Demo
 - DoS Example
 - Re-entrancy example
-- Integer under/overflow (until 0.7.0)
 
 ## Full Learning Guides
 - Alchemy University
@@ -478,10 +487,14 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 # Frameworks
 
-
+* Foundry 
 * [Foundry](https://github.com/foundry-rs/foundry)
+* [Foundry book](https://book.getfoundry.sh/)
+
 
 * Brownie
+* [Brownie](https://github.com/eth-brownie/brownie)
+* [Brownie Documentation](https://eth-brownie.readthedocs.io/en/stable/)
 
 ## Learning through Gamification
 - Security Games
@@ -504,7 +517,6 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Developer Video guides
-- [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
 - [Create a complete NFT dapp](https://www.youtube.com/watch?v=WsZyb2T83lo)
 - [Generative NFTs : HashLips](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
 - [10 blockchain ideas for beginners](https://www.youtube.com/watch?v=WsZyb2T83lo)
