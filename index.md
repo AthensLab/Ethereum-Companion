@@ -465,6 +465,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 ## Testing & Debugging
 //: # (add more good links here)
+
 - Why test?
   * [What is unit testing?](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
   * [Why Testable Code matters: Unit Testing](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
@@ -480,7 +481,10 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Solidity Unit Testing using Remix](https://remix-ide.readthedocs.io/en/latest/unittesting.html)
 
 - Tests in Javascript
+  * [Unit tests in javascript](https://docs.alchemy.com/docs/how-to-unit-test-a-smart-contract)
 - Catching Errors In Tests
+* [catching errors in solidity](https://codeforgeek.com/error-testing-smart-contract-in-solidity/)
+* [common smart contract errors](https://blog.tenderly.co/how-to-debug-common-smart-contract-errors/)
 
 - Smart Contract Best Practices
   * [Smart Contracts best practices](https://consensys.github.io/smart-contract-best-practices/)
